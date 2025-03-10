@@ -1,7 +1,7 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-logo: /img/jkan.png
+title: Data Rescue Project
+greeting: Data Rescue Project portal
+description: Links to public data archived through combined efforts and coordinated by the Data Rescue Project.
+logo: /img/drp-brand-3.png
 hero_image: /img/homepage-hero.jpg
 strict_front_matter: true
 
@@ -9,7 +9,7 @@ strict_front_matter: true
 jkan_theme: Default
 
 # Dataset schema
-schema: default
+schema: data_rescue_project
 
 # Nav bar
 navigation:
