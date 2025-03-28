@@ -1,3 +1,17 @@
+body{
+  font-family: Helvetica, arial, sans-serif;
+}
+
+h1{
+  font-size: 2.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 input[data-hook=search-query] {
   display: none;
 }
@@ -54,6 +68,7 @@ dataset {
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   grid-gap: 1rem;
   grid-auto-flow: dense;
+  margin-top: 15px;
 }
 
 .card-grid-organizations {
@@ -91,4 +106,9 @@ dataset {
   background-color: #e9ecef;
   padding: .75rem 1rem;
   border-radius: .25rem;
+}
+
+a{
+  color: #007bff;
+  text-decoration: none;
 }

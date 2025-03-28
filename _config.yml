@@ -11,6 +11,13 @@ jkan_theme: Default
 # Dataset schema
 schema: data_rescue_project
 
+# pagination
+pagination:
+  enabled: true
+  collection: organizations
+  per_page: 15
+  permalink: 'organizations/:num/'
+
 # Nav bar
 navigation:
   - title: Datasets
