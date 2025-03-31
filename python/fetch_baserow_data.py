@@ -4,11 +4,11 @@ import requests
 # import numpy as np
 import os
 
-BASEROW_ACCESS_TOKEN = "rS0kZr4TRauacDsiObLy2Zly512HVd3S" # os.environ.get("BASEROW_ACCESS_TOKEN")
+BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
 
 def get_arr_vals(arr):
-        return ", ".join([x["value"] for x in arr])
+    return ", ".join([x["value"] for x in arr])
 
 
 def process_dataset_row(d):
