@@ -7,8 +7,32 @@ import os
 BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
 
-def get_arr_vals(arr):
-    return ", ".join([x["value"] for x in arr])
+def get_results_json(url):
+    table = requests.get(
+        url,
+        headers={
+            "Authorization": f"Token {BASEROW_ACCESS_TOKEN}"
+        }
+    )
+
+    res = table.json()['results']
+    if table.json()['next'] is not None:
+        res.extend(get_results_json(table.json()['next']))
+
+    return res
+
+
+def get_arr_vals(arr, col):
+    return ", ".join([str(x[col]) for x in arr])
+
+
+def check_missing_vals(field, col="value"):
+    if len(field) > 0:
+        val = get_arr_vals(field, col=col)
+    else:
+        val = ""
+    
+    return val
 
 
 def process_dataset_row(d):
@@ -17,68 +41,56 @@ def process_dataset_row(d):
         "notes": d["Notes"],
         "dataset_id": d["id"],
         "url": d["URL"],
-        "websites": get_arr_vals(d["Websites"]),
-        "organization": get_arr_vals(d["Organization"]),
-        "agency": get_arr_vals(d["Agency"]),
+        "websites": get_arr_vals(d["Websites"], col="value"),
+        "organization": get_arr_vals(d["Organization"], col="value"),
+        "agency": get_arr_vals(d["Agency"], col="value"),
         "last_modified": d["Last modified"],
         "last_modified_by": d["Last modified by"]["name"]
     }
 
 
 def process_backup_row(d):
-    if d["Metadata Available"]:
-        metadata_avl = d["Metadata Available"]["value"]
+    if len(d["Dataset"]) > 0:
+        if d["Metadata Available"]:
+            metadata_avl = d["Metadata Available"]["value"]
+        else:
+            metadata_avl = ""
+        return {
+            "dataset": check_missing_vals(d["Dataset"], col="value"),
+            "dataset_id": check_missing_vals(d["Dataset"], col="id"),
+            "status": d["Status"]["value"],
+            "url": check_missing_vals(d["Dataset URL"], col="value"),
+            "source_website": check_missing_vals(d["Website"], col="value"),
+            "organization": check_missing_vals(d["Organization"], col="value"),
+            "agency": check_missing_vals(d["Agency"], col="value"),
+            "download_date": d["Backup date"],
+            "size": d["Backup size"],
+            "maintainer": get_arr_vals(d["Maintainer"], col="value"),
+            "download_location": d["Backup location"],
+            "file_type": get_arr_vals(d["File type"], col="value"),
+            "notes": d["Notes"],
+            "metadata_available": metadata_avl,
+            "metadata_url": d["Metadata URL"]
+        }
     else:
-        metadata_avl = ""
-    return {
-        "dataset": d["Dataset"][0]["value"],
-        "dataset_id": d["Dataset"][0]["id"],
-        "status": d["Status"]["value"],
-        "url": d["Dataset URL"][0]["value"],
-        "source_website": d["Website"][0]["value"],
-        "organization": d["Organization"][0]["value"],
-        "agency": d["Agency"][0]["value"],
-        "download_date": d["Backup date"],
-        "size": d["Backup size"],
-        "maintainer": get_arr_vals(d["Maintainer"]),
-        "download_location": d["Backup location"],
-        "file_type": get_arr_vals(d["File type"]),
-        "notes": d["Notes"],
-        "metadata_available": metadata_avl,
-        "metadata_url": d["Metadata URL"]
-    }
+        return
 
 
-backups_table = requests.get(
-    (
-        "https://baserow.datarescueproject.org/api/database/rows/table/640/"
-        "?user_field_names=true"
-    ),
-    headers={
-        "Authorization": f"Token {BASEROW_ACCESS_TOKEN}"
-    }
-)
+dataset_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/639/?user_field_names=true")
+backups_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true")
 
 rows = []
-for row in backups_table.json()['results']:
+for row in backups_table:
     rows.append(process_backup_row(row))
 
+rows = [row for row in rows if row is not None]
 backups = pd.DataFrame(rows)
 
-dataset_table = requests.get(
-    (
-        "https://baserow.datarescueproject.org/api/database/rows/table/639/"
-        "?user_field_names=true"
-    ),
-    headers={
-        "Authorization": f"Token {BASEROW_ACCESS_TOKEN}"
-    }
-)
-
 rows = []
-for row in dataset_table.json()['results']:
+for row in dataset_table:
     rows.append(process_dataset_row(row))
 
+rows = [row for row in rows if row is not None]
 datasets = pd.DataFrame(rows)
 
 datasets.to_csv("baserow_exports/datarescue_datasets.csv", index=False)
