@@ -4,7 +4,7 @@ title: Infrared (IR) Sounder Atmospheric Temperature and Humidity Profiles, Vers
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/data/irs-temperature-and-humidity/
+data_source: https://www.ncei.noaa.gov/data/irs-temperature-and-humidity/
 description: 
 last_modified: 2025-03-22
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01713
 resources:
   - id: 593
-    url: archive.org/details/irs-temperature-and-humidity_1
+    url: https://archive.org/details/irs-temperature-and-humidity_1
     format: nc
     status: Finished
     size: 840.0

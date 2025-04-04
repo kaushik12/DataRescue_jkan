@@ -4,7 +4,7 @@ title: Museum Data Files (MDF)
 organization: Institute of Museum and Library Services
 agency: Institute of Museum and Library Services
 websites: imls.gov
-data_source: www.imls.gov/research-evaluation/data-collection/museum-data-files
+data_source: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
 description: 
 last_modified: 2025-03-26
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 99
-    url: www.datalumos.org/datalumos/project/219155/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/219155/version/V1/view
     format: ZIP, PDF
     status: Finished
     size: 

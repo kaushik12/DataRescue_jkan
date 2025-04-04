@@ -4,7 +4,7 @@ title: USPTO PatentsView Bulk Download Database Tables
 organization: USPTO
 agency: Department of Commerce
 websites: uspto.gov
-data_source: patentsview.org/download/data-download-tables
+data_source: https://patentsview.org/download/data-download-tables
 description: 
 last_modified: 2025-03-22
 last_modified_by: Cataloger

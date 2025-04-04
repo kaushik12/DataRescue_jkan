@@ -4,7 +4,7 @@ title: National Mental Health Services Survey (N-MHSS)
 organization: Substance Abuse and Mental Health Services Administration
 agency: Department of Health and Human Services
 websites: samhsa.gov
-data_source: www.samhsa.gov/data/data-we-collect/n-mhss
+data_source: https://www.samhsa.gov/data/data-we-collect/n-mhss
 description: 
 last_modified: 2025-04-01
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 94
-    url: www.datalumos.org/datalumos/project/218663/version/V2/view
+    url: https://www.datalumos.org/datalumos/project/218663/version/V2/view
     format: ZIP, PDF
     status: Finished
     size: 

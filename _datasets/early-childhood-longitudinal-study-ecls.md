@@ -4,7 +4,7 @@ title: Early Childhood Longitudinal Study (ECLS)
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: nces.ed.gov
-data_source: nces.ed.gov/ecls/
+data_source: https://nces.ed.gov/ecls/
 description: 
 last_modified: 2025-03-26
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 283
-    url: www.dropbox.com/scl/fo/lln2u5gvljs5rqik0z6wa/AE3oE-crYW3Aloixa3QV2jY?rlkey=vpxvk6lns1uwjtzae0b1uwfts&dl=0
+    url: https://www.dropbox.com/scl/fo/lln2u5gvljs5rqik0z6wa/AE3oE-crYW3Aloixa3QV2jY?rlkey=vpxvk6lns1uwjtzae0b1uwfts&dl=0
     format: 
     status: Finished
     size: 

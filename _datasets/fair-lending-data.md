@@ -4,7 +4,7 @@ title: Fair Lending Data
 organization: Federal Housing Finance Agency
 agency: Federal Housing Finance Agency
 websites: fhfa.gov
-data_source: www.fhfa.gov/document/fair-lending-data-files
+data_source: https://www.fhfa.gov/document/fair-lending-data-files
 description: 
 last_modified: 2025-03-11
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 411
-    url: www.datalumos.org/datalumos/project/222281/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/222281/version/V1/view
     format: CSV
     status: Finished
     size: 

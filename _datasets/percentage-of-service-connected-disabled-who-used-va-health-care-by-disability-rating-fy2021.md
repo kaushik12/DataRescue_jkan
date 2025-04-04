@@ -4,7 +4,7 @@ title: Percentage of Service-Connected Disabled Who Used VA Health Care by Disab
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov
-data_source: www.data.va.gov/dataset/Percentage-of-Service-Connected-Disabled-Who-Used-/8fua-qvw7
+data_source: https://www.data.va.gov/dataset/Percentage-of-Service-Connected-Disabled-Who-Used-/8fua-qvw7
 description: 
 last_modified: 2025-03-04
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 338
-    url: www.datalumos.org/datalumos/project/221301/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/221301/version/V1/view
     format: CSV, PDF
     status: Finished
     size: 

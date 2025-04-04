@@ -4,7 +4,7 @@ title: Climate Change and Human Health Literature Portal
 organization: National Institutes of Health
 agency: Department of Health and Human Services
 websites: niehs.nih.gov
-data_source: tools.niehs.nih.gov/cchhl/index.cfm
+data_source: https://tools.niehs.nih.gov/cchhl/index.cfm
 description: 
 last_modified: 2025-03-20
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 516
-    url: www.datalumos.org/datalumos/project/222402/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/222402/version/V1/view
     format: CSV, JSON
     status: Finished
     size: 0.11

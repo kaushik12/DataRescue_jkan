@@ -4,7 +4,7 @@ title: Palmer Drought Severity Index (PDSI)
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: noaa.gov
-data_source: www.noaa.gov/
+data_source: https://www.noaa.gov/
 description: 
 last_modified: 2025-03-02
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 315
-    url: www.dropbox.com/scl/fo/v7d7ulks25vq3fuwn97ab/AKHmCDCMtKyQAOPyWSqPC04?rlkey=3jefqqro0jwn75gcso80m8w5f&dl=0
+    url: https://www.dropbox.com/scl/fo/v7d7ulks25vq3fuwn97ab/AKHmCDCMtKyQAOPyWSqPC04?rlkey=3jefqqro0jwn75gcso80m8w5f&dl=0
     format: 
     status: Finished
     size: 

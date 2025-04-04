@@ -4,7 +4,7 @@ title: Interagency Data inventory
 organization: Departmental Offices
 agency: Department of the Treasury
 websites: financialresearch.gov
-data_source: www.financialresearch.gov/data/interagency-data-inventory/
+data_source: https://www.financialresearch.gov/data/interagency-data-inventory/
 description: 
 last_modified: 2025-03-04
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 342
-    url: www.datalumos.org/datalumos/project/220501/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/220501/version/V1/view
     format: XLSX
     status: Finished
     size: 

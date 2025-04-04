@@ -4,7 +4,7 @@ title: Justice 40 - Energy Burden Optimization Model Decision Support Tool
 organization: Lawrence Berkeley National Laboratory
 agency: Department of Energy
 websites: justice40tool.lbl.gov
-data_source: justice40tool.lbl.gov/
+data_source: https://justice40tool.lbl.gov/
 description: 
 last_modified: 2025-02-12
 last_modified_by: Gabrielle

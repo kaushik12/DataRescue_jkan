@@ -4,7 +4,7 @@ title: Building Code Adoption Tracking
 organization: Federal Emergency Management Agency
 agency: Department of Homeland Security
 websites: fema.gov
-data_source: stantec.maps.arcgis.com/apps/MapSeries/index.html?appid=a053ac48343c4217ab4184bc8759c350
+data_source: https://stantec.maps.arcgis.com/apps/MapSeries/index.html?appid=a053ac48343c4217ab4184bc8759c350
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger

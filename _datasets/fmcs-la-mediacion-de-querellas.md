@@ -4,7 +4,7 @@ title: FMCS La Mediacion de Querellas
 organization: Federal Mediation and Conciliation Service
 agency: Federal Mediation and Conciliation Service
 websites: fmcs.gov
-data_source: www.fmcs.gov/resources/documents-and-data/
+data_source: https://www.fmcs.gov/resources/documents-and-data/
 description: 
 last_modified: 2025-03-31
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 660
-    url: www.datalumos.org/datalumos/project/223065/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/223065/version/V1/view
     format: 
     status: Finished
     size: 

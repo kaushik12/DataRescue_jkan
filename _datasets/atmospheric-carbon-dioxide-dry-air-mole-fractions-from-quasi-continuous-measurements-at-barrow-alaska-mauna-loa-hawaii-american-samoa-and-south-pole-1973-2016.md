@@ -4,7 +4,7 @@ title: Atmospheric Carbon Dioxide Dry Air Mole Fractions from  quasi-continuous 
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/data/carbon-cycle-and-greenhouse-gases-esrl-gmd/
+data_source: https://www.ncei.noaa.gov/data/carbon-cycle-and-greenhouse-gases-esrl-gmd/
 description: 
 last_modified: 2025-03-27
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 613
-    url: archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd
+    url: https://archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd
     format: nc, TXT
     status: Finished
     size: 0.14

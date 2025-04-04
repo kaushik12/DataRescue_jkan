@@ -4,7 +4,7 @@ title: 2018 CDFI Program Awardee Performance Data Snapshot
 organization: CDFI
 agency: Department of the Treasury
 websites: cdfifund.gov
-data_source: www.cdfifund.gov/sites/cdfi/files/2021-08/CDFIFY2018-Performance-Data.pdf
+data_source: https://www.cdfifund.gov/sites/cdfi/files/2021-08/CDFIFY2018-Performance-Data.pdf
 description: 
 last_modified: 2025-03-31
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 671
-    url: www.datalumos.org/datalumos/project/224367/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/224367/version/V1/view
     format: 
     status: Finished
     size: 

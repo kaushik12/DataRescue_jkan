@@ -4,7 +4,7 @@ title: Safe Drinking Water Information System (SDWIS)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: epa.gov
-data_source: www.epa.gov/ground-water-and-drinking-water/safe-drinking-water-information-system-sdwis-federal-reporting
+data_source: https://www.epa.gov/ground-water-and-drinking-water/safe-drinking-water-information-system-sdwis-federal-reporting
 description: 
 last_modified: 2025-03-02
 last_modified_by: Gabrielle

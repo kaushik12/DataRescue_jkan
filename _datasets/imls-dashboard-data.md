@@ -4,7 +4,7 @@ title: IMLS Dashboard Data
 organization: Institute of Museum and Library Services
 agency: Institute of Museum and Library Services
 websites: imls.gov
-data_source: imls.gov/imls-dashboard
+data_source: https://imls.gov/imls-dashboard
 description: 
 last_modified: 2025-03-22
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 595
-    url: box.hu-berlin.de/f/7a630b642def4ef58931/
+    url: https://box.hu-berlin.de/f/7a630b642def4ef58931/
     format: CSV
     status: Finished
     size: 0.01

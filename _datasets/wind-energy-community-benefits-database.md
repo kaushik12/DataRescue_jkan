@@ -4,7 +4,7 @@ title: Wind Energy Community Benefits Database
 organization: US Department of Energy - Office of the CIO
 agency: Department of Energy
 websites: windexchange.energy.gov
-data_source: windexchange.energy.gov/projects/community-benefit-agreements
+data_source: https://windexchange.energy.gov/projects/community-benefit-agreements
 description: 
 last_modified: 2025-02-12
 last_modified_by: Gabrielle
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 72
-    url: github.com/oedp/doe-wind-exchange
+    url: https://github.com/oedp/doe-wind-exchange
     format: CSV
     status: Finished
     size: 

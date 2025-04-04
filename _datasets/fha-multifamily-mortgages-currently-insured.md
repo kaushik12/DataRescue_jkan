@@ -4,7 +4,7 @@ title: FHA Multifamily Mortgages Currently Insured
 organization: Web Master Pulic Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
-data_source: www.hud.gov/program_offices/housing/comp/mf_fhasl_active
+data_source: https://www.hud.gov/program_offices/housing/comp/mf_fhasl_active
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 161
-    url: www.datalumos.org/datalumos/project/219941/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/219941/version/V1/view
     format: 
     status: Finished
     size: 

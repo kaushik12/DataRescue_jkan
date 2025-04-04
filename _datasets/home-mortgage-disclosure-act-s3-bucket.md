@@ -4,7 +4,7 @@ title: Home Mortgage Disclosure Act S3 Bucket
 organization: Consumer Financial Protection Bureau
 agency: Consumer Financial Protection Bureau
 websites: ffiec.cfpb.gov
-data_source: s3.amazonaws.com/cfpb-hmda-public/prod/
+data_source: https://s3.amazonaws.com/cfpb-hmda-public/prod/
 description: 
 last_modified: 2025-02-25
 last_modified_by: Admin

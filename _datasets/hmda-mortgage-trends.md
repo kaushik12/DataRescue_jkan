@@ -4,7 +4,7 @@ title: HMDA Mortgage Trends
 organization: Consumer Financial Protection Bureau
 agency: Consumer Financial Protection Bureau
 websites: consumerfinance.gov
-data_source: www.consumerfinance.gov/data-research/hmda/
+data_source: https://www.consumerfinance.gov/data-research/hmda/
 description: 
 last_modified: 2025-03-04
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 341
-    url: www.datalumos.org/datalumos/project/220462/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/220462/version/V1/view
     format: ZIP
     status: Finished
     size: 

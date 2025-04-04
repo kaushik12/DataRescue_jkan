@@ -4,7 +4,7 @@ title: Facility Registry Service (FRS)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: epa.gov
-data_source: www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
+data_source: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
 description: 
 last_modified: 2025-03-02
 last_modified_by: Gabrielle
@@ -18,5 +18,5 @@ resources:
     size: 
     download_date: 
     maintainer: ESRI
-    notes: www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads,  www.epa.gov/frs
+    notes: https//www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads,  https//www.epa.gov/frs
 ---

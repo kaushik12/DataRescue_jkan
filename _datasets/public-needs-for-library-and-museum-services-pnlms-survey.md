@@ -4,7 +4,7 @@ title: Public Needs for Library and Museum Services (PNLMS) Survey
 organization: Institute of Museum and Library Services
 agency: Institute of Museum and Library Services
 websites: imls.gov
-data_source: www.imls.gov/research-evaluation/data-collection/public-needs-library-and-museum-services-survey
+data_source: https://www.imls.gov/research-evaluation/data-collection/public-needs-library-and-museum-services-survey
 description: 
 last_modified: 2025-03-26
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 100
-    url: www.datalumos.org/datalumos/project/219021/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/219021/version/V1/view
     format: ZIP
     status: Finished
     size: 

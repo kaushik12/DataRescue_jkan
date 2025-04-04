@@ -4,7 +4,7 @@ title: Microwave Sounder Temperature Sounding Brightness Temperature (BT) Climat
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/data/amsu-a-brightness-temperature/
+data_source: https://www.ncei.noaa.gov/data/amsu-a-brightness-temperature/
 description: 
 last_modified: 2025-03-25
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 354
-    url: archive.org/details/amsu-a-brightness-temperature
+    url: https://archive.org/details/amsu-a-brightness-temperature
     format: nc
     status: Finished
     size: 231.0

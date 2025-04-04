@@ -4,7 +4,7 @@ title: Area Health Resource Files
 organization: Health Resources and Services Administration
 agency: Department of Health and Human Services
 websites: data.hrsa.gov
-data_source: data.hrsa.gov/data/download
+data_source: https://data.hrsa.gov/data/download
 description: 
 last_modified: 2025-02-17
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 82
-    url: www.datalumos.org/datalumos/project/219145
+    url: https://www.datalumos.org/datalumos/project/219145
     format: SAS, ASC, DPC, XLSX
     status: Finished
     size: 0.85

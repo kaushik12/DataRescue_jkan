@@ -4,7 +4,7 @@ title: Enforcement and Compliance History Online (ECHO)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: echo.epa.gov
-data_source: echo.epa.gov/
+data_source: https://echo.epa.gov/
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -20,7 +20,7 @@ resources:
     maintainer: DRP
     notes: 
   - id: 193
-    url: dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/TUMSLH
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TUMSLH
     format: CSV, DOCX, XLSX, tab
     status: Finished
     size: 2.2

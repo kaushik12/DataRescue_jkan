@@ -4,7 +4,7 @@ title: United States Geological Survey
 organization: U.S. Geological Survey
 agency: Department of the Interior
 websites: usgs.gov
-data_source: rockyweb.usgs.gov
+data_source: https://rockyweb.usgs.gov
 description: 
 last_modified: 2025-02-11
 last_modified_by: Cataloger

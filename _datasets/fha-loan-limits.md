@@ -4,7 +4,7 @@ title: FHA Loan Limits
 organization: Web Master Pulic Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
-data_source: portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/lender/origination/mortgage_limits
+data_source: http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/lender/origination/mortgage_limits
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger

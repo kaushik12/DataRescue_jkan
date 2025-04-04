@@ -4,7 +4,7 @@ title: FEC Campaign Finance Data
 organization: GSA -FAS -Technology Transformation Service
 agency: General Services Administration
 websites: fec.gov
-data_source: www.fec.gov/data/browse-data/?tab=bulk-data
+data_source: https://www.fec.gov/data/browse-data/?tab=bulk-data
 description: 
 last_modified: 2025-02-25
 last_modified_by: Cataloger

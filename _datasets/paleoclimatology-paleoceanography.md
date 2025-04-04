@@ -4,7 +4,7 @@ title: Paleoclimatology  Paleoceanography
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/products/paleoclimatology/paleoceanography
+data_source: https://www.ncei.noaa.gov/products/paleoclimatology/paleoceanography
 description: 
 last_modified: 2025-03-02
 last_modified_by: Gabrielle

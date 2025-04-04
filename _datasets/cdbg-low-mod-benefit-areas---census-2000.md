@@ -4,7 +4,7 @@ title: CDBG Low-Mod Benefit Areas - Census 2000
 organization: Department of Housing and Urban Development
 agency: Department of Housing and Urban Development
 websites: hudexchange.info
-data_source: www.hudexchange.info/manage-a-program/census/low-mod-income-summary-data/
+data_source: https://www.hudexchange.info/manage-a-program/census/low-mod-income-summary-data/
 description: 
 last_modified: 2025-03-20
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 503
-    url: www.datalumos.org/datalumos/project/220601/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/220601/version/V1/view
     format: 
     status: Finished
     size: 

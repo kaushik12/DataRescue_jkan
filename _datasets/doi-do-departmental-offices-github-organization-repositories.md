@@ -4,7 +4,7 @@ title: DOI-DO (Departmental Offices) GitHub organization repositories
 organization: Office of Communications
 agency: Department of the Interior
 websites: doi.gov
-data_source: github.com/DOI-DO
+data_source: https://github.com/DOI-DO
 description: 
 last_modified: 2025-02-12
 last_modified_by: Gabrielle
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 73
-    url: github.com/DOI-DO-clone
+    url: https://github.com/DOI-DO-clone
     format: Git
     status: Finished
     size: 

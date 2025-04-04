@@ -4,7 +4,7 @@ title: openEDI GitHub Organization Repositories
 organization: Department of Energy
 agency: Department of Energy
 websites: github.com/openEDI
-data_source: github.com/openEDI
+data_source: https://github.com/openEDI
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 71
-    url: github.com/openEDI-clone
+    url: https://github.com/openEDI-clone
     format: Git
     status: Finished
     size: 

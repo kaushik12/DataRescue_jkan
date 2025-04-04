@@ -4,7 +4,7 @@ title: American Communities Survey (ACS)
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
-data_source: www.census.gov/programs-surveys/acs
+data_source: https://www.census.gov/programs-surveys/acs
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 61
-    url: livingatlas.arcgis.com/en/browse/?q=ACS%20by%20@esri_demographics#d=2&q=ACS+by+%40esri_demographics&type=layers
+    url: https://livingatlas.arcgis.com/en/browse/?q=ACS%20by%20@esri_demographics#d=2&q=ACS+by+%40esri_demographics&type=layers
     format: 
     status: Finished
     size: 

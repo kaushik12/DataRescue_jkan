@@ -4,7 +4,7 @@ title: Global Surface Summary of the Day Data (GSOD)
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/data/global-summary-of-the-day/
+data_source: https://www.ncei.noaa.gov/data/global-summary-of-the-day/
 description: 
 last_modified: 2025-03-20
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 521
-    url: archive.org/details/global-surface-summary-day
+    url: https://archive.org/details/global-surface-summary-day
     format: CSV, TAR
     status: Finished
     size: 2.71

@@ -4,7 +4,7 @@ title: standardized precipitation evapotranspiration index (1895-2016)/cdc - ev 
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
-data_source: www.cdc.gov/index.html
+data_source: https://www.cdc.gov/index.html
 description: 
 last_modified: 2025-03-02
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 322
-    url: www.dropbox.com/scl/fo/5scppwowkul9892x3nq93/AIXtDDlc8tcEkiMwpO37k0w?rlkey=0n1dltypab85t5rp5aueu2bt5&dl=0
+    url: https://www.dropbox.com/scl/fo/5scppwowkul9892x3nq93/AIXtDDlc8tcEkiMwpO37k0w?rlkey=0n1dltypab85t5rp5aueu2bt5&dl=0
     format: 
     status: Finished
     size: 

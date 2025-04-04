@@ -4,7 +4,7 @@ title: Demographic Health Survey (DHS) Indicator Data
 organization: M/CIO
 agency: U.S. Agency for International Development
 websites: usaid.gov
-data_source: spatialdata.dhsprogram.com/home/
+data_source: https://spatialdata.dhsprogram.com/home/
 description: 
 last_modified: 2025-03-28
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 617
-    url: www.datalumos.org/datalumos/project/224462/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/224462/version/V1/view
     format: CSV, HTML, ZIP
     status: Finished
     size: 4.8

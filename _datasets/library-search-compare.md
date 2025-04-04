@@ -4,7 +4,7 @@ title: Library Search & Compare
 organization: Institute of Museum and Library Services
 agency: Institute of Museum and Library Services
 websites: imls.gov
-data_source: www.imls.gov/search-compare
+data_source: https://www.imls.gov/search-compare
 description: 
 last_modified: 2025-02-21
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 104
-    url: www.datalumos.org/datalumos/project/218902/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/218902/version/V1/view
     format: ZIP, PDF
     status: Finished
     size: 

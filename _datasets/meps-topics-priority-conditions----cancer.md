@@ -4,7 +4,7 @@ title: MEPS Topics Priority Conditions -- Cancer
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov
-data_source: meps.ahrq.gov/mepsweb/data_stats/MEPS_topics.jsp?topicid=4Z6
+data_source: https://meps.ahrq.gov/mepsweb/data_stats/MEPS_topics.jsp?topicid=4Z6
 description: 
 last_modified: 2025-03-18
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 485
-    url: www.datalumos.org/datalumos/project/222581/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/222581/version/V1/view
     format: PDF
     status: Finished
     size: 

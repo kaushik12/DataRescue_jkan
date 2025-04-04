@@ -4,7 +4,7 @@ title: BLS Downloads
 organization: Bureau of Labor Statistics
 agency: Department of Labor
 websites: download.bls.gov
-data_source: download.bls.gov
+data_source: https://download.bls.gov
 description: 
 last_modified: 2025-02-10
 last_modified_by: Admin

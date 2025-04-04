@@ -4,7 +4,7 @@ title: National Law Enforcement Accountability Database Report & Indicators, 201
 organization: Office of Justice Programs
 agency: Department of Justice
 websites: bjs.ojp.gov
-data_source: bjs.ojp.gov/library/publications/national-law-enforcement-accountability-database-2018-2023
+data_source: https://bjs.ojp.gov/library/publications/national-law-enforcement-accountability-database-2018-2023
 description: 
 last_modified: 2025-02-28
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 179
-    url: www.datalumos.org/datalumos/project/221044/
+    url: https://www.datalumos.org/datalumos/project/221044/
     format: PDF, CSV
     status: Finished
     size: 

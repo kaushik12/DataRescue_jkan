@@ -4,7 +4,7 @@ title: United States Wetlands Map
 organization: U.S. Geological Survey
 agency: Department of the Interior
 websites: wim.usgs.gov
-data_source: fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer
+data_source: https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer
 description: 
 last_modified: 2025-03-23
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 598
-    url: arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462
+    url: https://arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462
     format: GIS
     status: Finished
     size: 

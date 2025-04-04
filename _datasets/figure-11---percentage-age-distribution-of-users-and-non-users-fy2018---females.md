@@ -4,7 +4,7 @@ title: Figure 11 - Percentage Age Distribution of Users and Non-Users FY2018 - F
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov
-data_source: www.data.va.gov/dataset/Figure-11-Percentage-Age-Distribution-of-Users-and/id78-az72
+data_source: https://www.data.va.gov/dataset/Figure-11-Percentage-Age-Distribution-of-Users-and/id78-az72
 description: 
 last_modified: 2025-03-10
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 363
-    url: www.datalumos.org/datalumos/project/221982/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/221982/version/V1/view
     format: 
     status: Finished
     size: 

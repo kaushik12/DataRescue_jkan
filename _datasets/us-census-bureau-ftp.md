@@ -4,7 +4,7 @@ title: US Census Bureau FTP
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
-data_source: ftp//ftp.census.gov
+data_source: ftp://ftp.census.gov
 description: 
 last_modified: 2025-02-11
 last_modified_by: Admin

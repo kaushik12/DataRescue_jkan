@@ -4,7 +4,7 @@ title: Pregnancy Risk Assessment Monitoring System (PRAMS) - 2000-2011
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
-data_source: www.cdc.gov/index.html
+data_source: https://www.cdc.gov/index.html
 description: 
 last_modified: 2025-03-02
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 318
-    url: www.dropbox.com/scl/fo/vlisaz34xhzjekkc27bjk/AKALT1nKcYuDQPkCipKWRcQ?rlkey=fgbjbvffdsxakl5i4pvj5hbsi&dl=0
+    url: https://www.dropbox.com/scl/fo/vlisaz34xhzjekkc27bjk/AKALT1nKcYuDQPkCipKWRcQ?rlkey=fgbjbvffdsxakl5i4pvj5hbsi&dl=0
     format: 
     status: Finished
     size: 

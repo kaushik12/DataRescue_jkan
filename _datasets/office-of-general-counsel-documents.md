@@ -4,7 +4,7 @@ title: Office of General Counsel Documents
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: noaa.gov
-data_source: www.gc.noaa.gov/documents
+data_source: https://www.gc.noaa.gov/documents
 description: 
 last_modified: 2025-02-11
 last_modified_by: Cataloger

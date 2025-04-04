@@ -4,7 +4,7 @@ title: Opioid Dispensing Rate Maps
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
-data_source: www.cdc.gov/drugoverdose/rxrate-maps/opioid.html
+data_source: https://www.cdc.gov/drugoverdose/rxrate-maps/opioid.html
 description: 
 last_modified: 2025-02-17
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 81
-    url: www.datalumos.org/datalumos/project/218842
+    url: https://www.datalumos.org/datalumos/project/218842
     format: CSV, PDF
     status: Finished
     size: 0.01

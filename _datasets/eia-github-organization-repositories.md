@@ -4,7 +4,7 @@ title: EIA GitHub organization repositories
 organization: US Department of Energy - Office of the CIO
 agency: Department of Energy
 websites: eia.gov
-data_source: github.com/EIAgov
+data_source: https://github.com/EIAgov
 description: 
 last_modified: 2025-02-12
 last_modified_by: Gabrielle
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 80
-    url: github.com/EIAgov-clone
+    url: https://github.com/EIAgov-clone
     format: Git
     status: Finished
     size: 

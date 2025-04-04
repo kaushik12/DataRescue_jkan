@@ -4,7 +4,7 @@ title: Civil Rights Data Collection - 2009-2022
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: ed.gov
-data_source: www.ed.gov/
+data_source: https://www.ed.gov/
 description: 
 last_modified: 2025-03-02
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 254
-    url: www.dropbox.com/scl/fo/88kaouewvy1xsuu0t0mtj/ANtTONSdBUVG7A2n___ukBM?rlkey=yklx1bj4b1toor2tynlftn8fv&dl=0
+    url: https://www.dropbox.com/scl/fo/88kaouewvy1xsuu0t0mtj/ANtTONSdBUVG7A2n___ukBM?rlkey=yklx1bj4b1toor2tynlftn8fv&dl=0
     format: 
     status: Finished
     size: 

@@ -4,7 +4,7 @@ title: National Reporting System for Adult Education
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: ed.gov
-data_source: nrs.ed.gov/rt
+data_source: https://nrs.ed.gov/rt
 description: 
 last_modified: 2025-02-11
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 17
-    url: www.datalumos.org/datalumos/project/218801/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/218801/version/V1/view
     format: ZIP
     status: Finished
     size: 

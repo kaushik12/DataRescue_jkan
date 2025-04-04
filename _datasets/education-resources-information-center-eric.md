@@ -4,7 +4,7 @@ title: Education Resources Information Center (ERIC)
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: eric.ed.gov
-data_source: eric.ed.gov/
+data_source: https://eric.ed.gov/
 description: 
 last_modified: 2025-03-20
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 520
-    url: doi.org/10.5281/zenodo.15032840
+    url: https://doi.org/10.5281/zenodo.15032840
     format: XML, JSON
     status: Finished
     size: 3.2

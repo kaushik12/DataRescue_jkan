@@ -4,7 +4,7 @@ title: Residential Energy Consumption Survey (RECS)
 organization: US Department of Energy - Office of the CIO
 agency: Department of Energy
 websites: eia.gov
-data_source: www.eia.gov/consumption/residential/data/2020/
+data_source: https://www.eia.gov/consumption/residential/data/2020/
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 186
-    url: doi.org/10.5281/zenodo.14783267
+    url: https://doi.org/10.5281/zenodo.14783267
     format: XLSX
     status: Finished
     size: 1.7

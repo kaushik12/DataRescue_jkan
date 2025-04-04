@@ -4,7 +4,7 @@ title: Paleoclimatology  Loess and Paleosols
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/products/paleoclimatology/loess-paleosols
+data_source: https://www.ncei.noaa.gov/products/paleoclimatology/loess-paleosols
 description: 
 last_modified: 2025-03-02
 last_modified_by: Gabrielle

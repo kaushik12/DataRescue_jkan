@@ -4,7 +4,7 @@ title: Individuals and Households Program - Valid Registrations
 organization: Federal Emergency Management Agency
 agency: Department of Homeland Security
 websites: fema.gov
-data_source: www.fema.gov/about/openfema/data-sets
+data_source: https://www.fema.gov/about/openfema/data-sets
 description: 
 last_modified: 2025-02-11
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250204031445/https://www.fema.gov/openfema-data-page/individuals-and-households-program-valid-registrations-v1
 resources:
   - id: 34
-    url: www.datalumos.org/datalumos/project/218466/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/218466/version/V1/view
     format: ZIP
     status: Finished
     size: 

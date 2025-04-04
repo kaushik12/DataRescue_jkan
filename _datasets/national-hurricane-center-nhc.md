@@ -4,7 +4,7 @@ title: National Hurricane Center (NHC)
 organization: NOAA/National Hurricane Center
 agency: Department of Commerce
 websites: nhc.noaa.gov
-data_source: www.nhc.noaa.gov/archive
+data_source: https://www.nhc.noaa.gov/archive
 description: 
 last_modified: 2025-03-26
 last_modified_by: Cataloger

@@ -4,7 +4,7 @@ title: PLACES
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
-data_source: www.cdc.gov/places/index.html
+data_source: https://www.cdc.gov/places/index.html
 description: 
 last_modified: 2025-02-12
 last_modified_by: Gabrielle
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 57
-    url: github.com/oedp/cdc-places
+    url: https://github.com/oedp/cdc-places
     format: CSV, JSON
     status: Finished
     size: 
@@ -20,7 +20,7 @@ resources:
     maintainer: PEDP, OEDP
     notes: 
   - id: 58
-    url: zenodo.org/records/14774046
+    url: https://zenodo.org/records/14774046
     format: CSV, JSON
     status: Finished
     size: 12.5
@@ -28,7 +28,7 @@ resources:
     maintainer: PEDP, OEDP
     notes: 
   - id: 316
-    url: www.dropbox.com/scl/fo/ow4uk19izkgqu5psgct22/AO_HmO50TEAz50SYe3BMYFs?rlkey=3m9ey4wichxfy07e3w7g17c5p&dl=0
+    url: https://www.dropbox.com/scl/fo/ow4uk19izkgqu5psgct22/AO_HmO50TEAz50SYe3BMYFs?rlkey=3m9ey4wichxfy07e3w7g17c5p&dl=0
     format: 
     status: Finished
     size: 

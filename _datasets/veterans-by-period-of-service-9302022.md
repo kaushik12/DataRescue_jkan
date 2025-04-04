@@ -4,7 +4,7 @@ title: Veterans by period of service, 9/30/2022
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov
-data_source: www.data.va.gov/dataset/Veterans-by-period-of-service-9-30-2022/fppf-663f
+data_source: https://www.data.va.gov/dataset/Veterans-by-period-of-service-9-30-2022/fppf-663f
 description: 
 last_modified: 2025-03-10
 last_modified_by: Kathleen
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 357
-    url: www.datalumos.org/datalumos/project/221746/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/221746/version/V1/view
     format: 
     status: Finished
     size: 

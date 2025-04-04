@@ -4,7 +4,7 @@ title: North American Industry Classification System (NAICS)
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
-data_source: www.census.gov/naics/?input=1531&year=2022
+data_source: https://www.census.gov/naics/?input=1531&year=2022
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 63
-    url: github.com/oedp/NAICS
+    url: https://github.com/oedp/NAICS
     format: 
     status: Finished
     size: 

@@ -4,7 +4,7 @@ title: Hydrographic and Impairment Statistics for Parks, Regions, Networks and N
 organization: National Park Service
 agency: Department of the Interior, National Parks Service
 websites: irma.nps.gov
-data_source: irma.nps.gov/DataStore/Reference/Profile/2188821
+data_source: https://irma.nps.gov/DataStore/Reference/Profile/2188821
 description: 
 last_modified: 2025-03-30
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: Yes
 metadata_url: 
 resources:
   - id: 622
-    url: www.datalumos.org/datalumos/project/223523/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/223523/version/V1/view
     format: PDF, XLSX
     status: Finished
     size: 

@@ -4,7 +4,7 @@ title: Election Reports - FY 2017
 organization: National Labor Relations Board
 agency: National Labor Relations Board
 websites: nlrb.gov
-data_source: www.nlrb.gov/reports/agency-performance-report/election-reports/election-reports-fy-2017
+data_source: https://www.nlrb.gov/reports/agency-performance-report/election-reports/election-reports-fy-2017
 description: 
 last_modified: 2025-04-01
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 683
-    url: www.datalumos.org/datalumos/project/224621/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/224621/version/V1/view
     format: 
     status: Finished
     size: 

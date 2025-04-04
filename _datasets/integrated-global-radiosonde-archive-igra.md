@@ -4,7 +4,7 @@ title: Integrated Global Radiosonde Archive (IGRA)
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
-data_source: www.ncei.noaa.gov/data/integrated-global-radiosonde-archive/
+data_source: https://www.ncei.noaa.gov/data/integrated-global-radiosonde-archive/
 description: 
 last_modified: 2025-03-25
 last_modified_by: Cataloger
@@ -12,11 +12,11 @@ metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive
 resources:
   - id: 606
-    url: archive.org/details/integrated-global-radiosonde-archive
+    url: https://archive.org/details/integrated-global-radiosonde-archive
     format: TXT, TAR
     status: Finished
     size: 36.0
     download_date: 2025-03-13
     maintainer: TSHRMP
-    notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in process.Additional torrent location academictorrents.com/details/0b77070e48703a4bc86327a8c5523e3a41b33b70
+    notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in process.Additional torrent location https//academictorrents.com/details/0b77070e48703a4bc86327a8c5523e3a41b33b70
 ---

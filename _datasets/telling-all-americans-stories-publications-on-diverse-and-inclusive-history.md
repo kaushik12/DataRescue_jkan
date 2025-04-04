@@ -4,7 +4,7 @@ title: Telling All Americans' Stories Publications on Diverse and Inclusive Hist
 organization: National Park Service
 agency: Department of the Interior, National Parks Service
 websites: nps.gov
-data_source: www.nps.gov/articles/publications-diverse.htm
+data_source: https://www.nps.gov/articles/publications-diverse.htm
 description: 
 last_modified: 2025-03-18
 last_modified_by: Daphna
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 513
-    url: www.datalumos.org/datalumos/project/221941/version/V1/view
+    url: https://www.datalumos.org/datalumos/project/221941/version/V1/view
     format: 
     status: Finished
     size: 0.8

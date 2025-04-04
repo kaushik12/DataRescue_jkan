@@ -4,7 +4,7 @@ title: ncird influenza a virus morbidity and titer measurements from ferrets/agg
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
-data_source: www.cdc.gov/index.html
+data_source: https://www.cdc.gov/index.html
 description: 
 last_modified: 2025-03-02
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 314
-    url: www.dropbox.com/scl/fo/a4bokti9qcpvu26oxan2d/ANcDSDMdH9G0L1zuwzeBJjY?rlkey=fv585idmexr21me90h6fzfzsb&dl=0
+    url: https://www.dropbox.com/scl/fo/a4bokti9qcpvu26oxan2d/ANcDSDMdH9G0L1zuwzeBJjY?rlkey=fv585idmexr21me90h6fzfzsb&dl=0
     format: 
     status: Finished
     size: 

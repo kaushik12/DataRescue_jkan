@@ -4,7 +4,7 @@ title: Super-Resolution for Renewable Energy Resource Data With Climate Change I
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
 websites: nrel.gov
-data_source: www.nrel.gov/analysis/sup3rcc.html
+data_source: https://www.nrel.gov/analysis/sup3rcc.html
 description: 
 last_modified: 2025-03-11
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 244
-    url: zenodo.org/records/14590487
+    url: https://zenodo.org/records/14590487
     format: HDF5, ZIP
     status: Finished
     size: 

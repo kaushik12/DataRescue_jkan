@@ -4,7 +4,7 @@ title: Rural Education Achievement Program (REAP) Master Eligibility Spreadsheet
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: data.ed.gov
-data_source: www.ed.gov/grants-and-programs/formula-grants/rural-education-achievement-program
+data_source: https://www.ed.gov/grants-and-programs/formula-grants/rural-education-achievement-program
 description: 
 last_modified: 2025-03-26
 last_modified_by: Cataloger
@@ -12,7 +12,7 @@ metadata_available: No
 metadata_url: 
 resources:
   - id: 609
-    url: www.datalumos.org/datalumos/project/224362
+    url: https://www.datalumos.org/datalumos/project/224362
     format: XLSX
     status: Finished
     size: 0.01
