@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Low-Income Community Bonus Credit Program
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
-notes: Local - OEDP; data and code here- https-//data.nrel.gov/submissions/222
-status: Finished
-size: 
-maintainer: PEDP,OEDP
-download_date: 2025-02-12
-metadata_available: False
+websites: lists.nrel.gov
+data_source: data.nrel.gov/submissions/222
+description: 
+last_modified: 2025-04-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://experience.arcgis.com/experience/12227d891a4d471497ac13f60fffd822/page/Page/
-    format: html
-  - name: Link to archive
-    url: 
-    format: 
+  - id: 68
+    url: zenodo.org/records/15061838
+    format: ZIP, HTML, GIF, XLSX
+    status: Finished
+    size: 0.08
+    download_date: 2025-02-12
+    maintainer: PEDP, OEDP
+    notes: Data and code here data.nrel.gov/submissions/222
 ---

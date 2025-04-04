@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Home Mortgage Disclosure Act (HMDA) - Public
 organization: Consumer Financial Protection Bureau
 agency: Consumer Financial Protection Bureau
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-16
-metadata_available: False
+websites: ffiec.cfpb.gov
+data_source: ffiec.cfpb.gov/data-publication/
+description: 
+last_modified: 2025-03-04
+last_modified_by: Kathleen
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://ffiec.cfpb.gov/data-publication/
-    format: html
-  - name: Link to archive
-    url: https://ffiec.cfpb.gov/data-publication/
-    format: 
+  - id: 340
+    url: www.datalumos.org/datalumos/project/220146/version/V1/view
+    format: ZIP
+    status: Finished
+    size: 
+    download_date: 2025-02-16
+    maintainer: DRP, DL
+    notes: 
 ---

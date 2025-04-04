@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Wind Toolkit Long-Term Ensemble
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
-notes: 
-status: Finished
-size: 
-maintainer: CoCr
-download_date: 2025-01-24
-metadata_available: False
+websites: nrel.gov
+data_source: www.nrel.gov/grid/wind-toolkit.html
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.nrel.gov/grid/wind-toolkit.html
-    format: html
-  - name: Link to archive
-    url: https://data.openei.org/submissions/5987
+  - id: 330
+    url: data.openei.org/submissions/5987
     format: HDF5
+    status: Finished
+    size: 
+    download_date: 2025-01-24
+    maintainer: OEDI, CoCr
+    notes: 
 ---

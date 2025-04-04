@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Market Data
 organization: Federal Housing Finance Agency
 agency: Federal Housing Finance Agency
-notes: 
-status: Finished
-size: 0.17GB
-maintainer: DRP,DL
-download_date: 2025-02-20
-metadata_available: False
+websites: fhfa.gov
+data_source: www.fhfa.gov/data/market-data
+description: 
+last_modified: 2025-02-21
+last_modified_by: Daphna
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fhfa.gov/data/market-data
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/220242/version/V1/view
+  - id: 166
+    url: www.datalumos.org/datalumos/project/220242/version/V1/view
     format: XLS
+    status: Finished
+    size: 0.17
+    download_date: 2025-02-20
+    maintainer: DRP, DL
+    notes: 
 ---

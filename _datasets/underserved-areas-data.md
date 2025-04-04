@@ -3,18 +3,28 @@ schema: data_rescue_project
 title: Underserved Areas Data
 organization: Federal Housing Finance Agency
 agency: Federal Housing Finance Agency
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-12
-metadata_available: False
+websites: fhfa.gov
+data_source: www.fhfa.gov/data/underserved-areas-data
+description: 
+last_modified: 2025-02-21
+last_modified_by: Daphna
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fhfa.gov/data/underserved-areas-data
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/219148/version/V1/view
+  - id: 126
+    url: www.datalumos.org/datalumos/project/219148/version/V1/view
     format: 
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: DRP, DL
+    notes: 
+  - id: 127
+    url: www.datalumos.org/datalumos/project/219148/version/V1/view
+    format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-12
+    maintainer: DRP, DL
+    notes: 
 ---

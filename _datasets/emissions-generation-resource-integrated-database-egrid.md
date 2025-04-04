@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Emissions & Generation Resource Integrated Database (eGRID)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
-notes: Also historical data
-status: Finished
-size: 
-maintainer: EDGI,CaCo
-download_date: 
-metadata_available: False
-metadata_url: https://www.epa.gov/system/files/documents/2024-01/egrid2022_technical_guide.pdf
+websites: epa.gov
+data_source: www.epa.gov/egrid/download-data
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
+metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.epa.gov/egrid/download-data
-    format: html
-  - name: Link to archive
-    url: https://zenodo.org/records/14767236
+  - id: 192
+    url: zenodo.org/records/14767236
     format: XLSX
+    status: Finished
+    size: 3.6
+    download_date: 2025-01-25
+    maintainer: EDGI, CaCo
+    notes: Also historical data
 ---

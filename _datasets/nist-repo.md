@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: NIST Repo
 organization: National Institute of Standards and Technology
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 
-maintainer: EDGI
-download_date: 
-metadata_available: False
+websites: nist.gov
+data_source: github.com/usnistgov
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/usnistgov
-    format: html
-  - name: Link to archive
-    url: https://github.com/usnistgov-clone
+  - id: 213
+    url: github.com/usnistgov-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: EDGI
+    notes: 
 ---

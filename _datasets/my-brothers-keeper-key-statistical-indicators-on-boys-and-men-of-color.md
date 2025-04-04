@@ -1,20 +1,22 @@
 ---
 schema: data_rescue_project 
-title: My Brother's Keeper- Key Statistical Indicators on Boys and Men of Color
-organization: Office of Chief Information Officer
-agency: Department of Education
-notes: 
-status: Finished
-size: 
-maintainer: ICPSR
-download_date: 2025-01-31
-metadata_available: False
-metadata_url: 
+title: My Brother's Keeper Key Statistical Indicators on Boys and Men of Color
+organization: GSA -FAS -Technology Transformation Service
+agency: General Services Administration
+websites: catalog.data.gov
+data_source: catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color-83d9e
+description: 
+last_modified: 2025-02-25
+last_modified_by: Cataloger
+metadata_available: Yes
+metadata_url: https://www.datalumos.org/datalumos/project/220542/version/V1/view
 resources:
-  - name: Data Source
-    url: https://nces.ed.gov/
-    format: html
-  - name: Link to archive
-    url: https://www.dropbox.com/scl/fo/32ezijw2g9w3umx744fvz/AK7JBPq4n3-TYUaPwGhYJqA?rlkey=nv191d13woxvp2n3dy99s8b22&dl=0
-    format: 
+  - id: 175
+    url: www.datalumos.org/datalumos/project/220542/version/V1/view
+    format: CSV, XLSX, XLS
+    status: Finished
+    size: 0.01
+    download_date: 2025-02-23
+    maintainer: DL
+    notes: Includes full dataset and documentation. Scraping done in R.
 ---

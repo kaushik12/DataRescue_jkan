@@ -1,20 +1,22 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Substance Abuse Treatment Services
-organization: Substance Abuse and Mental Health Services Administration (SAMHSA)
+organization: Substance Abuse and Mental Health Services Administration
 agency: Department of Health and Human Services
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-09
-metadata_available: False
+websites: samhsa.gov
+data_source: www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
+description: 
+last_modified: 2025-04-01
+last_modified_by: Daphna
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.samhsa.gov/data/data-we-collect/n-sumhss-national-substance-use-and-mental-health-services-survey/datafiles
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/218661/version/V1/view
-    format: ZIP,PDF
+  - id: 92
+    url: www.datalumos.org/datalumos/project/218661/version/V2/view
+    format: ZIP, PDF
+    status: Finished
+    size: 
+    download_date: 2025-02-09
+    maintainer: DRP, DL
+    notes: 
 ---

@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Sharing the Sun Community Solar Project Data
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
-notes: 
-status: Finished
-size: 
-maintainer: CaCo
-download_date: 
-metadata_available: False
+websites: nrel.gov
+data_source: data.nrel.gov/submissions/244
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://data.nrel.gov/submissions/244
-    format: html
-  - name: Link to archive
-    url: https://zenodo.org/records/14783183
-    format: XLSX,PDF
+  - id: 243
+    url: zenodo.org/records/14783183
+    format: XLSX, PDF
+    status: Finished
+    size: 0.36
+    download_date: 2025-01-31
+    maintainer: CaCo
+    notes: 
 ---

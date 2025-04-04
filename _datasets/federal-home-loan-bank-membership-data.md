@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Federal Home Loan Bank Membership Data
 organization: Federal Housing Finance Agency
 agency: Federal Housing Finance Agency
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-20
-metadata_available: False
+websites: fhfa.gov
+data_source: www.fhfa.gov/data/fhlb-membership
+description: 
+last_modified: 2025-02-21
+last_modified_by: Daphna
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fhfa.gov/data/fhlb-membership
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/220241/version/V1/view
+  - id: 165
+    url: www.datalumos.org/datalumos/project/220241/version/V1/view
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-20
+    maintainer: DRP, DL
+    notes: 
 ---

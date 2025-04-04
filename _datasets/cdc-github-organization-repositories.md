@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: CDC GitHub organization repositories
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
-notes: 
-status: Finished
-size: 
-maintainer: PEDP,EDGI
-download_date: 2025-02-12
-metadata_available: False
+websites: github.com/CDCgov
+data_source: github.com/CDCgov
+description: 
+last_modified: 2025-02-12
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/CDCgov
-    format: html
-  - name: Link to archive
-    url: https://github.com/CDCgov-clone
+  - id: 52
+    url: github.com/CDCgov-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 2025-02-12
+    maintainer: PEDP, EDGI
+    notes: 
 ---

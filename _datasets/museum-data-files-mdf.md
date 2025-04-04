@@ -1,0 +1,22 @@
+---
+schema: data_rescue_project 
+title: Museum Data Files (MDF)
+organization: Institute of Museum and Library Services
+agency: Institute of Museum and Library Services
+websites: imls.gov
+data_source: www.imls.gov/research-evaluation/data-collection/museum-data-files
+description: 
+last_modified: 2025-03-26
+last_modified_by: Cataloger
+metadata_available: No
+metadata_url: 
+resources:
+  - id: 99
+    url: www.datalumos.org/datalumos/project/219155/version/V1/view
+    format: ZIP, PDF
+    status: Finished
+    size: 
+    download_date: 2025-02-05
+    maintainer: DRP, DL
+    notes: Old repo has data from 2015, new repo has 2018. Suggest combine old with new
+---

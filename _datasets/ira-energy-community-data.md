@@ -3,18 +3,28 @@ schema: data_rescue_project
 title: IRA Energy Community Data
 organization: US Department of Energy - Office of the CIO
 agency: Department of Energy
-notes: Appears to be easy access to data and coding
-status: Finished
-size: 
-maintainer: PEDP,OEDP
-download_date: 2025-02-12
-metadata_available: False
+websites: edx.netl.doe.gov
+data_source: edx.netl.doe.gov/dataset/ira-energy-community-data-layers
+description: 
+last_modified: 2025-02-12
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://edx.netl.doe.gov/dataset/ira-energy-community-data-layers
-    format: html
-  - name: Link to archive
-    url: https://zenodo.org/records/14757122
+  - id: 65
+    url: github.com/oedp/doe-ira-energy-comm-data
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-12
+    maintainer: PEDP, OEDP
+    notes: Appears to be easy access to data and coding
+  - id: 66
+    url: zenodo.org/records/14757122
+    format: JSON, ZIP
+    status: Finished
+    size: 3.4
+    download_date: 2025-02-12
+    maintainer: PEDP, OEDP
+    notes: Appears to be easy access to data and coding
 ---

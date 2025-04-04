@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: NFIP Data Sets
 organization: Federal Emergency Management Agency
 agency: Department of Homeland Security
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-08
-metadata_available: False
+websites: fema.gov
+data_source: www.fema.gov/about/openfema/data-sets
+description: 
+last_modified: 2025-02-11
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fema.gov/about/openfema/data-sets
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/218442/version/V2/view
+  - id: 25
+    url: www.datalumos.org/datalumos/project/218442/version/V2/view
     format: ZIP
+    status: Finished
+    size: 
+    download_date: 2025-02-08
+    maintainer: DRP, DL
+    notes: 
 ---

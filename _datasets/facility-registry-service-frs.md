@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Facility Registry Service (FRS)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
-notes: https-//www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads, https-//www.epa.gov/frs
-status: Finished
-size: 
-maintainer: ESRI
-download_date: 
-metadata_available: False
+websites: epa.gov
+data_source: www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
-    format: html
-  - name: Link to archive
+  - id: 198
     url: 
     format: 
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: ESRI
+    notes: www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads,  www.epa.gov/frs
 ---

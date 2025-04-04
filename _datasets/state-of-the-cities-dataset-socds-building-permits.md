@@ -1,0 +1,22 @@
+---
+schema: data_rescue_project 
+title: State of the Cities Dataset (SOCDS) Building Permits
+organization: U.S. Department of Housing and Urban Development - Office of Policy Development and Research
+agency: Department of Housing and Urban Development
+websites: huduser.gov
+data_source: socds.huduser.gov/permits/help
+description: 
+last_modified: 2025-03-20
+last_modified_by: Cataloger
+metadata_available: No
+metadata_url: 
+resources:
+  - id: 514
+    url: www.datalumos.org/datalumos/project/222283/version/V1/view
+    format: MDB, CSV
+    status: Finished
+    size: 0.15
+    download_date: 2025-03-10
+    maintainer: DL
+    notes: I extracted csv files from the original Access 2000 databases and uploaded those as well
+---

@@ -1,20 +1,22 @@
 ---
 schema: data_rescue_project 
-title: Paleoclimatology- Fire History
+title: Paleoclimatology  Fire History
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: Daro/PEDP S3 Bucket
-status: Finished
-size: 4.80GB
-maintainer: EDGI,BCECJ
-download_date: 
-metadata_available: False
+websites: ncei.noaa.gov
+data_source: www.ncei.noaa.gov/products/paleoclimatology/fire-history
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.ncei.noaa.gov/products/paleoclimatology/fire-history
-    format: html
-  - name: Link to archive
+  - id: 222
     url: 
-    format: XLSX,PDF,JSON
+    format: XLSX, PDF, JSON
+    status: Finished
+    size: 4.8
+    download_date: 
+    maintainer: EDGI, BCECJ
+    notes: Daro/PEDP S3 Bucket
 ---

@@ -1,0 +1,22 @@
+---
+schema: data_rescue_project 
+title: Demographic Health Survey (DHS) Indicator Data
+organization: M/CIO
+agency: U.S. Agency for International Development
+websites: usaid.gov
+data_source: spatialdata.dhsprogram.com/home/
+description: 
+last_modified: 2025-03-28
+last_modified_by: Cataloger
+metadata_available: No
+metadata_url: 
+resources:
+  - id: 617
+    url: www.datalumos.org/datalumos/project/224462/version/V1/view
+    format: CSV, HTML, ZIP
+    status: Finished
+    size: 4.8
+    download_date: 2025-03-24
+    maintainer: DRP, DL
+    notes: Compared to earlier entry (3 lines up), can verify that all available surveys were retrieved. Also segmented by survey instead of year and captured docs. Added internal note to DataLumos.
+---

@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: CDC FTP
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
-notes: 
-status: Finished
-size: 213.00GB
-maintainer: DRP
-download_date: 2025-02-01
-metadata_available: False
+websites: ftp.cdc.gov
+data_source: ftp.cdc.gov/
+description: 
+last_modified: 2025-02-10
+last_modified_by: Admin
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://ftp.cdc.gov/
-    format: html
-  - name: Link to archive
+  - id: 2
     url: 
     format: 
+    status: Finished
+    size: 213.0
+    download_date: 2025-02-01
+    maintainer: DRP
+    notes: 
 ---

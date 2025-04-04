@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Interagency Data inventory
 organization: Departmental Offices
 agency: Department of the Treasury
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-22
-metadata_available: False
+websites: financialresearch.gov
+data_source: www.financialresearch.gov/data/interagency-data-inventory/
+description: 
+last_modified: 2025-03-04
+last_modified_by: Kathleen
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.financialresearch.gov/data/interagency-data-inventory/
-    format: html
-  - name: Link to archive
-    url: https://www.financialresearch.gov/data/interagency-data-inventory/
-    format: 
+  - id: 342
+    url: www.datalumos.org/datalumos/project/220501/version/V1/view
+    format: XLSX
+    status: Finished
+    size: 
+    download_date: 2025-02-22
+    maintainer: DRP, DL
+    notes: 
 ---

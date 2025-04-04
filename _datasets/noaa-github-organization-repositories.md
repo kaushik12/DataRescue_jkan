@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: NOAA GitHub organization repositories
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 
-maintainer: EDGI
-download_date: 
-metadata_available: False
+websites: noaa.gov
+data_source: github.com/NOAA-clone
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/NOAA-clone
-    format: html
-  - name: Link to archive
-    url: https://github.com/NOAA-clone
+  - id: 217
+    url: github.com/NOAA-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: EDGI
+    notes: 
 ---

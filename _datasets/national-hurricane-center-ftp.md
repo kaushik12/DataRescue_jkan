@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: National Hurricane Center FTP
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 5.00GB
-maintainer: DRP
-download_date: 2025-02-01
-metadata_available: False
+websites: ftp.nhc.noaa.gov
+data_source: ftp//ftp.nhc.noaa.gov
+description: 
+last_modified: 2025-02-11
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: ftp://ftp.nhc.noaa.gov
-    format: html
-  - name: Link to archive
+  - id: 7
     url: 
     format: 
+    status: Finished
+    size: 5.0
+    download_date: 2025-02-01
+    maintainer: DRP
+    notes: 
 ---

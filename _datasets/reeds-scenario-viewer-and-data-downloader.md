@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: ReEDS Scenario Viewer and Data Downloader
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
-notes: Standard scenarios archived. Cambrium scenarios in process of being archived. Underlying data only, tool not archived. EFS data archived separately here- https-//zenodo.org/records/14782874
-status: Finished
-size: 
-maintainer: CaCo
-download_date: 
-metadata_available: False
+websites: nrel.gov
+data_source: scenarioviewer.nrel.gov/
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://scenarioviewer.nrel.gov/
-    format: html
-  - name: Link to archive
-    url: https://zenodo.org/records/14783185
+  - id: 242
+    url: zenodo.org/records/14783185
     format: ZIP
+    status: Finished
+    size: 4.2
+    download_date: 2025-01-31
+    maintainer: CaCo
+    notes: Standard scenarios archived. Cambrium scenarios in process of being archived. Underlying data only, tool not archived. EFS data archived separately here zenodo.org/records/14782874
 ---

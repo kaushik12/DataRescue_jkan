@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: AIDS Drug Assistance Programs (ADAPS)
 organization: Health Resources and Services Administration
 agency: Department of Health and Human Services
-notes: 
-status: Finished
-size: 
-maintainer: ICPSR
-download_date: 2025-01-31
-metadata_available: False
+websites: hrsa.gov
+data_source: www.hrsa.gov/grants/find-funding/HRSA-23-056
+description: 
+last_modified: 2025-03-26
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.hrsa.gov/
-    format: html
-  - name: Link to archive
-    url: https://www.dropbox.com/scl/fo/60drbfxp3p1hb1l4gr3cj/AHrpM10MrLH-0MvQHCcXFI4?rlkey=fps9vit5x2cg6367jhdykkl9a&dl=0
-    format: 
+  - id: 245
+    url: www.dropbox.com/scl/fo/60drbfxp3p1hb1l4gr3cj/AHrpM10MrLH-0MvQHCcXFI4?rlkey=fps9vit5x2cg6367jhdykkl9a&dl=0
+    format: CSV
+    status: Finished
+    size: 
+    download_date: 2025-01-31
+    maintainer: ICPSR
+    notes: 
 ---

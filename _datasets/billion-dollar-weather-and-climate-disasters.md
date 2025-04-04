@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Billion-Dollar Weather and Climate Disasters
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 
-maintainer: 
-download_date: 
-metadata_available: False
-metadata_url: 
+websites: ncei.noaa.gov
+data_source: www.ncei.noaa.gov/access/billions/mapping
+description: 
+last_modified: 2025-02-10
+last_modified_by: Cataloger
+metadata_available: Yes
+metadata_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
 resources:
-  - name: Data Source
-    url: https://www.ncei.noaa.gov/access/billions/mapping
-    format: html
-  - name: Link to archive
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
-    format: 
+  - id: 0
+    url: dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/WFMZWP&version=DRAFT
+    format: ZIP
+    status: Finished
+    size: 0.15
+    download_date: 2025-02-10
+    maintainer: HD
+    notes: 
 ---

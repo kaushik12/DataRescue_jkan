@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Priority Climate Action Plan (PCAP) Directory
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
-notes: 
-status: Finished
-size: 
-maintainer: CaCo
-download_date: 
-metadata_available: False
+websites: epa.gov
+data_source: www.epa.gov/inflation-reduction-act/priority-climate-action-plan-directory
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.epa.gov/inflation-reduction-act/priority-climate-action-plan-directory
-    format: html
-  - name: Link to archive
-    url: https://zenodo.org/records/14757599
-    format: PDF,XLS
+  - id: 204
+    url: zenodo.org/records/14757599
+    format: PDF, XLS
+    status: Finished
+    size: 16.9
+    download_date: 2025-01-28
+    maintainer: CaCo
+    notes: 
 ---

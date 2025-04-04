@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Palmer Drought Severity Index (PDSI)
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 
-maintainer: ICPSR
-download_date: 2025-01-31
-metadata_available: False
+websites: noaa.gov
+data_source: www.noaa.gov/
+description: 
+last_modified: 2025-03-02
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.noaa.gov/
-    format: html
-  - name: Link to archive
-    url: https://www.dropbox.com/scl/fo/v7d7ulks25vq3fuwn97ab/AKHmCDCMtKyQAOPyWSqPC04?rlkey=3jefqqro0jwn75gcso80m8w5f&dl=0
+  - id: 315
+    url: www.dropbox.com/scl/fo/v7d7ulks25vq3fuwn97ab/AKHmCDCMtKyQAOPyWSqPC04?rlkey=3jefqqro0jwn75gcso80m8w5f&dl=0
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-01-31
+    maintainer: ICPSR
+    notes: 
 ---

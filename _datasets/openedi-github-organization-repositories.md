@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: openEDI GitHub Organization Repositories
 organization: Department of Energy
 agency: Department of Energy
-notes: 
-status: Finished
-size: 
-maintainer: PEDP,EDGI
-download_date: 2025-02-12
-metadata_available: False
+websites: github.com/openEDI
+data_source: github.com/openEDI
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/openEDI
-    format: html
-  - name: Link to archive
-    url: https://github.com/openEDI-clone
+  - id: 71
+    url: github.com/openEDI-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 2025-02-12
+    maintainer: PEDP, EDGI
+    notes: 
 ---

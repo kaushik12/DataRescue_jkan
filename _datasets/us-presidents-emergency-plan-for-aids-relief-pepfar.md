@@ -3,18 +3,28 @@ schema: data_rescue_project
 title: U.S. President’s Emergency Plan For AIDS Relief (PEPFAR)
 organization: Bureau of Global Public Affairs (GPA)
 agency: Department of State
-notes: 
-status: Finished
-size: 
-maintainer: ICPSR
-download_date: 2025-01-31
-metadata_available: False
+websites: state.gov
+data_source: www.state.gov/bureaus-offices/secretary-of-state/bureau-of-global-health-security-and-diplomacy/
+description: 
+last_modified: 2025-03-02
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.state.gov/bureaus-offices/secretary-of-state/bureau-of-global-health-security-and-diplomacy/
-    format: html
-  - name: Link to archive
-    url: https://www.dropbox.com/scl/fo/xbuhxgpe103k9u7cilhqx/AAzzPgyOo0PAx1R7UN6Zj_I?rlkey=rii9wxqcr7pw01zxd6lj7tq9g&dl=0
+  - id: 325
+    url: www.dropbox.com/scl/fo/48s8kvkihywo2bsiwi5pj/AC2dcwGwRVo1IoeqU-HJURQ?rlkey=maq05i462hnvq38mn8s4bbrt6&dl=0
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-01-31
+    maintainer: ICPSR
+    notes: 
+  - id: 326
+    url: www.dropbox.com/scl/fo/xbuhxgpe103k9u7cilhqx/AAzzPgyOo0PAx1R7UN6Zj_I?rlkey=rii9wxqcr7pw01zxd6lj7tq9g&dl=0
+    format: 
+    status: Finished
+    size: 
+    download_date: 2025-01-31
+    maintainer: ICPSR
+    notes: 
 ---

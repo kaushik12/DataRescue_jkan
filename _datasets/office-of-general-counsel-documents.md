@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Office of General Counsel Documents
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 1.00GB
-maintainer: DRP
-download_date: 2025-02-06
-metadata_available: False
+websites: noaa.gov
+data_source: www.gc.noaa.gov/documents
+description: 
+last_modified: 2025-02-11
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.gc.noaa.gov/documents
-    format: html
-  - name: Link to archive
+  - id: 6
     url: 
     format: 
+    status: Finished
+    size: 1.0
+    download_date: 2025-02-06
+    maintainer: DRP
+    notes: 
 ---

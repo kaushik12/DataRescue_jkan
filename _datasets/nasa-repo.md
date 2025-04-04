@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: NASA Repo
 organization: NASA Office of the Chief Information Officer
 agency: National Aeronautics and Space Administration
-notes: 
-status: Finished
-size: 
-maintainer: EDGI
-download_date: 
-metadata_available: False
+websites: nasa.gov
+data_source: github.com/NASA
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/NASA
-    format: html
-  - name: Link to archive
-    url: https://github.com/nasa-clone
+  - id: 212
+    url: github.com/nasa-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: EDGI
+    notes: 
 ---

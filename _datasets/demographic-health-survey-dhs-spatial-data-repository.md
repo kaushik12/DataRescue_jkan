@@ -1,0 +1,22 @@
+---
+schema: data_rescue_project 
+title: Demographic Health Survey (DHS) Spatial Data Repository
+organization: M/CIO
+agency: U.S. Agency for International Development
+websites: usaid.gov
+data_source: spatialdata.dhsprogram.com/home/
+description: 
+last_modified: 2025-03-28
+last_modified_by: Cataloger
+metadata_available: No
+metadata_url: 
+resources:
+  - id: 618
+    url: www.datalumos.org/datalumos/project/224321/version/V1/view
+    format: CSV, HTML, ZIP
+    status: Finished
+    size: 2.3
+    download_date: 2025-03-20
+    maintainer: DRP, DL
+    notes: Includes GIS boundary files, rasters, and attribute data that can be associated with countries and subdivisions
+---

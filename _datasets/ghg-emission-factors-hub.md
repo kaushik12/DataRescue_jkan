@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: GHG Emission Factors Hub
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
-notes: 
-status: Finished
-size: 
-maintainer: EDGI
-download_date: 
-metadata_available: False
+websites: epa.gov
+data_source: www.epa.gov/climateleadership/ghg-emission-factors-hub
+description: 
+last_modified: 2025-03-02
+last_modified_by: Gabrielle
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.epa.gov/climateleadership/ghg-emission-factors-hub
-    format: html
-  - name: Link to archive
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GCUA0N
-    format: XLSX,PDF
+  - id: 199
+    url: dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/GCUA0N
+    format: XLSX, PDF
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: EDGI, HD
+    notes: 
 ---

@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Mortgage Credit Trends
 organization: Consumer Financial Protection Bureau
 agency: Consumer Financial Protection Bureau
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-22
-metadata_available: False
+websites: consumerfinance.gov
+data_source: www.consumerfinance.gov/data-research/consumer-credit-trends/mortgages/
+description: 
+last_modified: 2025-03-04
+last_modified_by: Kathleen
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.consumerfinance.gov/data-research/consumer-credit-trends/mortgages/
-    format: html
-  - name: Link to archive
-    url: https://www.consumerfinance.gov/data-research/consumer-credit-trends/mortgages/
-    format: 
+  - id: 343
+    url: www.datalumos.org/datalumos/project/220502/version/V1/view
+    format: CSV
+    status: Finished
+    size: 
+    download_date: 2025-02-22
+    maintainer: DRP, DL
+    notes: 
 ---

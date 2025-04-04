@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: American Housing Survey
 organization: Census Bureau
 agency: Department of Commerce
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-09
-metadata_available: False
+websites: census.gov
+data_source: www.census.gov/programs-surveys/ahs/data.html?text-list-0ff840ba34%3Atab=all#text-list-0ff840ba34
+description: 
+last_modified: 2025-02-21
+last_modified_by: Daphna
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.census.gov/programs-surveys/ahs/data.html?text-list-0ff840ba34%3Atab=all#text-list-0ff840ba34
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/218583/version/V1/view
+  - id: 112
+    url: www.datalumos.org/datalumos/project/218583/version/V1/view
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-09
+    maintainer: DRP, DL
+    notes: 
 ---

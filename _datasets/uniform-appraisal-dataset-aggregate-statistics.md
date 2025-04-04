@@ -1,0 +1,22 @@
+---
+schema: data_rescue_project 
+title: Uniform Appraisal Dataset Aggregate Statistics
+organization: Federal Housing Finance Agency
+agency: Federal Housing Finance Agency
+websites: fhfa.gov
+data_source: www.fhfa.gov/data/uniform-appraisal-dataset-aggregate-statistics
+description: 
+last_modified: 2025-03-18
+last_modified_by: Daphna
+metadata_available: No
+metadata_url: 
+resources:
+  - id: 508
+    url: www.datalumos.org/datalumos/project/219961/version/V1/view
+    format: 
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: DRP, DL
+    notes: 
+---

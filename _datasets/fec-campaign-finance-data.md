@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: FEC Campaign Finance Data
 organization: GSA -FAS -Technology Transformation Service
 agency: General Services Administration
-notes: 
-status: Finished
-size: 101.76GB
-maintainer: ANON
-download_date: 2025-02-05
-metadata_available: False
+websites: fec.gov
+data_source: www.fec.gov/data/browse-data/?tab=bulk-data
+description: 
+last_modified: 2025-02-25
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fec.gov/data/browse-data/?tab=bulk-data
-    format: html
-  - name: Link to archive
+  - id: 173
     url: 
-    format: ZIP,PDF,TXT,CSV
+    format: ZIP, PDF, TXT, CSV
+    status: Finished
+    size: 101.76
+    download_date: 2025-02-05
+    maintainer: ANON
+    notes: 
 ---

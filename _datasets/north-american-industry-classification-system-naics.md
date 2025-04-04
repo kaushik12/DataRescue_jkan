@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: North American Industry Classification System (NAICS)
 organization: Census Bureau
 agency: Department of Commerce
-notes: Local - OEDP
-status: Finished
-size: 
-maintainer: PEDP,OEDP
-download_date: 2025-02-12
-metadata_available: False
+websites: census.gov
+data_source: www.census.gov/naics/?input=1531&year=2022
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.census.gov/naics/?input=1531&year=2022
-    format: html
-  - name: Link to archive
-    url: 
+  - id: 63
+    url: github.com/oedp/NAICS
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-12
+    maintainer: PEDP, OEDP
+    notes: Local - OEDP
 ---

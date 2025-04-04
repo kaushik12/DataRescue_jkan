@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: National Survey of Mortgage Originations (NSMO)
 organization: Consumer Financial Protection Bureau, Federal Housing Finance Agency
 agency: Consumer Financial Protection Bureau, Federal Housing Finance Agency
-notes: 
-status: Finished
-size: 
-maintainer: DRP,DL
-download_date: 2025-02-14
-metadata_available: False
+websites: consumerfinance.gov, fhfa.gov
+data_source: www.fhfa.gov/data/national-survey-mortgage-originations-nsmo-public-use-file
+description: This is a joint collection between the CFPB and the FHFA
+last_modified: 2025-02-20
+last_modified_by: Kathleen
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://www.fhfa.gov/data/national-survey-mortgage-originations-nsmo-public-use-file
-    format: html
-  - name: Link to archive
-    url: https://www.datalumos.org/datalumos/project/219485/version/V1/view
+  - id: 89
+    url: www.datalumos.org/datalumos/project/219485/version/V1/view
     format: 
+    status: Finished
+    size: 
+    download_date: 2025-02-14
+    maintainer: DRP, DL
+    notes: 
 ---

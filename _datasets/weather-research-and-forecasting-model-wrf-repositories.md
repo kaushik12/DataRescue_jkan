@@ -3,18 +3,20 @@ schema: data_rescue_project
 title: Weather Research and Forecasting Model (WRF) Repositories
 organization: NASA Goddard Space Flight Center
 agency: National Aeronautics and Space Administration
-notes: Contains version 1 of Justice 40 screening tool
-status: Finished
-size: 
-maintainer: EDGI
-download_date: 
-metadata_available: False
+websites: nuwrf.gsfc.nasa.gov
+data_source: github.com/wrf-model
+description: 
+last_modified: 2025-03-03
+last_modified_by: Cataloger
+metadata_available: No
 metadata_url: 
 resources:
-  - name: Data Source
-    url: https://github.com/wrf-model
-    format: html
-  - name: Link to archive
-    url: https://github.com/wrf-model-clone
+  - id: 236
+    url: github.com/wrf-model-clone
     format: Git
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: EDGI
+    notes: Contains version 1 of Justice 40 screening tool
 ---

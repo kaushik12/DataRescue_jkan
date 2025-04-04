@@ -4,37 +4,28 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
-  - field_name: status
-    label: Status
-    datajson: status
-    value:
-      - Finished
-      - In progress
-      - To be archived
   - field_name: organization
     label: Organization
     datajson: publisher.name
   - field_name: agency
     label: Agency
     datajson: agency
-  - field_name: download_date
-    label: Download Date
-    datajson: last_updated
-  - field_name: size
-    label: Archive size
-    datajson: size
-  - field_name: maintainer
-    label: Maintainer
-    datajson: maintainer
-  - field_name: notes
+  - field_name: description
     label: Description
     datajson: description
+  - field_name: data_source
+    label: Data Source
+    datajson: source    
+  - field_name: websites
+    label: Websites
+    datajson: websites    
   - field_name: metadata_available
     label: Metadata Available
     datajson: description
     value:
-      - True
-      - False
+      - Yes
+      - No
+      - Under Review
   - field_name: metadata_url
     label: Metadata URL
     datajson: metadata_url
@@ -42,11 +33,27 @@ dataset_fields:
     label: Category
     display_template: display/category.html
     datajson: category
+  - field_name: last_modified
+    label: Last Modified
+    datajson: modified
+  - field_name: last_modified_by
+    label: Last Modified By
+    datajson: modified_by
 
 resource_fields:
-  - field_name: name
-    label: Resource Name
+  - field_name: id
+    label: Resource ID
     datajson: distribution.title
+  - field_name: status
+    label: Status
+    datajson: status
+    value:
+      - Finished
+      - In progress
+      - To be archived
+  - field_name: download_date
+    label: Download Date
+    datajson: download_date
   - field_name: url
     label: URL
     datajson: distribution.downloadURL
@@ -63,6 +70,17 @@ resource_fields:
       - kmz
       - shp
       - xml
+      - pdf
+  - field_name: size
+    label: Archive size
+    datajson: size
+  - field_name: maintainer
+    label: Maintainer
+    datajson: maintainer
+  - field_name: notes
+    label: Notes
+    datajson: notes
+  
 
 organization_fields:
   - field_name: title
