@@ -13,7 +13,7 @@ metadata_url:
 resources:
   - id: 611
     url: https://archive.org/details/usaspending-db_20250106
-    format: ZIP, .dat
+    format: ZIP, dat
     status: Finished
     size: 145.0
     download_date: 2025-01-06

@@ -21,7 +21,7 @@ dataset_fields:
     datajson: websites    
   - field_name: metadata_available
     label: Metadata Available
-    datajson: description
+    datajson: metadata_available
     value:
       - Yes
       - No

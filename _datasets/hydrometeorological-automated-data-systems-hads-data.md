@@ -13,7 +13,7 @@ metadata_url: https://hads.ncep.noaa.gov/WhatIsHADS.shtml
 resources:
   - id: 590
     url: https://archive.org/details/nws-hydrometeorological-automated-data-system
-    format: .dat
+    format: dat
     status: Finished
     size: 87.0
     download_date: 2025-03-15

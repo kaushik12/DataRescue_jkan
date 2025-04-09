@@ -13,7 +13,7 @@ metadata_url:
 resources:
   - id: 515
     url: https://archive.org/details/automated-surface-observing-system-five-minute
-    format: .dat
+    format: dat
     status: Finished
     size: 20.0
     download_date: 2025-02-22

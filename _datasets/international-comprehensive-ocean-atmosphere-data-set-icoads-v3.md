@@ -13,7 +13,7 @@ metadata_url: https://icoads.noaa.gov/
 resources:
   - id: 703
     url: https://archive.org/details/international-comprehensive-ocean-atmosphere-1
-    format: .dat, nc
+    format: dat, nc
     status: Finished
     size: 1800.0
     download_date: 2025-03-31

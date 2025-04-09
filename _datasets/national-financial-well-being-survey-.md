@@ -13,7 +13,7 @@ metadata_url:
 resources:
   - id: 88
     url: https://www.datalumos.org/datalumos/project/219821/version/V1/view
-    format: 
+    format: CSV, PDF, SPSS
     status: Finished
     size: 
     download_date: 2025-02-17
