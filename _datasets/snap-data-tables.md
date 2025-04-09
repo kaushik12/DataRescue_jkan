@@ -10,6 +10,8 @@ last_modified: 2025-02-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Food
 resources:
   - id: 176
     url: https://doi.org/10.7910/DVN/AMUKJ0

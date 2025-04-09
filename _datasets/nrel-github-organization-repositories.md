@@ -10,6 +10,8 @@ last_modified: 2025-03-03
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 240
     url: https://github.com/NREL-clone

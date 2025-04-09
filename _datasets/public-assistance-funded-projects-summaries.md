@@ -10,6 +10,8 @@ last_modified: 2025-02-11
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250211183542/https://www.fema.gov/openfema-data-page/public-assistance-funded-project-summaries-v1
+category:
+  - Public Safety
 resources:
   - id: 39
     url: https://www.datalumos.org/datalumos/project/218481/version/V1/view

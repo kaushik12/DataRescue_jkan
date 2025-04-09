@@ -10,6 +10,8 @@ last_modified: 2025-03-18
 last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 513
     url: https://www.datalumos.org/datalumos/project/221941/version/V1/view

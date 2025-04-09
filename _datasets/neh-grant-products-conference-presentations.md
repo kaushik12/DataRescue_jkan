@@ -10,6 +10,8 @@ last_modified: 2025-03-21
 last_modified_by: Kathleen
 metadata_available: Yes
 metadata_url: 
+category:
+  - Arts / Culture / History
 resources:
   - id: 572
     url: https://www.datalumos.org/datalumos/project/223141/version/V1/view

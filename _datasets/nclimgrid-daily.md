@@ -10,6 +10,8 @@ last_modified: 2025-03-28
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://doi.org/10.25921/c4gt-r169
+category:
+  - Economy
 resources:
   - id: 615
     url: https://archive.org/details/nclimgrid-daily-2025-03-24

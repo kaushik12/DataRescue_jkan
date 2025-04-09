@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Public Safety
 resources:
   - id: 209
     url: https://www.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd

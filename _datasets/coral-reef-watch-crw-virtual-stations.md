@@ -10,6 +10,8 @@ last_modified: 2025-03-22
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 215
     url: https://hub.arcgis.com/maps/26e71d14067c4b3f8dd31d1a4e008cfb/about

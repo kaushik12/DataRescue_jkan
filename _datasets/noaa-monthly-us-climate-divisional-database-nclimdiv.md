@@ -10,6 +10,8 @@ last_modified: 2025-04-02
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3aC00005
+category:
+  - Economy
 resources:
   - id: 705
     url: https://archive.org/details/nclimdiv-2025-04-01

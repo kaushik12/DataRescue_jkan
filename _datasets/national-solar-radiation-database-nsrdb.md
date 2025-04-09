@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 239
     url: https://github.com/NREL/nsrdb/tree/v4.1.1

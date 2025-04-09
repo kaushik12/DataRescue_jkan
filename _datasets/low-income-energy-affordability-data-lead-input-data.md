@@ -10,6 +10,8 @@ last_modified: 2025-04-03
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 69
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZDV0KN

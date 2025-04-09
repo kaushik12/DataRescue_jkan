@@ -10,6 +10,8 @@ last_modified: 2025-02-12
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 72
     url: https://github.com/oedp/doe-wind-exchange

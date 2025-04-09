@@ -10,6 +10,8 @@ last_modified: 2025-04-02
 last_modified_by: Alex P
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 700
     url: https://www.datalumos.org/datalumos/project/223443/version/V1/view

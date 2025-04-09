@@ -10,6 +10,8 @@ last_modified: 2025-02-28
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 178
     url: https://www.openicpsr.org/openicpsr/project/220102/version/V1/view

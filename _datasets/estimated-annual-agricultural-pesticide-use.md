@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 599
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FQEK6&version=DRAFT

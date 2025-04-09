@@ -10,6 +10,8 @@ last_modified: 2025-04-02
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://icoads.noaa.gov/
+category:
+  - Economy
 resources:
   - id: 703
     url: https://archive.org/details/international-comprehensive-ocean-atmosphere-1

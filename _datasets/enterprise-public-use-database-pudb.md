@@ -10,6 +10,8 @@ last_modified: 2025-03-26
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Real Estate / Land Records
 resources:
   - id: 156
     url: https://www.datalumos.org/datalumos/project/219482/version/V1/view

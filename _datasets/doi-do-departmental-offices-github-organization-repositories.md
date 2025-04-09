@@ -10,6 +10,8 @@ last_modified: 2025-02-12
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 73
     url: https://github.com/DOI-DO-clone

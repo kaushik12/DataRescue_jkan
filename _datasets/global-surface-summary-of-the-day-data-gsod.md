@@ -10,6 +10,8 @@ last_modified: 2025-03-20
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 521
     url: https://archive.org/details/global-surface-summary-day

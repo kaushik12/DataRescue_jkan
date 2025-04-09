@@ -10,6 +10,8 @@ last_modified: 2025-03-22
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://data.noaa.gov/onestop/api/registry/metadata/collection/unknown/6e653267-5666-4fc4-9aee-9c8e096e0c21/raw/xml
+category:
+  - Economy
 resources:
   - id: 591
     url: https://archive.org/details/atmospheric-rivers_202503

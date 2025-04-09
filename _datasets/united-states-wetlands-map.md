@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 598
     url: https://arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462

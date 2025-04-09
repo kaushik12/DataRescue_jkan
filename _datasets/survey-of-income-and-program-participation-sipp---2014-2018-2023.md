@@ -10,6 +10,8 @@ last_modified: 2025-03-03
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 323
     url: https://www.dropbox.com/scl/fo/axlk0xg1gvgrwpjs0rtw4/AObeIyAL3OLJn5-c-K-PiP0?rlkey=5yo9sbk7gl4ks0bk2hbuzct8d&dl=0

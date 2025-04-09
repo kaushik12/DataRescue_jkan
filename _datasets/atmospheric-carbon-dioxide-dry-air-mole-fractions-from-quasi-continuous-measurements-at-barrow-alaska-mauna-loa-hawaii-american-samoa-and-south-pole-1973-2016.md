@@ -10,6 +10,8 @@ last_modified: 2025-03-27
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 613
     url: https://archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd

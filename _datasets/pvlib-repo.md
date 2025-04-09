@@ -10,6 +10,8 @@ last_modified: 2025-03-27
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 614
     url: https://github.com/pvlib

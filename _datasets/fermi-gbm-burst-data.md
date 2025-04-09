@@ -10,6 +10,8 @@ last_modified: 2025-03-20
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 522
     url: https://archive.org/details/fermi_gbm_burst

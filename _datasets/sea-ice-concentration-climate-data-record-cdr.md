@@ -10,6 +10,8 @@ last_modified: 2025-03-22
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://nsidc.org/data/g02202/versions/5#anchor-overview
+category:
+  - Economy
 resources:
   - id: 588
     url: https://archive.org/details/sea-ice-concentration

@@ -10,6 +10,8 @@ last_modified: 2025-03-03
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Real Estate / Land Records
 resources:
   - id: 106
     url: 

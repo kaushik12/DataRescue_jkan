@@ -10,6 +10,8 @@ last_modified: 2025-03-30
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/international-best-track-archive
+category:
+  - Economy
 resources:
   - id: 625
     url: https://archive.org/details/international-best-track-archive-for-climate-stewardship-ibtracs

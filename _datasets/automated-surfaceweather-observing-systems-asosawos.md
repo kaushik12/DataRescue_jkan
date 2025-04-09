@@ -10,6 +10,8 @@ last_modified: 2025-03-20
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 515
     url: https://archive.org/details/automated-surface-observing-system-five-minute

@@ -10,6 +10,8 @@ last_modified: 2025-03-20
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 234
     url: https://zenodo.org/records/14816488

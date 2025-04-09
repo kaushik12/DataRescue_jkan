@@ -10,6 +10,8 @@ last_modified: 2025-03-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://pmc.ncbi.nlm.nih.gov/tools/textmining/
+category:
+  - Health / Human Services
 resources:
   - id: 607
     url: https://archive.org/details/nih_pub_pmc

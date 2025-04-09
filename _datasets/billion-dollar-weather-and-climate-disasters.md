@@ -10,6 +10,8 @@ last_modified: 2025-02-10
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
+category:
+  - Economy
 resources:
   - id: 0
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT

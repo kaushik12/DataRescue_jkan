@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 600
     url: https://archive.org/details/ghcnh_2025-02-28

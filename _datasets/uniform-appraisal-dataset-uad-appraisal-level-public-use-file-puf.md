@@ -10,6 +10,8 @@ last_modified: 2025-03-18
 last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
+category:
+  - Real Estate / Land Records
 resources:
   - id: 509
     url: https://www.datalumos.org/datalumos/project/220583/version/V1/view

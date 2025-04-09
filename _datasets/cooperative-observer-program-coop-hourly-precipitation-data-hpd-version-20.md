@@ -10,6 +10,8 @@ last_modified: 2025-03-27
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/data/coop-hourly-precipitation/v2/doc/CHPD-v2-ATBD-20181023.pdf
+category:
+  - Economy
 resources:
   - id: 612
     url: https://archive.org/details/coop-hourly-precipitation

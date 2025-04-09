@@ -10,6 +10,8 @@ last_modified: 2025-03-23
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 235
     url: https://arcgis.com/home/item.html?id=cab265835317461e818f13eabc242ed1

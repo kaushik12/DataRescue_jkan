@@ -10,6 +10,8 @@ last_modified: 2025-03-28
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00948
+category:
+  - Economy
 resources:
   - id: 616
     url: https://archive.org/details/cmorph-high-resolution-global-precipitation-estimates

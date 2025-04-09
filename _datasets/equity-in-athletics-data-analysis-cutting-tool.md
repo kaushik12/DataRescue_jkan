@@ -10,6 +10,8 @@ last_modified: 2025-02-11
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Education
 resources:
   - id: 12
     url: https://www.datalumos.org/datalumos/project/218162/version/V1/view

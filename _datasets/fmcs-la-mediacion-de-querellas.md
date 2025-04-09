@@ -10,6 +10,8 @@ last_modified: 2025-03-31
 last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 660
     url: https://www.datalumos.org/datalumos/project/223065/version/V1/view

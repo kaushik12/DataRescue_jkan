@@ -10,6 +10,8 @@ last_modified: 2025-03-02
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Elections / Politics
 resources:
   - id: 325
     url: https://www.dropbox.com/scl/fo/48s8kvkihywo2bsiwi5pj/AC2dcwGwRVo1IoeqU-HJURQ?rlkey=maq05i462hnvq38mn8s4bbrt6&dl=0

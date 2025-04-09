@@ -10,6 +10,8 @@ last_modified: 2025-03-02
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 196
     url: https://doi.org/10.7910/DVN/TQG6RR

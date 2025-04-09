@@ -10,6 +10,8 @@ last_modified: 2025-04-08
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00756
+category:
+  - Economy
 resources:
   - id: 706
     url: https://archive.org/details/snow-cover-extent-cdr-noaa

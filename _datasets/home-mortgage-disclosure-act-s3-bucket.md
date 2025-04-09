@@ -10,6 +10,8 @@ last_modified: 2025-02-25
 last_modified_by: Admin
 metadata_available: Yes
 metadata_url: https://ffiec.cfpb.gov/documentation/api/file-serving/#s3-file-service
+category:
+  - Budget / Finance
 resources:
   - id: 177
     url: 

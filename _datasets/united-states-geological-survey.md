@@ -10,6 +10,8 @@ last_modified: 2025-02-11
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 5
     url: 

@@ -10,6 +10,8 @@ last_modified: 2025-03-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
+category:
+  - Economy
 resources:
   - id: 604
     url: https://archive.org/details/global-historical-climatology-network-daily

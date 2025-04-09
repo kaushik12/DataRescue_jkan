@@ -10,6 +10,8 @@ last_modified: 2025-04-03
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 68
     url: https://zenodo.org/records/15061838

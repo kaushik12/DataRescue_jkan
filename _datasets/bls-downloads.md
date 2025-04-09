@@ -10,6 +10,8 @@ last_modified: 2025-02-10
 last_modified_by: Admin
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 1
     url: 

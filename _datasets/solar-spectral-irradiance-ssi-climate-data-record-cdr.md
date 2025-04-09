@@ -10,6 +10,8 @@ last_modified: 2025-03-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01722/html
+category:
+  - Economy
 resources:
   - id: 605
     url: https://archive.org/details/solar-spectral-irradiance

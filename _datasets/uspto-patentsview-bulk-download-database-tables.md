@@ -10,6 +10,8 @@ last_modified: 2025-03-22
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 594
     url: 

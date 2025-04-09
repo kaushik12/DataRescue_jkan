@@ -10,6 +10,8 @@ last_modified: 2025-02-21
 last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
+category:
+  - Arts / Culture / History
 resources:
   - id: 104
     url: https://www.datalumos.org/datalumos/project/218902/version/V1/view

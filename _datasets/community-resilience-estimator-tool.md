@@ -10,6 +10,8 @@ last_modified: 2025-02-12
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 62
     url: https://github.com/oedp/community-resilience-estimates

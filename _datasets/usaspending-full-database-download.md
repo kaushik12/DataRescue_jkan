@@ -10,6 +10,8 @@ last_modified: 2025-03-26
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Budget / Finance
 resources:
   - id: 611
     url: https://archive.org/details/usaspending-db_20250106

@@ -10,6 +10,8 @@ last_modified: 2025-03-30
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 622
     url: https://www.datalumos.org/datalumos/project/223523/version/V1/view

@@ -10,6 +10,8 @@ last_modified: 2025-03-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/crn/
+category:
+  - Economy
 resources:
   - id: 603
     url: https://archive.org/details/us-climate-reference-network

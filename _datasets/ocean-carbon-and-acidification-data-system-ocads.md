@@ -10,6 +10,8 @@ last_modified: 2025-04-08
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
+category:
+  - Economy
 resources:
   - id: 710
     url: https://archive.org/details/noaa-ncei-ocads-2025-04-07

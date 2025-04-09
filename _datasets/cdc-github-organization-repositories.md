@@ -10,6 +10,8 @@ last_modified: 2025-02-12
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Health / Human Services
 resources:
   - id: 52
     url: https://github.com/CDCgov-clone

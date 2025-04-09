@@ -10,6 +10,8 @@ last_modified: 2025-03-26
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 518
     url: https://archive.org/details/avhrr-aerosol-optical-thickness

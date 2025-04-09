@@ -10,6 +10,8 @@ last_modified: 2025-03-02
 last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
+category:
+  - Environment
 resources:
   - id: 194
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/A9ZHHR

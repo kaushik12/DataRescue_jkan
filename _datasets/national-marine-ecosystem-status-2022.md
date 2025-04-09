@@ -10,6 +10,8 @@ last_modified: 2025-04-08
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 707
     url: https://archive.org/details/national-marine-ecosystem-status-2022

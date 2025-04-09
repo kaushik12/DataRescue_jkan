@@ -10,6 +10,8 @@ last_modified: 2025-03-05
 last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 351
     url: https://biglocalnews.org/#/project/UHJvamVjdDpjZjgyZTRkYS0xNTQ4LTQ4NGUtOTk2MC1mNzk4ZTg4NmY5ODM=

@@ -10,6 +10,8 @@ last_modified: 2025-03-03
 last_modified_by: Cataloger
 metadata_available: Under Review
 metadata_url: 
+category:
+  - Parks / Recreation
 resources:
   - id: 596
     url: https://zenodo.org/records/14783215

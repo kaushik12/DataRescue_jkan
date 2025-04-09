@@ -10,6 +10,8 @@ last_modified: 2025-03-25
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Economy
 resources:
   - id: 608
     url: https://www.datalumos.org/datalumos/project/224161/version/V1/view

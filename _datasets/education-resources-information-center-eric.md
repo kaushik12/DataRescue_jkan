@@ -10,6 +10,8 @@ last_modified: 2025-03-20
 last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
+category:
+  - Education
 resources:
   - id: 520
     url: https://doi.org/10.5281/zenodo.15032840
