@@ -3,6 +3,8 @@ import requests
 # import json
 # import numpy as np
 import os
+from python.create_markdowns import create_markdowns
+
 
 BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
@@ -95,3 +97,5 @@ datasets = pd.DataFrame(rows)
 
 datasets.to_csv("baserow_exports/datarescue_datasets.csv", index=False)
 backups.to_csv("baserow_exports/datarescue_backups.csv", index=False)
+
+create_markdowns()
