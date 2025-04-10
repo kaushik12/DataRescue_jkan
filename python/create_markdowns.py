@@ -161,7 +161,7 @@ def create_markdowns():
     datasets.head()
 
     # Remove files in _datasets and _organizations
-    remove_files_os('_datasets')
-    remove_files_os('_organizations')
+    remove_files_os('./_datasets')
+    remove_files_os('./_organizations')
 
     datasets.apply(create_dataset_md, axis=1, args=(backups,))

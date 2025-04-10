@@ -8,3 +8,4 @@ _config.ci.yml
 .parcel-cache
 vendor
 .DS_Store
+__pycache__/
