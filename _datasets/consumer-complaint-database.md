@@ -15,7 +15,7 @@ category:
 resources:
   - id: 85
     url: https://doi.org/10.3886/E219041V1
-    format: 
+    format: ZIP
     status: Finished
     size: 1.0
     download_date: 2026-02-11
