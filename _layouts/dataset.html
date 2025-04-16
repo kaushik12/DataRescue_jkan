@@ -101,7 +101,11 @@ layout: default
                   </div>
                 </td>
                 <td class="table-content-centered">
+                  {% if resource.url %}
                   <a href="{{ resource.url }}" property='dcat:accessURL'><span property="dct:title">{{ resource.status }}</span></a>
+                  {% else %}
+                  <span property="dct:title">WIP</span>
+                  {% endif %}
                   {% if resource.format %}<span class="badge bg-secondary" property='dcat:mediaType'>{{ resource.format}}</span>{% endif %}
                 </td>
                 <td class="table-content-centered">

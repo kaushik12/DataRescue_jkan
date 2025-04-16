@@ -149,8 +149,8 @@ def create_markdowns():
     """
     This function creates markdown files for each dataset and organization.
     """
-    backups = pd.read_csv("https://raw.githubusercontent.com/kaushik12/DataRescue_jkan/refs/heads/main/baserow_exports/datarescue_backups.csv")
-    datasets = pd.read_csv("https://raw.githubusercontent.com/kaushik12/DataRescue_jkan/refs/heads/main/baserow_exports/datarescue_datasets.csv")
+    backups = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_backups.csv")
+    datasets = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv")
 
     backups.columns = backups.columns.str.lower()
     backups = backups.fillna('')
