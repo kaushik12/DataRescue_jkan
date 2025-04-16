@@ -7,7 +7,6 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-grant-products-articles
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

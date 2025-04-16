@@ -7,7 +7,6 @@ websites: ptsd-va.data.socrata.com
 data_source: https://ptsd-va.data.socrata.com/PTSD-Repository/Study-Interventions/jckr-i5ky/data_preview
 description: 
 last_modified: 2025-04-09
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

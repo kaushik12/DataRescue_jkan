@@ -7,7 +7,6 @@ websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/data/download
 description: 
 last_modified: 2025-02-17
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

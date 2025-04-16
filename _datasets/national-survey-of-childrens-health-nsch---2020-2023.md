@@ -7,7 +7,6 @@ websites: mchb.hrsa.gov
 data_source: https://mchb.hrsa.gov/data-research/national-survey-childrens-health
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: niehs.nih.gov
 data_source: https://tools.niehs.nih.gov/cchhl/index.cfm
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

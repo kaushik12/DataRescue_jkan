@@ -7,7 +7,6 @@ websites: consumerfinance.gov, fhfa.gov
 data_source: https://www.fhfa.gov/data/national-survey-mortgage-originations-nsmo-public-use-file
 description: This is a joint collection between the CFPB and the FHFA
 last_modified: 2025-02-20
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

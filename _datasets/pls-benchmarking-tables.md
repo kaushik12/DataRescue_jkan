@@ -7,7 +7,6 @@ websites: imls.gov
 data_source: https://www.imls.gov/pls-benchmarking-tables
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

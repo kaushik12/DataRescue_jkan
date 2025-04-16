@@ -7,7 +7,6 @@ websites: va.gov
 data_source: https://www.va.gov/vetdata/pocketcard/index.asp
 description: 
 last_modified: 2025-04-09
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
 description: 
 last_modified: 2025-02-28
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

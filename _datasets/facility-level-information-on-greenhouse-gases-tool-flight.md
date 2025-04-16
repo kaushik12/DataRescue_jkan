@@ -7,7 +7,6 @@ websites: ghgdata.epa.gov
 data_source: https://ghgdata.epa.gov/ghgp/main.do#/facility/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:

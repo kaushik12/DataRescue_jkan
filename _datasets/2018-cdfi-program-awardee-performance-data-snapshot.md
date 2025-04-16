@@ -7,7 +7,6 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2021-08/CDFIFY2018-Performance-Data.pdf
 description: 
 last_modified: 2025-03-31
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Gulf-War-Pre-9-11-Veterans-Cumulative-Usage-by-VA-/7nr8-z76p
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

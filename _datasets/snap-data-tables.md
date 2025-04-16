@@ -7,7 +7,6 @@ websites: fns.usda.gov
 data_source: https://www.fns.usda.gov/sites/default/files/resource-files/snap-zip-fy69tocurrent-2.zip
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

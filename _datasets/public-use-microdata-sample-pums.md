@@ -7,7 +7,6 @@ websites: census.gov
 data_source: https://www.census.gov/programs-surveys/acs/microdata.html
 description: 
 last_modified: 2025-02-12
-last_modified_by: Gabrielle
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: nrel.gov
 data_source: https://www.nrel.gov/analysis/sup3rcc.html
 description: 
 last_modified: 2025-03-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

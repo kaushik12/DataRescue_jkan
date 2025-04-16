@@ -7,7 +7,6 @@ websites: financialresearch.gov
 data_source: https://www.financialresearch.gov/data/interagency-data-inventory/
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

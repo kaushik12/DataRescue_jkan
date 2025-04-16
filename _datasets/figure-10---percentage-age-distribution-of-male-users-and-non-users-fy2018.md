@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-10-Percentage-Age-Distribution-of-Male-User/xkey-42d9
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

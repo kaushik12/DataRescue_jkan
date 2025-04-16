@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-14-Trend-in-Percentage-Users-of-Health-Care/aghm-8q3t
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

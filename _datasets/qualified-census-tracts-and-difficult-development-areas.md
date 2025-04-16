@@ -7,7 +7,6 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/qct.html
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

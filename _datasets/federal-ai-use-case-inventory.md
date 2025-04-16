@@ -7,7 +7,6 @@ websites: https://github.com/ombegov
 data_source: https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory
 description: 
 last_modified: 2025-02-24
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/qtzp-vapu
 description: 
 last_modified: 2025-03-18
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

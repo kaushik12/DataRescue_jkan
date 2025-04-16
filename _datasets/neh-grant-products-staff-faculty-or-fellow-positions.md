@@ -7,7 +7,6 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-grant-products-staff-faculty-or-fellow-positions
 description: 
 last_modified: 2025-03-21
-last_modified_by: Kathleen
 metadata_available: Yes
 metadata_url: 
 category:

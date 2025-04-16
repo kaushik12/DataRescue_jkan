@@ -7,7 +7,6 @@ websites: census.gov
 data_source: ftp://ftp.census.gov
 description: 
 last_modified: 2025-02-11
-last_modified_by: Admin
 metadata_available: No
 metadata_url: 
 category:

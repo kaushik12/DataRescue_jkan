@@ -7,7 +7,6 @@ websites: ffiec.cfpb.gov
 data_source: https://s3.amazonaws.com/cfpb-hmda-public/prod/
 description: 
 last_modified: 2025-02-25
-last_modified_by: Admin
 metadata_available: Yes
 metadata_url: https://ffiec.cfpb.gov/documentation/api/file-serving/#s3-file-service
 category:

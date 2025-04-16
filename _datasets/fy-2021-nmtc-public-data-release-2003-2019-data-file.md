@@ -7,7 +7,6 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2021-05/FY_2020_NMTC_Public_Data_Release.xlsx
 description: 
 last_modified: 2025-03-31
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

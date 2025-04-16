@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/climdiv/
 description: 
 last_modified: 2025-04-02
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3aC00005
 category:

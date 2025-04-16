@@ -7,7 +7,6 @@ websites: vaers.hhs.gov
 data_source: https://vaers.hhs.gov/data/datasets.html
 description: 
 last_modified: 2025-03-10
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/221805/version/V1/view
 category:

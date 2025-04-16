@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Gulf-War-Pre-9-11-Veterans-Users-by-VA-Program/h7i3-id66
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

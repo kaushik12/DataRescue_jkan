@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Rate-of-Use-by-Race-Ethnicity-FY2021/q9gv-wrd2
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

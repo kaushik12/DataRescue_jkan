@@ -7,7 +7,6 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/National-Service/2022-AmeriCorps-MES-AmeriCorps-Member-Exit-Survey/59ia-vsnv
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

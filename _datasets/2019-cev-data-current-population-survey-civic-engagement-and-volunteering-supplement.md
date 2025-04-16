@@ -7,7 +7,6 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/dataset/2019-CEV-Data-Current-Population-Survey-Civic-Enga/a6ak-yd7k
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

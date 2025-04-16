@@ -7,7 +7,6 @@ websites: covid-relief-data.ed.gov
 data_source: https://covid-relief-data.ed.gov/data-download
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

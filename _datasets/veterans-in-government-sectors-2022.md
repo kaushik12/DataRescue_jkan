@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: http://data.va.gov/dataset/Veterans-in-Government-Sectors-2022/fizr-xgn8
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/maternal-mortality/php/pregnancy-mortality-surveillance/index.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

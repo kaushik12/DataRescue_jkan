@@ -7,7 +7,6 @@ websites: ahrq.gov
 data_source: https://www.ahrq.gov/sdoh/data-analytics/sdoh-beta-database.html
 description: 
 last_modified: 2025-03-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

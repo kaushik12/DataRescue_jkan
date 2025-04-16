@@ -7,7 +7,6 @@ websites: hud.gov
 data_source: http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/rmra/oe/rpts/sfsnap/sfsnap
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

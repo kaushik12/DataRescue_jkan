@@ -7,7 +7,6 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/uad-appraisal-level-public-use-file-puf
 description: 
 last_modified: 2025-03-18
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

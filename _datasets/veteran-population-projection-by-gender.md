@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Veteran-Population-Projection-by-Gender/88rt-kp2n
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

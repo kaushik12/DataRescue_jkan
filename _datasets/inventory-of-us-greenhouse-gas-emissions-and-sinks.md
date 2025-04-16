@@ -7,7 +7,6 @@ websites: epa.gov
 data_source: https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2022
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: Yes
 metadata_url: 
 category:

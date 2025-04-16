@@ -7,7 +7,6 @@ websites: hints.cancer.gov
 data_source: https://hints.cancer.gov/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: hud.gov
 data_source: https://www.hud.gov/program_offices/housing/mfh/rems/remsinspecscores/remsphysinspscores
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

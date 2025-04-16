@@ -7,7 +7,6 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/rfif/rfif.html
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

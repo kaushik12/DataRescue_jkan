@@ -7,7 +7,6 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-peer-review-evaluators-1970-present-csv
 description: 
 last_modified: 2025-03-21
-last_modified_by: Kathleen
 metadata_available: Yes
 metadata_url: 
 category:

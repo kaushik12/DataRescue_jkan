@@ -7,7 +7,6 @@ websites: sandia.gov
 data_source: https://github.com/pvlib
 description: 
 last_modified: 2025-03-27
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: atsdr.cdc.gov
 data_source: https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.atsdr.cdc.gov/place-health/php/eji/eji-technical-documentation.html
 category:

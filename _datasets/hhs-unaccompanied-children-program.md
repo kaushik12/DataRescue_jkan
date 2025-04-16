@@ -7,7 +7,6 @@ websites: cdc.gov, healthdata.gov
 data_source: https://healthdata.gov/National/HHS-Unaccompanied-Children-Program/ehpz-xc9n/about_data
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

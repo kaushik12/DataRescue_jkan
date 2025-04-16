@@ -7,7 +7,6 @@ websites: wim.usgs.gov
 data_source: https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer
 description: 
 last_modified: 2025-03-23
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

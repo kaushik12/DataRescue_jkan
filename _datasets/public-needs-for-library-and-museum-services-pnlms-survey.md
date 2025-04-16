@@ -7,7 +7,6 @@ websites: imls.gov
 data_source: https://www.imls.gov/research-evaluation/data-collection/public-needs-library-and-museum-services-survey
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

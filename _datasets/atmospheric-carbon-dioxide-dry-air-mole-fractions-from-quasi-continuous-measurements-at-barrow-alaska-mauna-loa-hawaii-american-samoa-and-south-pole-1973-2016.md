@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/carbon-cycle-and-greenhouse-gases-esrl-gmd/
 description: 
 last_modified: 2025-03-27
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

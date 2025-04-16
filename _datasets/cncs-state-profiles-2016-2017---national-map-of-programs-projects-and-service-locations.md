@@ -7,7 +7,6 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/National-Service/CNCS-State-Profiles-2016-2017-National-Map-of-Prog/wy3d-x64g
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

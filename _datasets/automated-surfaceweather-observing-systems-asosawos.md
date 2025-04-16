@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/automated-surface-observing-system-five-minute/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

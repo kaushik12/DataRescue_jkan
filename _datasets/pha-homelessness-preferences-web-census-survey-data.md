@@ -7,7 +7,6 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/pha_study.html
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

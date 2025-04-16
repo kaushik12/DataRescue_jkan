@@ -7,7 +7,6 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/National-Service/2020-AmeriCorps-MES-AmeriCorps-Member-Exit-Survey/tnxs-meph/about_data
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: samhsa.gov
 data_source: https://www.samhsa.gov/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

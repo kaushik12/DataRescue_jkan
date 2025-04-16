@@ -7,7 +7,6 @@ websites: fema.gov
 data_source: https://www.fema.gov/about/openfema/data-sets
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206154846/https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v4
 category:

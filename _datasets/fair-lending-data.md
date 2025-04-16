@@ -7,7 +7,6 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/document/fair-lending-data-files
 description: 
 last_modified: 2025-03-11
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

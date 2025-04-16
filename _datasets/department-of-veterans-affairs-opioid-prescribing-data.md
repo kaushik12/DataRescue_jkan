@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/4tx7-hu2d
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

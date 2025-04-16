@@ -110,7 +110,6 @@ def create_dataset_md(row, backups):
     dataset_md += f"data_source: {row['url']}\n"
     dataset_md += f"description: {clean_text(row['notes'])}\n"
     dataset_md += f"last_modified: {row['last_modified']}\n"
-    dataset_md += f"last_modified_by: {row['last_modified_by']}\n"
     # Check if any backups have metadata available and populate
     dataset_md += f"metadata_available: {metadata_available}\n"
     dataset_md += f"metadata_url: {metadata_url}\n"

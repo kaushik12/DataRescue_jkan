@@ -7,7 +7,6 @@ websites: fec.gov
 data_source: https://www.fec.gov/data/browse-data/?tab=bulk-data
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

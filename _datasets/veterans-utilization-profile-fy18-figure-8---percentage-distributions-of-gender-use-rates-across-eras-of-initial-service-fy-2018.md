@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-8-Percentage-Distributions-of-Gender-Use-Ra/3map-zpzw
 description: 
 last_modified: 2025-04-09
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

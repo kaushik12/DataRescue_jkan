@@ -7,7 +7,6 @@ websites: ope.ed.gov
 data_source: https://ope.ed.gov/athletics/#/datafile/list
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

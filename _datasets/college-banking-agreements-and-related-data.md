@@ -7,7 +7,6 @@ websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/student-banking/deposit-product-marketing-agreements-and-data/
 description: 
 last_modified: 2025-02-20
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

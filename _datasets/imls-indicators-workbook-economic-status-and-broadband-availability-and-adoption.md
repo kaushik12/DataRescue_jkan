@@ -7,7 +7,6 @@ websites: imls.gov
 data_source: https://www.imls.gov/data/data-catalog/imls-indicators-workbook-economic-status-and-broadband-availability-and-adoption
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

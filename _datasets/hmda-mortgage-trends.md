@@ -7,7 +7,6 @@ websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/hmda/
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

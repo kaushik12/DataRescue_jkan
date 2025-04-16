@@ -7,7 +7,6 @@ websites: coralreefwatch.noaa.gov
 data_source: https://coralreefwatch.noaa.gov/satellite/index.php
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: census.gov
 data_source: https://www.census.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

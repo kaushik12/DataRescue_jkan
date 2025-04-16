@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/avhrr-hirs-reflectance-and-cloud-properties-patmosx/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00926/html
 category:

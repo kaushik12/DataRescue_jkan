@@ -7,7 +7,6 @@ websites: usgs.gov
 data_source: https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/
 description: 
 last_modified: 2025-03-23
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

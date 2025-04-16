@@ -7,7 +7,6 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/uniform-appraisal-dataset-aggregate-statistics
 description: 
 last_modified: 2025-03-18
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

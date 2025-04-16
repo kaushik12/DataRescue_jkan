@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/amsu-b-mhs-brightness-temperature/
 description: 
 last_modified: 2025-03-25
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

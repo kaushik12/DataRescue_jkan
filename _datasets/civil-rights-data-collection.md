@@ -7,7 +7,6 @@ websites: civilrightsdata.ed.gov
 data_source: https://civilrightsdata.ed.gov/data
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

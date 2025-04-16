@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: https://www.va.gov/vetdata/veteran_population.asp
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

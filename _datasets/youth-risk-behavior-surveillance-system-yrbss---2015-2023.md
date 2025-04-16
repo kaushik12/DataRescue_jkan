@@ -7,7 +7,6 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
 description: 
 last_modified: 2025-03-29
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

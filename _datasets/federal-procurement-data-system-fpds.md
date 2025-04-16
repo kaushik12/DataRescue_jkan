@@ -7,7 +7,6 @@ websites: fpds.gov
 data_source: https://www.fpds.gov/fpdsng_cms/index.php/en/
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

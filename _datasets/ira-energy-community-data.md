@@ -7,7 +7,6 @@ websites: edx.netl.doe.gov
 data_source: https://edx.netl.doe.gov/dataset/ira-energy-community-data-layers
 description: 
 last_modified: 2025-02-12
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:

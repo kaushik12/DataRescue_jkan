@@ -7,7 +7,6 @@ websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/
 description: 
 last_modified: 2025-02-20
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

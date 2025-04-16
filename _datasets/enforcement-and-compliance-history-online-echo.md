@@ -7,7 +7,6 @@ websites: echo.epa.gov
 data_source: https://echo.epa.gov/
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

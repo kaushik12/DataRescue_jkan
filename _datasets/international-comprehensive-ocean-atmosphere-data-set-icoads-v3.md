@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/international-comprehensive-ocean-atmosphere/
 description: 
 last_modified: 2025-04-02
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://icoads.noaa.gov/
 category:

@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/coop-hourly-precipitation/
 description: 
 last_modified: 2025-03-27
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/data/coop-hourly-precipitation/v2/doc/CHPD-v2-ATBD-20181023.pdf
 category:

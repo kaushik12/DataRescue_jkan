@@ -7,7 +7,6 @@ websites: uspto.gov
 data_source: https://patentsview.org/download/data-download-tables
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

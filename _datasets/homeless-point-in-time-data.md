@@ -7,7 +7,6 @@ websites: hudexchange.info
 data_source: https://www.hudexchange.info/resource/4832/2015-ahar-part-1-pit-estimates-of-homelessness/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

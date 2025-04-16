@@ -7,7 +7,6 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/mirs
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

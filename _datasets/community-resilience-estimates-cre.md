@@ -7,7 +7,6 @@ websites: census.gov
 data_source: https://www.census.gov/programs-surveys/community-resilience-estimates.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

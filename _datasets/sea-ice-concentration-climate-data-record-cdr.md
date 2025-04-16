@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/sea-ice-concentration/
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://nsidc.org/data/g02202/versions/5#anchor-overview
 category:

@@ -7,7 +7,6 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-state-council-activity-1998-2015
 description: 
 last_modified: 2025-03-21
-last_modified_by: Kathleen
 metadata_available: Yes
 metadata_url: 
 category:

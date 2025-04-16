@@ -7,7 +7,6 @@ websites: fema.gov
 data_source: https://www.fema.gov/about/openfema/data-sets/fema-usfa-nfirs-annual-data
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

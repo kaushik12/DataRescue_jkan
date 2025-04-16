@@ -7,7 +7,6 @@ websites: mbda.gov
 data_source: https://www.mbda.gov/research/data/Firm%20Statistics%20by%20Demographics%20%282020%29
 description: 
 last_modified: 2025-04-02
-last_modified_by: Alex P
 metadata_available: No
 metadata_url: 
 category:

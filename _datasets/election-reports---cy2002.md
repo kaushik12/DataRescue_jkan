@@ -7,7 +7,6 @@ websites: nlrb.gov
 data_source: https://www.nlrb.gov/reports/agency-performance-report/election-reports/election-reports-cy-2002
 description: 
 last_modified: 2025-04-01
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

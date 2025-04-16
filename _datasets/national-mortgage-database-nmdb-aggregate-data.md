@@ -7,7 +7,6 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/national-mortgage-database-aggregate-statistics
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

@@ -7,7 +7,6 @@ websites: hcup-us.ahrq.gov
 data_source: https://hcup-us.ahrq.gov/db/nation/nrd/nrddbdocumentation.jsp
 description: 
 last_modified: 2025-03-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:

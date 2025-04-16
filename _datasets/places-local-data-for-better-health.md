@@ -7,7 +7,6 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/places/index.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.cdc.gov/places/methodology/index.html
 category:

@@ -7,7 +7,6 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/avhrr-aerosol-optical-thickness/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

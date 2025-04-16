@@ -7,7 +7,6 @@ websites: heasarc.gsfc.nasa.gov
 data_source: https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/bursts/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:

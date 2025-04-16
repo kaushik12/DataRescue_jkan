@@ -7,7 +7,6 @@ websites: sites.ed.gov
 data_source: https://sites.ed.gov/idea/data/
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

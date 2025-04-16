@@ -7,7 +7,6 @@ websites: census.gov
 data_source: https://www.census.gov/data/experimental-data-products/household-pulse-survey.html
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

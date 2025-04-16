@@ -7,7 +7,6 @@ websites: huduser.gov
 data_source: https://archives.huduser.gov/portal/datasets/hads.html
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

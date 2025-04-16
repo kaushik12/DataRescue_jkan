@@ -7,7 +7,6 @@ websites: usgs.gov
 data_source: https://eerscmap.usgs.gov/uspvdb/data/
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: Under Review
 metadata_url: 
 category:

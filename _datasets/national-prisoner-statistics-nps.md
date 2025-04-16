@@ -7,7 +7,6 @@ websites: bjs.ojp.gov
 data_source: https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:

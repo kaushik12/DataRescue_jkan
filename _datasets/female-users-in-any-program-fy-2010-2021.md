@@ -7,7 +7,6 @@ websites: data.va.gov
 data_source: http://data.va.gov/dataset/Female-Users-in-Any-Program-FY-2010-2021/cktx-7xci
 description: 
 last_modified: 2025-03-17
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:

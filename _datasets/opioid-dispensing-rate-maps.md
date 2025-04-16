@@ -7,7 +7,6 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/drugoverdose/rxrate-maps/opioid.html
 description: 
 last_modified: 2025-02-17
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
