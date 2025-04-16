@@ -2,9 +2,10 @@
   <div class="container">
     <a href="https://www.datarescueproject.org/"><div class="me-3 mt-2 mb-2"><img style="width: auto; height: 40px;" src="/img/drp-brand-3.png?"></div></a>
 
-<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         {% for link in site.navigation %}
@@ -17,5 +18,14 @@
       </ul>
     </div>
 
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <a class="nav-link d-flex align-items-center" href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" class="me-1" />
+          GitHub Repository
+        </a>
+      </li>
+    </ul>
+    
   </div>
 </nav>
