@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 4.0
     download_date: 2025-03-23
-    maintainer: TSHRMP
+    maintainer: ANON
     notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in process.
 ---

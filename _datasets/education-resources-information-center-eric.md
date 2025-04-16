@@ -21,4 +21,12 @@ resources:
     download_date: 2025-03-15
     maintainer: CCoA
     notes: The full database is downloadable as XML but this includes JSON versions of the records, too.
+  - id: 735
+    url: https://web.archive.org/collection-search/files.eric.ed.gov/iskme
+    format: PDF
+    status: Finished
+    size: 
+    download_date: 2025-04-05
+    maintainer: EOT, WM
+    notes: 509,664 PDFs and 2,613,141 (and growing) Web Pages archived from ERIC.
 ---

@@ -15,10 +15,10 @@ category:
 resources:
   - id: 63
     url: https://github.com/oedp/NAICS
-    format: 
+    format: Git
     status: Finished
     size: 
     download_date: 2025-02-12
     maintainer: PEDP, OEDP
-    notes: Local - OEDP
+    notes: 
 ---

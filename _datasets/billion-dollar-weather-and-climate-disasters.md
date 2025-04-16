@@ -14,7 +14,7 @@ category:
   - Economy
 resources:
   - id: 0
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version
     format: ZIP
     status: Finished
     size: 0.15

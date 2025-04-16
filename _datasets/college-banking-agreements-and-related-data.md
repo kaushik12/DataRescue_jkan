@@ -15,7 +15,7 @@ category:
 resources:
   - id: 84
     url: https://www.datalumos.org/datalumos/project/219741/version/V1/view
-    format: 
+    format: PDF, CSV, ZIP
     status: Finished
     size: 16.51
     download_date: 2025-02-16

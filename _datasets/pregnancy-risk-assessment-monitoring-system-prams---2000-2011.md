@@ -15,9 +15,9 @@ category:
 resources:
   - id: 318
     url: https://www.dropbox.com/scl/fo/vlisaz34xhzjekkc27bjk/AKALT1nKcYuDQPkCipKWRcQ?rlkey=fgbjbvffdsxakl5i4pvj5hbsi&dl=0
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.25
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

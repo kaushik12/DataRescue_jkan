@@ -15,7 +15,7 @@ category:
 resources:
   - id: 239
     url: https://github.com/NREL/nsrdb/tree/v4.1.1
-    format: HDF5
+    format: HDF5, Git
     status: Finished
     size: 3.1
     download_date: 

@@ -1,13 +1,13 @@
 ---
 schema: data_rescue_project 
-title: Community Resilience Estimator Tool
+title: Community Resilience Estimates (CRE)
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
 data_source: https://www.census.gov/programs-surveys/community-resilience-estimates.html
 description: 
-last_modified: 2025-02-12
-last_modified_by: Gabrielle
+last_modified: 2025-04-15
+last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
