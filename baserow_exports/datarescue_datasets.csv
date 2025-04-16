@@ -53,16 +53,16 @@ HMA Subapplications by NIFP CRS Communities,,54,https://www.fema.gov/about/openf
 HMA subapplications Financial Transactions,,55,https://www.fema.gov/about/openfema/data-sets,fema.gov,Federal Emergency Management Agency,Department of Homeland Security,2025-02-11,Cataloger
 HMA Sumbapplications Project Site Inventories,,56,https://www.fema.gov/about/openfema/data-sets,fema.gov,Federal Emergency Management Agency,Department of Homeland Security,2025-02-11,Cataloger
 CDC GitHub organization repositories,,57,https://github.com/CDCgov,github.com/CDCgov,Centers for Disease Control and Prevention (CDC),Department of Health and Human Services,2025-02-12,Gabrielle
-Environmental Justice Index,,58,https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html,atsdr.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-02-12,Gabrielle
-PLACES,,59,https://www.cdc.gov/places/index.html,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-02-12,Gabrielle
-Social Vulnerability Index,,60,https://www.atsdr.cdc.gov/place-health/php/svi/index.html,atsdr.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-02-12,Gabrielle
-Community Resilience Estimator Tool,,62,https://www.census.gov/programs-surveys/community-resilience-estimates.html,census.gov,Census Bureau,Department of Commerce,2025-02-12,Gabrielle
+Environmental Justice Index (EJI),,58,https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html,atsdr.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+PLACES: Local Data for Better Health,,59,https://www.cdc.gov/places/index.html,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+Social Vulnerability Index (SVI),,60,https://www.atsdr.cdc.gov/place-health/php/svi/index.html,atsdr.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+Community Resilience Estimates (CRE),,62,https://www.census.gov/programs-surveys/community-resilience-estimates.html,census.gov,Census Bureau,Department of Commerce,2025-04-15,Cataloger
 North American Industry Classification System (NAICS),,63,https://www.census.gov/naics/?input=1531&year=2022,census.gov,Census Bureau,Department of Commerce,2025-03-03,Cataloger
 Public Use Microdata Sample (PUMS),,64,https://www.census.gov/programs-surveys/acs/microdata.html,census.gov,Census Bureau,Department of Commerce,2025-02-12,Gabrielle
 IRA Energy Community Data,,65,https://edx.netl.doe.gov/dataset/ira-energy-community-data-layers,edx.netl.doe.gov,US Department of Energy - Office of the CIO,Department of Energy,2025-02-12,Gabrielle
 Justice 40 - Energy Burden Optimization Model Decision Support Tool,,66,https://justice40tool.lbl.gov/,justice40tool.lbl.gov,Lawrence Berkeley National Laboratory,Department of Energy,2025-02-12,Gabrielle
 Low-Income Community Bonus Credit Program,,67,https://data.nrel.gov/submissions/222,lists.nrel.gov,National Renewable Energy Laboratory,Department of Energy,2025-04-03,Cataloger
-Low-Income Energy Affordability Data (LEAD) Input Data,,68,https://catalog.data.gov/dataset/low-income-energy-affordability-data-lead-tool-2022-update,energy.gov,US Department of Energy - Office of the CIO,Department of Energy,2025-04-03,Cataloger
+Low-Income Energy Affordability Data (LEAD),,68,https://catalog.data.gov/dataset/low-income-energy-affordability-data-lead-tool-2022-update,energy.gov,US Department of Energy - Office of the CIO,Department of Energy,2025-04-15,Cataloger
 openEDI GitHub Organization Repositories,,69,https://github.com/openEDI,github.com/openEDI,Department of Energy,Department of Energy,2025-03-03,Cataloger
 Wind Energy Community Benefits Database,,70,https://windexchange.energy.gov/projects/community-benefit-agreements,windexchange.energy.gov,US Department of Energy - Office of the CIO,Department of Energy,2025-02-12,Gabrielle
 DOI-DO (Departmental Offices) GitHub organization repositories,,71,https://github.com/DOI-DO,doi.gov,Office of Communications,Department of the Interior,2025-02-12,Gabrielle
@@ -283,7 +283,6 @@ National Flood Hazard Layer (NFHL) Viewer,"PDFs of FIRMettes or Full FIRMs, Map 
 GSA GItHub Repo,,386,https://github.com/gsa,gsa.gov,GSA - IDI - ECAS II,General Services Administration,2025-03-03,Cataloger
 NASA Repo,,387,https://github.com/NASA,nasa.gov,NASA Office of the Chief Information Officer,National Aeronautics and Space Administration,2025-03-03,Cataloger
 NIST Repo,,388,https://github.com/usnistgov,nist.gov,National Institute of Standards and Technology,Department of Commerce,2025-03-03,Cataloger
-Billion Dollar Disasters,,389,https://www.ncei.noaa.gov/access/billions/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-03-02,Gabrielle
 Bipartisan Infrastructure Law and Inflation Reduction Act Awards Explorer,,390,https://www.noaa.gov/bil-ira-awards-explorer,noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-03-02,Gabrielle
 Coral Reef Watch (CRW) Virtual Stations,,391,https://coralreefwatch.noaa.gov/satellite/index.php,coralreefwatch.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-03-22,Cataloger
 Federal Flood Standard Support Tool,,392,https://ffrms.climate.gov/,ffrms.climate.gov,,,2025-03-26,Cataloger
@@ -352,7 +351,7 @@ Tuition Payment Plans in Higher Education,,457,https://www.consumerfinance.gov/d
 Border Crossing Entry Data,,461,https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/about_data,data.bts.gov,Bureau of Transportation Statistics,Department of Transportation,2025-03-04,Kathleen
 Transportation Economic Trends (TET),,462,https://data.bts.gov/Research-and-Statistics/Transportation-Economic-Trends-TET-data/tcq5-4pgu/about_data,data.bts.gov,Bureau of Transportation Statistics,Department of Transportation,2025-03-06,Cataloger
 Inventory of Owned and Leased Properties (IOLP),,463,https://catalog.data.gov/dataset/inventory-of-owned-and-leased-properties-iolp,catalog.data.gov,GSA -FAS -Technology Transformation Service,General Services Administration,2025-03-05,Cataloger
-Federal Payment Procurement System,,464,https://www.fpds.gov/fpdsng_cms/index.php/en/,fpds.gov,GSA - IQ-FPDS-FPDS Portal,General Services Administration,2025-03-05,Cataloger
+Federal Procurement Data System (FPDS),,464,https://www.fpds.gov/fpdsng_cms/index.php/en/,fpds.gov,GSA - IQ-FPDS-FPDS Portal,General Services Administration,2025-04-15,Cataloger
 Non-core Property List for Disposal,,465,https://origin-www.gsa.gov/real-estate/real-estate-services/real-property-disposition/noncore-property-list,gsa.gov,GSA - IDI - ECAS II,General Services Administration,2025-03-05,Cataloger
 Vaccine Adverse Event Reporting System (VAERS) Data,,466,https://vaers.hhs.gov/data/datasets.html,vaers.hhs.gov,Office of the Secretary,Department of Commerce,2025-03-10,Cataloger
 Microwave Sounder Temperature Sounding Brightness Temperature (BT) Climate Data Record (CDR),,467,https://www.ncei.noaa.gov/data/amsu-a-brightness-temperature/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-03-25,Cataloger
@@ -727,3 +726,7 @@ Veterans Utilization Profile FY18: Figure 2 - Number of Users by Program - FY200
 Integrated Ocean Observing System (IOOS) Data,,850,https://www.ncei.noaa.gov/data/oceans/ioos/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-04-14,Cataloger
 World Ocean Atlas (WOA) 2023,,851,https://www.ncei.noaa.gov/data/oceans/ncei/woa/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-04-14,Cataloger
 World Ocean Database (WOD),,852,https://www.ncei.noaa.gov/data/oceans/ncei/wod/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,2025-04-14,Cataloger
+Asthma Data,,853,https://www.cdc.gov/asthma-data/about/most-recent-asthma-data.html,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+Data and Maps for Eastern Equine Encephalitis,,854,https://www.cdc.gov/eastern-equine-encephalitis/data-maps/index.html,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+Pregnancy Mortality Surveillance System (PRSS),,855,https://www.cdc.gov/maternal-mortality/php/pregnancy-mortality-surveillance/index.html,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
+Firearm Mortality by State,,856,https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm,cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,2025-04-15,Cataloger
