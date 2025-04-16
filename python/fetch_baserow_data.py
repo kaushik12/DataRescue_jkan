@@ -46,8 +46,7 @@ def process_dataset_row(d):
         "websites": get_arr_vals(d["Websites"], col="value"),
         "organization": get_arr_vals(d["Organization"], col="value"),
         "agency": get_arr_vals(d["Agency"], col="value"),
-        "last_modified": d["Last modified"],
-        "last_modified_by": d["Last modified by"]["name"]
+        "last_modified": d["Last modified"]
     }
 
 
