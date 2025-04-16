@@ -8,6 +8,12 @@
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
+        {% if page.url == "/" %}
+          <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}/" aria-current="page">Home</a></li>
+          {% else %}
+          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/">Home</a></li>
+        {% endif %}
+
         {% for link in site.navigation %}
           {% if page.url contains link.url %}
           <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{ link.title }}</a></li>
@@ -22,7 +28,6 @@
       <li class="nav-item">
         <a class="nav-link d-flex align-items-center" href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" class="me-1" />
-          GitHub Repository
         </a>
       </li>
     </ul>
