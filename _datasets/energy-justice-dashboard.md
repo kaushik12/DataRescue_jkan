@@ -27,6 +27,6 @@ resources:
     status: Finished
     size: 0.51
     download_date: 2025-03-02
-    maintainer: EDGI, OEDP
+    maintainer: PEDP, EDGI
     notes: Downloadable data. The data describes both active and completed contracts with US primary places of performance that were awarded as early as FY19. This data is subject to change and is for general informational purposes only.
 ---

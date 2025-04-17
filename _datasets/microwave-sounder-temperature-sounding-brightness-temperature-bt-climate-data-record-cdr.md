@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 231.0
     download_date: 2025-02-08
-    maintainer: TSHRMP
+    maintainer: ANON
     notes: Currently performing a server-server upload to archive.org from Wasabi S3 bucket, submitting as all data is currently in safe cloud storage.
 ---

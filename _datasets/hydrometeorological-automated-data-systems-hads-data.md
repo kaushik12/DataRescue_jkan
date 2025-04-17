@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 87.0
     download_date: 2025-03-15
-    maintainer: TSHRMP
+    maintainer: ANON
     notes: Full HADS record up until 3/15/2025.
 ---

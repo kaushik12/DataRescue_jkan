@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 1500.0
     download_date: 2025-02-15
-    maintainer: TSHRMP
+    maintainer: ANON
     notes: No notes, all directories should be as they appear in the dataset URL.
 ---

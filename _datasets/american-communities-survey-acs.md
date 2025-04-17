@@ -8,17 +8,17 @@ data_source: https://www.census.gov/programs-surveys/acs
 description: 
 last_modified: 2025-03-03
 last_modified_by: Cataloger
-metadata_available: No
+metadata_available: Yes
 metadata_url: 
 category:
   - Economy
 resources:
   - id: 61
     url: https://livingatlas.arcgis.com/en/browse/?q=ACS%20by%20@esri_demographics#d=2&q=ACS+by+%40esri_demographics&type=layers
-    format: 
+    format: GIS
     status: Finished
     size: 
     download_date: 2025-02-12
     maintainer: PEDP, ESRI
-    notes: data available via ftp at ftp2.census.gov along with other census data. Note, raw data only, not search and report interface.
+    notes: Raw data only, not search and report interface.
 ---
