@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 1.67
     download_date: 2025-02-21
-    maintainer: ANON
+    maintainer: TSHRMP
     notes: 
 ---

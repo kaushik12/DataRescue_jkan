@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 1800.0
     download_date: 2025-03-31
-    maintainer: ANON
+    maintainer: TSHRMP
     notes: Archive link is to Part 1.  Will include three more parts with url formathttps//archive.org/details/international-comprehensive-ocean-atmosphere-{part number}
 ---

@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 53.0
     download_date: 2025-03-31
-    maintainer: ANON
+    maintainer: TSHRMP
     notes: Actively seeded torrent file included in IA item (the one without _archive).  Direct file upload in progress.Alternate torrent locationhttps//academictorrents.com/details/426a128f0a0b22b202496bb2d3b9c449698bd5dd
 ---
