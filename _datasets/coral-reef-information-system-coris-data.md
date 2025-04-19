@@ -1,12 +1,12 @@
 ---
 schema: data_rescue_project 
-title: NOAA Coral Reef Information System Data
+title: Coral Reef Information System (CoRIS) Data
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/oceans/coris/
 description: 
-last_modified: 2025-04-16
+last_modified: 2025-04-17
 last_modified_by: tripleshrimp
 metadata_available: Yes
 metadata_url: https://www.coris.noaa.gov/

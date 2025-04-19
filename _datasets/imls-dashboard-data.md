@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 0.01
     download_date: 2025-03-21
-    maintainer: SRCH
+    maintainer: SRC
     notes: 
 ---

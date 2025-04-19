@@ -19,6 +19,6 @@ resources:
     status: In Progress
     size: 
     download_date: 2025-03-19
-    maintainer: SRCH
+    maintainer: SRC
     notes: 
 ---
