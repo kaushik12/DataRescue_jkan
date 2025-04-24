@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 145.0
     download_date: 2025-01-06
-    maintainer: ANON
+    maintainer: TSHRMP
     notes: Full upload in process.  For reconstruction, see usaspending-db-setup.pdf.This is the complete database as of Jan. 6, 2025.
 ---
