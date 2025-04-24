@@ -16,7 +16,7 @@ pagination:
   enabled: true
   collection: organizations
   per_page: 15
-  permalink: 'organizations/:num/'
+  permalink: '/:num/'
 
 # Nav bar
 navigation:
