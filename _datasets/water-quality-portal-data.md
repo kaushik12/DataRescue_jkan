@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 195
     url: https://www.hydroshare.org/resource/7b4d4e186c6b4e888876bcb713b4dff7/

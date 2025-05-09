@@ -10,7 +10,7 @@ last_modified: 2025-04-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Science & Research'] 
+  - Science & Research 
 resources:
   - id: 904
     url: https://sciop.net/datasets/www-nsf-gov
@@ -19,5 +19,5 @@ resources:
     size: 87.0
     download_date: 2025-04-25
     maintainer: SRC
-    notes: The entire contents of the websites contained under https//[*.]nsf.gov/
+    notes: The entire contents of the websites contained under https://[*.]nsf.gov/
 ---

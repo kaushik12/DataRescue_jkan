@@ -10,7 +10,7 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
+  - Health & Healthcare 
 resources:
   - id: 52
     url: https://github.com/CDCgov-clone

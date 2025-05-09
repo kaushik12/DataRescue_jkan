@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/crn/
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 603
     url: https://sciop.net/uploads/362f3e47404d04b589a376b39ab7ee65b19b873d
@@ -19,5 +19,5 @@ resources:
     size: 52.0
     download_date: 2025-03-24
     maintainer: IA, TSHRMP
-    notes: New corrected/updated torrent.  Alternate torrent location https//academictorrents.com/details/362f3e47404d04b589a376b39ab7ee65b19b873d
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/362f3e47404d04b589a376b39ab7ee65b19b873d
 ---

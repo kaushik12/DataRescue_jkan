@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 217
     url: https://github.com/NOAA-clone

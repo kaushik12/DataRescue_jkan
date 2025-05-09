@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 203
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTQG6RR&version=DRAFT

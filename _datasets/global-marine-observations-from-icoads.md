@@ -10,7 +10,7 @@ last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc%3AC00606/html#
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 783
     url: https://archive.org/details/noaa-ncei-global-marine-from-icoads-2025-04-22

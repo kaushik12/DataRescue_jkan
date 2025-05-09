@@ -10,10 +10,10 @@ last_modified: 2025-04-15
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
+  - Health & Healthcare 
 resources:
   - id: 733
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NLIFTL
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/NLIFTL
     format: CSV, PDF
     status: Finished
     size: 0.004

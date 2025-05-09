@@ -10,10 +10,10 @@ last_modified: 2025-03-03
 metadata_available: Yes
 metadata_url: https://epa.figshare.com/articles/online_resource/ECOTOX_5_6_User_Guide/26764645?file=48991039
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 191
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LTVQUK
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/LTVQUK
     format: EXE, PDF, ZIP, HTML
     status: Finished
     size: 0.95

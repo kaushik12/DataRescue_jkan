@@ -10,7 +10,7 @@ last_modified: 2025-03-27
 metadata_available: No
 metadata_url: 
 category:
-  - ['Science & Research'] 
+  - Science & Research 
 resources:
   - id: 614
     url: https://github.com/pvlib

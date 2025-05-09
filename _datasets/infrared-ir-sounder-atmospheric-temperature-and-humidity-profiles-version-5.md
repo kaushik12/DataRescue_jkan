@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/irs-temperature-and-humidity/
 description: 
 last_modified: 2025-03-22
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01713
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdcC01713
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 593
     url: https://archive.org/details/irs-temperature-and-humidity_1

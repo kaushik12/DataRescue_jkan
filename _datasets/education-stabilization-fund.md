@@ -10,7 +10,7 @@ last_modified: 2025-02-11
 metadata_available: No
 metadata_url: 
 category:
-  - ['Education'] 
+  - Education 
 resources:
   - id: 14
     url: https://www.datalumos.org/datalumos/project/218242/version/V1/view

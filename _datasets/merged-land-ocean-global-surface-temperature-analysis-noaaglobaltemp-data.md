@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/land-based-station/noaa-global-temp
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 602
     url: https://archive.org/details/noaa-global-surface-temperature

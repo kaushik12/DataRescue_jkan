@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: No
 metadata_url: 
 category:
-  - ['Labor & Employment'] 
+  - Labor & Employment 
 resources:
   - id: 898
     url: https://www.datalumos.org/datalumos/project/227461/version/V1/view
@@ -19,5 +19,5 @@ resources:
     size: 0.045
     download_date: 2025-03-27
     maintainer: DRP, DL
-    notes: Also available at https//labordata.bunkum.us
+    notes: Also available at https://labordata.bunkum.us
 ---

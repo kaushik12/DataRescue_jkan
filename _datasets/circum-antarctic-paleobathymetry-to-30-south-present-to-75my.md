@@ -10,7 +10,7 @@ last_modified: 2025-04-27
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/circum-antarctic-paleobathymetry
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 899
     url: https://sciop.net/uploads/2add0421e5c67ff0caccedb8a4b45842acf5cc51

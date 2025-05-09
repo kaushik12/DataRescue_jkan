@@ -4,13 +4,13 @@ title: National Hurricane Center FTP
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ftp.nhc.noaa.gov
-data_source: ftp://ftp.nhc.noaa.gov
+data_source: ftp//ftp.nhc.noaa.gov
 description: 
 last_modified: 2025-02-11
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 7
     url: 

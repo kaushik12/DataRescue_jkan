@@ -10,7 +10,7 @@ last_modified: 2025-04-15
 metadata_available: No
 metadata_url: 
 category:
-  - ['Finance & Budget'] 
+  - Finance & Budget 
 resources:
   - id: 351
     url: https://biglocalnews.org/#/project/UHJvamVjdDpjZjgyZTRkYS0xNTQ4LTQ4NGUtOTk2MC1mNzk4ZTg4NmY5ODM=
@@ -19,5 +19,5 @@ resources:
     size: 1.0
     download_date: 2025-01-20
     maintainer: BLN
-    notes: This is only some forms of cancelled contracts, not the entirety of the data, and only beginning Jan. 20, 2025.Code is here https//github.com/biglocalnews/sync-fed-contracts and could be adapted to get other contract types and other dates.
+    notes: This is only some forms of cancelled contracts, not the entirety of the data, and only beginning Jan. 20, 2025.Code is here https://github.com/biglocalnews/sync-fed-contracts and could be adapted to get other contract types and other dates.
 ---

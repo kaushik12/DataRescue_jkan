@@ -10,7 +10,7 @@ last_modified: 2025-02-17
 metadata_available: No
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
+  - Health & Healthcare 
 resources:
   - id: 81
     url: https://www.datalumos.org/datalumos/project/218842
@@ -19,5 +19,5 @@ resources:
     size: 0.01
     download_date: 2025-02-12
     maintainer: PU
-    notes: (2006-2023). Current files are back up on the site but older files are only available in their archive as HTML pages which I saved as PDFs.
+    notes: 2006-2023). Current files are back up on the site but older files are only available in their archive as HTML pages which I saved as PDFs.
 ---

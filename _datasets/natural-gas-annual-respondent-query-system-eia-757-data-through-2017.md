@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - ['Energy'] 
+  - Energy 
 resources:
   - id: 185
     url: https://zenodo.org/records/10635277

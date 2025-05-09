@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - ['Social Services'] 
+  - Social Services 
 resources:
   - id: 784
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view

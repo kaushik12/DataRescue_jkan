@@ -10,8 +10,8 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
-  - ['Health & Healthcare', 'Social Services'] 
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 304
     url: https://www.dropbox.com/scl/fo/sgscixaa4myy3w5et3yzp/APxMNPFcZXfwsQkGIztj4qU?rlkey=bnb7d62vflcaifnold3bysa1u&dl=0

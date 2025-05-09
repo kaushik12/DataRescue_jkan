@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/land-surface-reflectance/
 description: 
 last_modified: 2025-05-05
 metadata_available: Yes
-metadata_url: ,https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01557/html#
+metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01557/html#
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 922
     url: https://sciop.net/uploads/5bb7bc141b28e13b6622a0edd50adaeeee333ed7
@@ -19,5 +19,5 @@ resources:
     size: 2000.0
     download_date: 2025-05-04
     maintainer: SRC, TSHRMP
-    notes: Second metadata link https//www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01676/html#                                                                                                                                                   Alternate torrent location https//academictorrents.com/details/5bb7bc141b28e13b6622a0edd50adaeeee333ed7
+    notes: Second metadata link https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01676/html# Alternate torrent location https://academictorrents.com/details/5bb7bc141b28e13b6622a0edd50adaeeee333ed7
 ---

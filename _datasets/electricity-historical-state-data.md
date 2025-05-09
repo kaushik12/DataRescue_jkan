@@ -10,10 +10,10 @@ last_modified: 2025-04-24
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Energy'] 
+  - Energy 
 resources:
   - id: 867
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NMP2U4
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/NMP2U4
     format: XLSX
     status: Finished
     size: 0.051

@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 234
     url: https://zenodo.org/records/14816488
@@ -19,5 +19,5 @@ resources:
     size: 3.5
     download_date: 2025-02-05
     maintainer: EDGI, BCECJ
-    notes: "ITRDB"
+    notes: ITRDB"
 ---

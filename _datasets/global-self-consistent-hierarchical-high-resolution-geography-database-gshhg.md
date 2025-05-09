@@ -10,7 +10,7 @@ last_modified: 2025-04-26
 metadata_available: Yes
 metadata_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/96JB00104
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 890
     url: https://sciop.net/uploads/c2761718707de6963191e7e20855e8a90bdd9a8d
@@ -19,5 +19,5 @@ resources:
     size: 0.3
     download_date: 2025-04-25
     maintainer: SRC, TSHRMP
-    notes: Torrent upload in progress.  Alternate torrent location https//academictorrents.com/details/c2761718707de6963191e7e20855e8a90bdd9a8d
+    notes: Torrent upload in progress. Alternate torrent location https://academictorrents.com/details/c2761718707de6963191e7e20855e8a90bdd9a8d
 ---

@@ -10,8 +10,8 @@ last_modified: 2025-04-19
 metadata_available: No
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
-  - ['Health & Healthcare', 'Social Services'] 
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 82
     url: https://www.datalumos.org/datalumos/project/219145
@@ -20,7 +20,7 @@ resources:
     size: 0.85
     download_date: 2025-02-12
     maintainer: PU
-    notes: (1979, 1998-2000, 2005, 2008, 2012-2023) Site is down.  This is data I had downloaded previously.
+    notes: 1979, 1998-2000, 2005, 2008, 2012-2023) Site is down. This is data I had downloaded previously.
   - id: 739
     url: https://www.datalumos.org/datalumos/project/227006/version/V1/view
     format: ZIP

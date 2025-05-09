@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/oceans/ndbc/hfradar/rtv/
 description: 
 last_modified: 2025-04-23
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:IOOS-HFRadarRTVector
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcIOOS-HFRadarRTVector
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 785
     url: https://sciop.net/uploads/3b4c08297df0ddab3548f77ead1529e5aeb82734
@@ -19,5 +19,5 @@ resources:
     size: 42.0
     download_date: 2025-04-22
     maintainer: SRC, TSHRMP
-    notes: Alternate torrent location https//academictorrents.com/details/3b4c08297df0ddab3548f77ead1529e5aeb82734
+    notes: Alternate torrent location https://academictorrents.com/details/3b4c08297df0ddab3548f77ead1529e5aeb82734
 ---

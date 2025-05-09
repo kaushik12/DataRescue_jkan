@@ -10,7 +10,7 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/international-best-track-archive
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 625
     url: https://sciop.net/uploads/2ff9743464c285a24346b29716648aced930e8e2
@@ -19,5 +19,5 @@ resources:
     size: 3.6
     download_date: 2025-03-29
     maintainer: SRC, TSHRMP
-    notes: New corrected/updated torrent.Alternate torrent locationhttps//academictorrents.com/details/2ff9743464c285a24346b29716648aced930e8e2
+    notes: New corrected/updated torrent.Alternate torrent locationhttps://academictorrents.com/details/2ff9743464c285a24346b29716648aced930e8e2
 ---

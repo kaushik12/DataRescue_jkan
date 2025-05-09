@@ -10,7 +10,7 @@ last_modified: 2025-04-02
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3aC00005
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 705
     url: https://archive.org/details/nclimdiv-2025-04-01

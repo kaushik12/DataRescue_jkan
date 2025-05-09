@@ -10,7 +10,7 @@ last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Housing & Community Development'] 
+  - Housing & Community Development 
 resources:
   - id: 772
     url: https://www.datalumos.org/datalumos/project/222121/version/V1/view
@@ -19,5 +19,5 @@ resources:
     size: 0.01
     download_date: 2025-02-27
     maintainer: DL
-    notes: "To protect the confidentiality of survey respondents, the ACS-HUD linked files are restricted-use files. Interested researchers can submit a proposal to use the data through the Federal Statistical Research Data Center (https//www.census.gov/fsrdc). Please visit the Census Bureau’s restricted use application website https//www.census.gov/about/adrm/ced/apply-for-access.html to find useful information about how to apply to use the data."
+    notes: To protect the confidentiality of survey respondents, the ACS-HUD linked files are restricted-use files. Interested researchers can submit a proposal to use the data through the Federal Statistical Research Data Center (https://www.census.gov/fsrdc). Please visit the Census Bureau’s restricted use application website https://www.census.gov/about/adrm/ced/apply-for-access.html to find useful information about how to apply to use the data."
 ---

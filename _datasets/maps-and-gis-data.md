@@ -10,7 +10,7 @@ last_modified: 2025-04-26
 metadata_available: Yes
 metadata_url: https://www.boem.gov/oil-gas-energy/mapping-and-data
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 895
     url: https://sciop.net/datasets/doi-boem-oil-gas-mapping-gis-data
@@ -19,5 +19,5 @@ resources:
     size: 1200.0
     download_date: 2025-04-24
     maintainer: SRC, TSHRMP
-    notes: Torrent upload in progress.  Alternate torrent location https//academictorrents.com/details/2ced33ea7e4980a224982d72ec4221690bd08ed3
+    notes: Torrent upload in progress. Alternate torrent location https://academictorrents.com/details/2ced33ea7e4980a224982d72ec4221690bd08ed3
 ---

@@ -10,7 +10,7 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - ['Energy'] 
+  - Energy 
 resources:
   - id: 65
     url: https://github.com/oedp/doe-ira-energy-comm-data

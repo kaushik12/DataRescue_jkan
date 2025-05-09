@@ -10,10 +10,10 @@ last_modified: 2025-04-15
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
+  - Health & Healthcare 
 resources:
   - id: 731
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U7WVNO
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/U7WVNO
     format: XLSX, PDF
     status: Finished
     size: 0.06

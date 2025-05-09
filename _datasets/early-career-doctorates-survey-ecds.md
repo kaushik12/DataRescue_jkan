@@ -10,7 +10,7 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - ['Science & Research'] 
+  - Science & Research 
 resources:
   - id: 282
     url: https://www.dropbox.com/scl/fo/grs56mo28y1ht8cnjoov2/AD2TnuRlPT_fhWcu9CVvxmo?rlkey=ova7mc6je2s8r07n4q0t6kfy5&dl=0

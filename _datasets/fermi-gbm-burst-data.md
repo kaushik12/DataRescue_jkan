@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Science & Research'] 
+  - Science & Research 
 resources:
   - id: 522
     url: https://archive.org/details/fermi_gbm_burst

@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/cmorph-high-resolution-global-precip
 description: 
 last_modified: 2025-03-28
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00948
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdcC00948
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 616
     url: https://sciop.net/uploads/84869b28e308afe79b872698af51f773d1344bff
@@ -19,5 +19,5 @@ resources:
     size: 483.0
     download_date: 2025-03-25
     maintainer: IA, TSHRMP
-    notes: New corrected/updated torrent.   Additional torrent location https//academictorrents.com/details/84869b28e308afe79b872698af51f773d1344bff
+    notes: New corrected/updated torrent. Additional torrent location https://academictorrents.com/details/84869b28e308afe79b872698af51f773d1344bff
 ---

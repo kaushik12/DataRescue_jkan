@@ -10,7 +10,7 @@ last_modified: 2025-02-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Justice & Public Safety'] 
+  - Justice & Public Safety 
 resources:
   - id: 179
     url: https://www.datalumos.org/datalumos/project/221044/

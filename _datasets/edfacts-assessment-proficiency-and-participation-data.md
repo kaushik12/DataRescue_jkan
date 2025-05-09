@@ -10,7 +10,7 @@ last_modified: 2025-04-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Education'] 
+  - Education 
 resources:
   - id: 761
     url: https://www.zelma.ai/edfacts

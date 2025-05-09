@@ -10,7 +10,7 @@ last_modified: 2025-04-28
 metadata_available: No
 metadata_url: 
 category:
-  - ['Transportation'] 
+  - Transportation 
 resources:
   - id: 897
     url: https://www.datalumos.org/datalumos/project/227901/version/V1/view

@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - ['Labor & Employment'] 
+  - Labor & Employment 
 resources:
   - id: 801
     url: 

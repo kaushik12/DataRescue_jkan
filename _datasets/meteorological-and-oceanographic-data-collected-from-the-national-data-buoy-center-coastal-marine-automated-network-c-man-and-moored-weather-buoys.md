@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/oceans/ndbc/cmanwx/
 description: 
 last_modified: 2025-04-08
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NDBC-CMANWx
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-CMANWx
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 708
     url: https://sciop.net/uploads/08b58a2dba6c43e3871dd312e1e6228f9cc62b06
@@ -19,5 +19,5 @@ resources:
     size: 20.0
     download_date: 2025-04-06
     maintainer: SRC, TSHRMP
-    notes: New corrected/updated torrent.  Alternate torrent location  https//academictorrents.com/details/08b58a2dba6c43e3871dd312e1e6228f9cc62b06
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/08b58a2dba6c43e3871dd312e1e6228f9cc62b06
 ---

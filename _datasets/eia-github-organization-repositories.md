@@ -10,7 +10,7 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - ['Energy'] 
+  - Energy 
 resources:
   - id: 80
     url: https://github.com/EIAgov-clone

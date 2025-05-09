@@ -4,13 +4,13 @@ title: Foreign Agent Registration Act (FARA) Filings and Data
 organization: U.S. Department of Justice - National Security Division
 agency: Department of Justice
 websites: efile.fara.gov
-data_source: https://efile.fara.gov/ords/fara/f?p=1381:1:7299515917868
+data_source: https://efile.fara.gov/ords/fara/f?p=138117299515917868
 description: 
 last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: https://github.com/Howard-Center-Investigations/FARA_Archive
 category:
-  - ['Justice & Public Safety'] 
+  - Justice & Public Safety 
 resources:
   - id: 779
     url: https://www.documentcloud.org/projects/221099-fara-storage-public/

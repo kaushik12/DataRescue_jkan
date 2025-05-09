@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 8
     url: 
@@ -21,7 +21,7 @@ resources:
     maintainer: DRP
     notes: 
   - id: 193
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TUMSLH
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/TUMSLH
     format: CSV, DOCX, XLSX, tab
     status: Finished
     size: 2.2

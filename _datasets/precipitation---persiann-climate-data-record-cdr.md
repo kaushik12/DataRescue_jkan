@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/precipitation-persiann/
 description: 
 last_modified: 2025-04-24
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00854/html#
+metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC00854/html#
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 866
     url: https://sciop.net/uploads/448dd345e52d3a0b0953b7f2d86f75089ca61a24
@@ -19,5 +19,5 @@ resources:
     size: 16.0
     download_date: 2025-04-24
     maintainer: SRC, TSHRMP
-    notes: Alternate torrent location  https//academictorrents.com/details/448dd345e52d3a0b0953b7f2d86f75089ca61a24
+    notes: Alternate torrent location https://academictorrents.com/details/448dd345e52d3a0b0953b7f2d86f75089ca61a24
 ---

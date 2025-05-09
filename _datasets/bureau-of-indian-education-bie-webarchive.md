@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: No
 metadata_url: 
 category:
-  - ['Social Services'] 
+  - Social Services 
 resources:
   - id: 782
     url: https://archive.org/details/doi-bie-2025-04-21
@@ -19,5 +19,5 @@ resources:
     size: 0.5
     download_date: 2025-04-21
     maintainer: IA, TSHRMP
-    notes: Webarchive mirror of https//www.bie.edu/, using Archiveweb.page, in WACZ file form.
+    notes: Webarchive mirror of https://www.bie.edu/, using Archiveweb.page, in WACZ file form.
 ---

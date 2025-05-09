@@ -10,7 +10,7 @@ last_modified: 2025-03-31
 metadata_available: No
 metadata_url: 
 category:
-  - ['Labor & Employment'] 
+  - Labor & Employment 
 resources:
   - id: 661
     url: https://www.datalumos.org/datalumos/project/223065/version/V1/view

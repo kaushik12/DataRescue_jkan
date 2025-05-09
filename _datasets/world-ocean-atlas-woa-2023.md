@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/oceans/ncei/woa/
 description: 
 last_modified: 2025-04-14
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0270533
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc0270533
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 729
     url: https://sciop.net/uploads/581bb9462e958df6011025b26fa1d609a2dafd73
@@ -19,5 +19,5 @@ resources:
     size: 157.0
     download_date: 2025-04-09
     maintainer: SRC, TSHRMP
-    notes: New corrected/updated torrent.   Alternate torrent location https//academictorrents.com/details/581bb9462e958df6011025b26fa1d609a2dafd73
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/581bb9462e958df6011025b26fa1d609a2dafd73
 ---

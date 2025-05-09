@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/sea-surface-temperature-extended-rec
 description: 
 last_modified: 2025-03-22
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00927
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdcC00927
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 592
     url: https://sciop.net/uploads/fe82920872b8d7204721ad154973a17e5d59238d
@@ -19,5 +19,5 @@ resources:
     size: 0.3
     download_date: 2025-03-17
     maintainer: IA, TSHRMP
-    notes: New corrected/updated torrent.  Alternate torrent location  https//academictorrents.com/details/fe82920872b8d7204721ad154973a17e5d59238d
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/fe82920872b8d7204721ad154973a17e5d59238d
 ---

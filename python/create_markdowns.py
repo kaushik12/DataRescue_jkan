@@ -14,28 +14,20 @@ def slugify(string):
     return string
 
 
-def clean_url(string):
-    # Remove URL prefixes like http:// or https://
-    # string = re.sub(r'http[s]?://', '', string)
-    # Remove escape strings like \n
-    string = string.replace('\n', '').replace('\r', '').replace('\t', '')
-    # Remove leading '-'
-    string = re.sub(r'^-', '', string)
-    # Remove leading and trailing ':'
-    string = string.rstrip(':')
-    string = string.replace('^:', '')
-    return string
-
-
 def clean_text(string):
     # Remove URL prefixes like http:// or https://
     # string = re.sub(r'http[s]?://', '', string)
     # Remove escape strings like \n
     string = string.replace('\n', '').replace('\r', '').replace('\t', '')
-    # Remove leading '-'
+    # Remove multiple spaces
+    string = re.sub(r'\s+', ' ', string)
+    # Remove leading spl. characters
+    string = re.sub(r'^[^a-zA-Z0-9]+', '', string)
     string = re.sub(r'^-', '', string)
     # Remove leading and trailing ':'
-    string = string.replace(':', '')
+    string = string.rstrip(':')
+    string = re.sub(r'(?<!http)(?<!https):', '', string)
+    
     return string
 
 
@@ -60,8 +52,30 @@ def get_metadata_availability(dataset_id, data_backups):
         return "No", ""
 
 
+def get_dataset_category(row, organizations):
+    # Check if dataset has category override
+    categories = eval(row['categories'])
+    if categories:
+        cats = [a['value'] for a in categories]
+    # Check if we don't have organization info
+    elif row['organization'] == 'Unknown':
+        cats = ['Uncategorized']
+    else:
+        # Get categories from organization
+        cats_from_org = organizations[organizations['Organizations'] == row['organization']]['Categories'].values
+        cats = []
+        [cats.extend(v.split(';')) for v in cats_from_org]      
+        cats = list(set(cats))
+        if cats == ['']:
+            cats = ['Uncategorized']
+        else:
+            cats = [cat for cat in cats if cat != '']
+    
+    return cats
+        
+
 def create_category_md(row):
-    cat_path = "_dataset_categories"
+    cat_path = "../_dataset_categories"
     cat_filename = slugify(row['Name'])
     # Creating the category markdown file
     cat_md = "---\n"
@@ -81,9 +95,9 @@ def create_dataset_md(row, backups, organizations):
     # Defining the schema, filename and path
     schema = 'data_rescue_project'
     dataset_filename = slugify(row['dataset'])
-    dataset_path = "_datasets"
+    dataset_path = "../_datasets"
     org_filename = slugify(row['organization'])
-    org_path = "_organizations"
+    org_path = "../_organizations"
 
     # Get backups for each dataset
     data_backups = backups[backups.dataset == row['dataset']]
@@ -95,30 +109,24 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += f"title: {clean_text(row['dataset'])}\n"
     dataset_md += f"organization: {clean_text(row['organization'])}\n"
     dataset_md += f"agency: {clean_text(row['agency'])}\n"
-    dataset_md += f"websites: {row['websites']}\n"
-    dataset_md += f"data_source: {clean_url(row['url'])}\n"
+    dataset_md += f"websites: {clean_text(row['websites'])}\n"
+    dataset_md += f"data_source: {clean_text(row['url'])}\n"
     dataset_md += f"description: {clean_text(row['notes'])}\n"
     dataset_md += f"last_modified: {row['last_modified']}\n"
     # Check if any backups have metadata available and populate
     dataset_md += f"metadata_available: {metadata_available}\n"
-    dataset_md += f"metadata_url: {metadata_url}\n"
+    dataset_md += f"metadata_url: {clean_text(metadata_url)}\n"
     dataset_md += "category:\n"
-    categories = eval(row['categories'])
-    if categories:
-        cats = [a['value'] for a in categories]
-    else:
-        cats = organizations[organizations['Organizations'] == row['organization']]['Categories'].str.split(';')
-    if len(cats) == 0:
-        cats = ['Uncategorized']
-    print(cats)
+    cats = get_dataset_category(row, organizations)
+
     for cat in cats:
         dataset_md += f"  - {cat} \n"
-
+        
     dataset_md += "resources:\n"
     # Resource-level information
     for index, backup_row in data_backups.iterrows():
         dataset_md += f"  - id: {index}\n"
-        dataset_md += f"    url: {backup_row['download_location']}\n"
+        dataset_md += f"    url: {clean_text(backup_row['download_location'])}\n"
         dataset_md += f"    format: {clean_text(backup_row['file_type'])}\n"
         dataset_md += f"    status: {clean_text(backup_row['status'])}\n"
         dataset_md += f"    size: {backup_row['size']}\n"
@@ -160,10 +168,11 @@ def create_markdowns():
     datasets = datasets.fillna('')
     datasets.head()
 
+    organizations = organizations.fillna('')
     # Remove files in _datasets and _organizations
-    remove_files_os('./_datasets')
-    remove_files_os('./_organizations')
-    remove_files_os('./_dataset_categories')
+    # remove_files_os('./_datasets')
+    # remove_files_os('./_organizations')
+    # remove_files_os('./_dataset_categories')
 
     categories.apply(create_category_md, axis=1)
     datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))

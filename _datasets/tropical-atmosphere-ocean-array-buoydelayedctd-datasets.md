@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/oceans/ndbc/
 description: 
 last_modified: 2025-04-27
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NDBC-TAOBuoy
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOBuoy
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 900
     url: https://sciop.net/uploads/af1e0b2d2e615f32787840714976ba95439a0b42
@@ -19,5 +19,5 @@ resources:
     size: 13.0
     download_date: 2025-04-27
     maintainer: SRC, TSHRMP
-    notes: Other metadata linkshttps//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOFullReshttps//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOCTDNew corrected/updated torrent.  Alternate torrent location https//academictorrents.com/details/af1e0b2d2e615f32787840714976ba95439a0b42
+    notes: Other metadata linkshttps://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOFullReshttps://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOCTDNew corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/af1e0b2d2e615f32787840714976ba95439a0b42
 ---

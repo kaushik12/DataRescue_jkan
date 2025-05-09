@@ -10,7 +10,7 @@ last_modified: 2025-04-14
 metadata_available: Yes
 metadata_url: https://ioos.noaa.gov/
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 728
     url: https://sciop.net/uploads/25026815b9a57fd843e0e475cab251424e0bd41c
@@ -19,5 +19,5 @@ resources:
     size: 200.0
     download_date: 2025-04-11
     maintainer: TSHRMP
-    notes: New corrected and updated torrent.   Alternate torrent location https//academictorrents.com/details/25026815b9a57fd843e0e475cab251424e0bd41c
+    notes: New corrected and updated torrent. Alternate torrent location https://academictorrents.com/details/25026815b9a57fd843e0e475cab251424e0bd41c
 ---

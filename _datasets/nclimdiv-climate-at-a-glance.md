@@ -10,7 +10,7 @@ last_modified: 2025-02-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 178
     url: https://www.openicpsr.org/openicpsr/project/220102/version/V1/view
@@ -19,5 +19,5 @@ resources:
     size: 1.6
     download_date: 2025-02-05
     maintainer: DL
-    notes: "Copy of screen scraping scripts and reference to GLOBUS endpoint available athttps//github.com/Brown-University-Library/geodata_usgovt_backup"
+    notes: Copy of screen scraping scripts and reference to GLOBUS endpoint available athttps://github.com/Brown-University-Library/geodata_usgovt_backup"
 ---

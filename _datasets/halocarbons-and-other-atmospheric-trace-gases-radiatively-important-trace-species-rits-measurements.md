@@ -8,9 +8,9 @@ data_source: https://www.ncei.noaa.gov/data/halocarbons-and-other-atmospheric-tr
 description: 
 last_modified: 2025-05-02
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01555
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdcC01555
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 914
     url: https://sciop.net/uploads/036ae534dcd62cfd97371f444926ac2fddbadf3b
@@ -19,5 +19,5 @@ resources:
     size: 1.0
     download_date: 2025-03-31
     maintainer: SRC, TSHRMP
-    notes: Alternate torrent location https//academictorrents.com/details/036ae534dcd62cfd97371f444926ac2fddbadf3b
+    notes: Alternate torrent location https://academictorrents.com/details/036ae534dcd62cfd97371f444926ac2fddbadf3b
 ---

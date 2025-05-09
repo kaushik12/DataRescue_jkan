@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: No
 metadata_url: 
 category:
-  - nan 
+  - Education 
 resources:
   - id: 273
     url: https://www.dropbox.com/scl/fo/w187o60rxzkunw3od4aem/AJe0KJdgIqGMi72h_-86Eug?rlkey=o0sk33hngyoob8eecf6gbbwqn&dl=0

@@ -10,7 +10,7 @@ last_modified: 2025-02-21
 metadata_available: No
 metadata_url: 
 category:
-  - ['Housing & Community Development'] 
+  - Housing & Community Development 
 resources:
   - id: 108
     url: https://www.datalumos.org/datalumos/project/101761/version/V1/view

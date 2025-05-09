@@ -10,7 +10,7 @@ last_modified: 2025-02-12
 metadata_available: Yes
 metadata_url: https://windexchange.energy.gov/community-benefits-guide#form
 category:
-  - ['Energy'] 
+  - Energy 
 resources:
   - id: 72
     url: https://github.com/oedp/doe-wind-exchange

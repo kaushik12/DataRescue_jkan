@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - nan 
+  - Education 
 resources:
   - id: 83
     url: https://www.datalumos.org/datalumos/project/218981/version/V1/view

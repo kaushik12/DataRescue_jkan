@@ -4,13 +4,15 @@ title: Migratory Bird Avian Influenza Sampling; Yukon Kuskokwim Delta, Alaska, 2
 organization: U.S. Geological Survey
 agency: Department of the Interior
 websites: data.usgs.gov
-data_source: https://data.usgs.gov/datacatalog/data/USGS:ASC55
+data_source: https://data.usgs.gov/datacatalog/data/USGSASC55
 description: 
 last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Climate & Environment', 'Infrastructure', 'Science & Research'] 
+  - Climate & Environment 
+  - Science & Research 
+  - Infrastructure 
 resources:
   - id: 909
     url: https://www.datalumos.org/datalumos/project/228022/version/V1/view

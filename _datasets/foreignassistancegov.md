@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - ['Humanitarian & Disaster Relief'] 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 285
     url: https://www.dropbox.com/scl/fo/pvspqguds5hegb5qfvcuh/AMabo4zybreFPiHVulzahQ0?rlkey=04wex7sydikp4gted5nijbstn&dl=0

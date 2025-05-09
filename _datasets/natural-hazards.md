@@ -10,7 +10,7 @@ last_modified: 2025-04-26
 metadata_available: No
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 880
     url: https://sciop.net/uploads/716d87712416681a50d6269e3f3d2ebd56b4ff2d
@@ -19,5 +19,5 @@ resources:
     size: 310.0
     download_date: 2025-04-25
     maintainer: SRC, TSHRMP
-    notes: Torrent upload in progress.  Alternate torrent location  https//academictorrents.com/details/716d87712416681a50d6269e3f3d2ebd56b4ff2d
+    notes: Torrent upload in progress. Alternate torrent location https://academictorrents.com/details/716d87712416681a50d6269e3f3d2ebd56b4ff2d
 ---

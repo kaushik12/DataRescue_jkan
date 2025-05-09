@@ -10,16 +10,16 @@ last_modified: 2025-03-02
 metadata_available: Yes
 metadata_url: 
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 200
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FMKBXS
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/FMKBXS
     format: Shapefile, ZIP, PDF, HTML
     status: Finished
     size: 1.3
     download_date: 2025-01-27
     maintainer: PEDP, EDGI, HD
-    notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
+    notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
   - id: 201
     url: https://zenodo.org/records/14833639
     format: Shapefile
@@ -27,5 +27,5 @@ resources:
     size: 28.4
     download_date: 2025-02-07
     maintainer: PEDP, EDGI, HD
-    notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
+    notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
 ---

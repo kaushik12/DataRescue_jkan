@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - ['Health & Healthcare'] 
+  - Health & Healthcare 
 resources:
   - id: 249
     url: https://www.dropbox.com/scl/fo/x5czbkqzixwidplyvlt4g/AIQGYsCMC8JV2Wijksv2xtY?rlkey=hrdgslmsi92c93o18gzx59rrv&dl=0

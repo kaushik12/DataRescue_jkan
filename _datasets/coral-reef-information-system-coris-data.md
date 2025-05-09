@@ -10,7 +10,7 @@ last_modified: 2025-04-17
 metadata_available: Yes
 metadata_url: https://www.coris.noaa.gov/
 category:
-  - ['Climate & Environment'] 
+  - Climate & Environment 
 resources:
   - id: 736
     url: https://sciop.net/uploads/f750dafb20b1f5783a9e602793d8e917fcf7e95f
@@ -19,5 +19,5 @@ resources:
     size: 80.0
     download_date: 2025-04-09
     maintainer: SRC, TSHRMP
-    notes: New corrected/updated torrent.   Alternate torrent location https//academictorrents.com/details/f750dafb20b1f5783a9e602793d8e917fcf7e95f
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/f750dafb20b1f5783a9e602793d8e917fcf7e95f
 ---

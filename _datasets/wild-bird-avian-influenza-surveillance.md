@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - ['Agriculture'] 
+  - Agriculture 
 resources:
   - id: 777
     url: https://www.datalumos.org/datalumos/project/226931/version/V1/view
