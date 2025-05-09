@@ -33,43 +33,8 @@ def remove_files_os(dir_path):
             os.remove(file_path)
 
 
-def get_dataset_category(agency):
+def get_dataset_category(organization):
     return agency_to_category[agency]
-
-
-agency_to_category = {
-    'Department of Health and Human Services': 'Health / Human Services',
-    'Department of Commerce': 'Economy',
-    'Department of Housing and Urban Development': 'Real Estate / Land Records',
-    'Department of Veterans Affairs': 'Health / Human Services',
-    'National Endowment for the Humanities': 'Arts / Culture / History',
-    'AmeriCorps': 'Public Safety',
-    'Department of Education': 'Education',
-    'Federal Mediation and Conciliation Service': 'Economy',
-    'Department of Homeland Security': 'Public Safety',
-    'Department of Energy': 'Environment',
-    'National Labor Relations Board': 'Economy',
-    'Environmental Protection Agency': 'Environment',
-    'Consumer Financial Protection Bureau': 'Budget / Finance',
-    'Federal Housing Finance Agency': 'Real Estate / Land Records',
-    'Department of the Treasury': 'Budget / Finance',
-    'Institute of Museum and Library Services': 'Arts / Culture / History',
-    'Department of the Interior': 'Parks / Recreation',
-    'General Services Administration': 'Economy',
-    'Department of Labor': 'Economy',
-    'U.S. Agency for International Development': 'Health / Human Services',
-    'Department of Transportation': 'Transportation',
-    'National Aeronautics and Space Administration': 'Environment',
-    '': 'Uncategorized',
-    'Department of Justice': 'Public Safety',
-    'Department of the Interior, National Parks Service': 'Parks / Recreation',
-    'Department of State': 'Elections / Politics',
-    'National Science Foundation': 'Education',
-    'Department of Health and Human Services, Department of Commerce': 'Health / Human Services',
-    'Consumer Financial Protection Bureau, Federal Housing Finance Agency': 'Budget / Finance',
-    'U.S. Department of Agriculture': 'Food',
-    'Office of Management and Budget': 'Budget / Finance'
-}
 
 
 def get_metadata_availability(dataset_id, data_backups):
@@ -86,7 +51,22 @@ def get_metadata_availability(dataset_id, data_backups):
         return "No", ""
 
 
-def create_dataset_md(row, backups):
+def create_category_md(row):
+    cat_path = "_dataset_categories"
+    cat_filename = slugify(row['Name'])
+    # Creating the category markdown file
+    cat_md = "---\n"
+    cat_md += f"name: {row['Name']} \n" 
+    cat_md += f"logo: /img/categories_updated/{cat_filename}.svg \n" 
+    cat_md += f"featured: {slugify(row['Active'])} \n" 
+    cat_md += "---\n"
+
+    # Writing the catanization markdown file
+    with open(f'{cat_path}/{cat_filename}.md', 'w') as output:
+        output.write(cat_md)
+
+
+def create_dataset_md(row, backups, organizations):
     if row['organization'] == '':
         row['organization'] = 'Unknown'
     # Defining the schema, filename and path
@@ -114,7 +94,14 @@ def create_dataset_md(row, backups):
     dataset_md += f"metadata_available: {metadata_available}\n"
     dataset_md += f"metadata_url: {metadata_url}\n"
     dataset_md += "category:\n"
-    dataset_md += f"  - {get_dataset_category(clean_text(row['agency']))}\n"
+    if row['categories']:
+        cats = [a['value'] for a in row['categories']]
+    else:
+        cats = organizations[organizations['organizations'] == row['Organization']]['Categories'].str.split(';')
+    if len(cats) == 0:
+        cats = ['Uncategorized']
+    for cat in cats:
+        dataset_md += f"  - {cat}\n"
 
     dataset_md += "resources:\n"
     # Resource-level information
@@ -142,7 +129,7 @@ def create_dataset_md(row, backups):
     # Writing the organization markdown file
     with open(f'{org_path}/{org_filename}.md', 'w') as output:
         output.write(org_md)
-
+    
 
 def create_markdowns():
     """
@@ -150,6 +137,8 @@ def create_markdowns():
     """
     backups = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_backups.csv")
     datasets = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv")
+    organizations = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_organizations.csv")
+    categories = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_categories.csv")
 
     backups.columns = backups.columns.str.lower()
     backups = backups.fillna('')
@@ -162,5 +151,7 @@ def create_markdowns():
     # Remove files in _datasets and _organizations
     remove_files_os('./_datasets')
     remove_files_os('./_organizations')
+    remove_files_os('./_dataset_categories')
 
-    datasets.apply(create_dataset_md, axis=1, args=(backups,))
+    categories.apply(create_category_md, axis=1)
+    datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))
