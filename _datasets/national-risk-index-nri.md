@@ -27,5 +27,5 @@ resources:
     size: 2.6
     download_date: 2024-12-11
     maintainer: ESRI, HD
-    notes: easy downloads https//hazards.fema.gov/nri/data-resources
+    notes: easy downloads https://hazards.fema.gov/nri/data-resources
 ---

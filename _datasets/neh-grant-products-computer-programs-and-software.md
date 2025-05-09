@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products computer programs and software
+title: NEH grant products: computer programs and software
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

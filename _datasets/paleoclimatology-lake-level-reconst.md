@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Paleoclimatology  Lake Level Reconst.
+title: Paleoclimatology:  Lake Level Reconst.
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov

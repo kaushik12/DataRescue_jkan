@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics Dental Visits/Use/Events and Expenditures
+title: MEPS Topics: Dental Visits/Use/Events and Expenditures
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

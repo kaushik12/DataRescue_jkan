@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Veterans Utilization Profile FY18 Figure 6 - Rates of Use by Gender within Age Group, FY2018
+title: Veterans Utilization Profile FY18: Figure 6 - Rates of Use by Gender within Age Group, FY2018
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

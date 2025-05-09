@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Housing Discrimination in the Rental Housing Market Against People Who Are Deaf and People Who Use Wheelchairs National Study Findings*
+title: Housing Discrimination in the Rental Housing Market Against People Who Are Deaf and People Who Use Wheelchairs: National Study Findings*
 organization: U.S. Department of Housing and Urban Development - Office of Policy Development and Research
 agency: Department of Housing and Urban Development
 websites: huduser.gov

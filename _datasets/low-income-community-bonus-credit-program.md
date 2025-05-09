@@ -19,5 +19,5 @@ resources:
     size: 0.075
     download_date: 2025-01-21
     maintainer: PEDP, OEDP
-    notes: Data and code here https//data.nrel.gov/submissions/222
+    notes: Data and code here: https://data.nrel.gov/submissions/222
 ---

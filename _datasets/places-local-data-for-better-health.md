@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: PLACES Local Data for Better Health
+title: PLACES: Local Data for Better Health
 organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: cdc.gov
@@ -27,7 +27,7 @@ resources:
     size: 12.5
     download_date: 2025-01-30
     maintainer: PEDP, EDGI
-    notes: From the https//www.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7
+    notes: From the https://www.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7
   - id: 316
     url: https://www.dropbox.com/scl/fo/ow4uk19izkgqu5psgct22/AO_HmO50TEAz50SYe3BMYFs?rlkey=3m9ey4wichxfy07e3w7g17c5p&dl=0
     format: CSV, PDF

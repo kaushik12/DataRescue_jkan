@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products course or curricular materials
+title: NEH grant products: course or curricular materials
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

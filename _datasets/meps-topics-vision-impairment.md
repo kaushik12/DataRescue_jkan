@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics Vision Impairment
+title: MEPS Topics: Vision Impairment
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

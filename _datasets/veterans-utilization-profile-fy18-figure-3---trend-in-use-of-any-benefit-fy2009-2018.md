@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Veterans Utilization Profile FY18 Figure 3 - Trend in Use of Any Benefit, FY2009-2018
+title: Veterans Utilization Profile FY18: Figure 3 - Trend in Use of Any Benefit, FY2009-2018
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

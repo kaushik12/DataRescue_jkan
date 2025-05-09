@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products conferences, institutes, or seminars
+title: NEH grant products: conferences, institutes, or seminars
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

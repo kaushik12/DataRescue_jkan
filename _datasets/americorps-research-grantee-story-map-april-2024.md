@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: AmeriCorps Research Grantee Story Map April 2024
+title: AmeriCorps Research Grantee Story Map: April 2024
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

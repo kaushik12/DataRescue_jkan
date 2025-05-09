@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Multifamily Physical Inspection Scores
+title: Multifamily: Physical Inspection Scores
 organization: Web Master Pulic Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov

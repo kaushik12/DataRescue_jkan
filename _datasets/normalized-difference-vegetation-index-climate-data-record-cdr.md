@@ -19,5 +19,9 @@ resources:
     size: 950.0
     download_date: 2025-04-12
     maintainer: SRC, TSHRMP
+<<<<<<< HEAD
     notes: Full metadata  https//www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01558/html,  https//www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01677/htmlAlternate torrent location  https//academictorrents.com/details/d7c94efb457b7094b8f7497563801b62b9e49278
+=======
+    notes: Full metadata:  https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01558/html,  https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01677/htmlAlternate torrent location:  https://academictorrents.com/details/d7c94efb457b7094b8f7497563801b62b9e49278
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

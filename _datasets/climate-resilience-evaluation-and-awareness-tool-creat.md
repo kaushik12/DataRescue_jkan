@@ -19,5 +19,5 @@ resources:
     size: 0.03
     download_date: 2025-01-27
     maintainer: EDGI, HD
-    notes: data download https//www.epa.gov/crwu/access-data-creating-resilient-water-utilities
+    notes: data download: https://www.epa.gov/crwu/access-data-creating-resilient-water-utilities
 ---

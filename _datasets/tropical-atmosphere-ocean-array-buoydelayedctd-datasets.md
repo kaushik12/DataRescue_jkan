@@ -19,5 +19,9 @@ resources:
     size: 13.0
     download_date: 2025-04-27
     maintainer: SRC, TSHRMP
+<<<<<<< HEAD
     notes: Other metadata linkshttps//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOFullReshttps//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOCTDNew corrected/updated torrent.  Alternate torrent location https//academictorrents.com/details/af1e0b2d2e615f32787840714976ba95439a0b42
+=======
+    notes: Other metadata links:https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NDBC-TAOFullReshttps://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NDBC-TAOCTDNew corrected/updated torrent.  Alternate torrent location: https://academictorrents.com/details/af1e0b2d2e615f32787840714976ba95439a0b42
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

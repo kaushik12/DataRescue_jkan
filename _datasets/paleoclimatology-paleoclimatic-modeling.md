@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Paleoclimatology  Paleoclimatic Modeling
+title: Paleoclimatology:  Paleoclimatic Modeling
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov

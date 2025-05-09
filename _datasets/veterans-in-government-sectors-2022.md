@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Veterans in Government Sectors 2022
+title: Veterans in Government Sectors: 2022
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

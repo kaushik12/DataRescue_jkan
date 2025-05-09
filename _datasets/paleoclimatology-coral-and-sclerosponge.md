@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Paleoclimatology  Coral and Sclerosponge
+title: Paleoclimatology:  Coral and Sclerosponge
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov

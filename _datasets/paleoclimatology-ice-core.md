@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Paleoclimatology  Ice Core
+title: Paleoclimatology:  Ice Core
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ncei.noaa.gov

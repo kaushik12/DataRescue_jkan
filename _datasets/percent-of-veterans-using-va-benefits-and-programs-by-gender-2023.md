@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Percent of Veterans Using VA Benefits and Programs by Gender 2023
+title: Percent of Veterans Using VA Benefits and Programs by Gender: 2023
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

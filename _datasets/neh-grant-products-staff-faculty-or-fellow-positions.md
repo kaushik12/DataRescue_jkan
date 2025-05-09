@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products staff, faculty, or fellow positions
+title: NEH grant products: staff, faculty, or fellow positions
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

@@ -1,6 +1,10 @@
 ---
 schema: data_rescue_project 
+<<<<<<< HEAD
 title: Snap Stat Sizing Up Certified CDFIs
+=======
+title: Snap Stat: Sizing Up Certified CDFIs
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: CDFI
 agency: Department of the Treasury
 websites: cdfifund.gov

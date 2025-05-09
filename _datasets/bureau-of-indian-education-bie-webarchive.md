@@ -19,5 +19,9 @@ resources:
     size: 0.5
     download_date: 2025-04-21
     maintainer: IA, TSHRMP
+<<<<<<< HEAD
     notes: Webarchive mirror of https//www.bie.edu/, using Archiveweb.page, in WACZ file form.
+=======
+    notes: Webarchive mirror of https://www.bie.edu/, using Archiveweb.page, in WACZ file form.
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

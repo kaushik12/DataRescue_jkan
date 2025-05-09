@@ -19,5 +19,9 @@ resources:
     size: 7.8
     download_date: 2025-04-09
     maintainer: SRC, TSHRMP
+<<<<<<< HEAD
     notes: New corrected/updated torrent.  Alternate torrent location  https//academictorrents.com/details/7304161afb57776cedf3b9bf71d1c89f3d956820
+=======
+    notes: New corrected/updated torrent.  Alternate torrent location:  https://academictorrents.com/details/7304161afb57776cedf3b9bf71d1c89f3d956820
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

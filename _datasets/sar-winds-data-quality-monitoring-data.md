@@ -19,5 +19,9 @@ resources:
     size: 1400.0
     download_date: 2025-05-06
     maintainer: SRC, TSHRMP
+<<<<<<< HEAD
     notes: Full metadata linkshttps//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcSAR-Winds-RCM,https//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcSAR-Winds-RADARSAT2,https//www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcSAR-Winds-Sentinel1Alternate torrent location  https//academictorrents.com/details/229333d7ea1437a33e307b92bc6f37eb91c6a56c
+=======
+    notes: Full metadata links:https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:SAR-Winds-RCM,https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:SAR-Winds-RADARSAT2,https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:SAR-Winds-Sentinel1Alternate torrent location:  https://academictorrents.com/details/229333d7ea1437a33e307b92bc6f37eb91c6a56c
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

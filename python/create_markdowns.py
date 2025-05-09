@@ -21,8 +21,9 @@ def clean_text(string):
     string = string.replace('\n', '').replace('\r', '').replace('\t', '')
     # Remove leading '-'
     string = re.sub(r'^-', '', string)
-    # Replace ':' with '-'
-    string = string.replace(':', '')
+    # Remove leading and trailing ':'
+    string = string.rstrip(':')
+    string = string.replace('^:', '')
     return string
 
 
@@ -87,7 +88,7 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += f"organization: {clean_text(row['organization'])}\n"
     dataset_md += f"agency: {clean_text(row['agency'])}\n"
     dataset_md += f"websites: {row['websites']}\n"
-    dataset_md += f"data_source: {row['url']}\n"
+    dataset_md += f"data_source: {clean_text(row['url'])}\n"
     dataset_md += f"description: {clean_text(row['notes'])}\n"
     dataset_md += f"last_modified: {row['last_modified']}\n"
     # Check if any backups have metadata available and populate

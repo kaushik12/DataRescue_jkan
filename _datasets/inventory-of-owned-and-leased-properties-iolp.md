@@ -19,5 +19,5 @@ resources:
     size: 0.25
     download_date: 2025-01-31
     maintainer: BLN
-    notes: Downloads are ongoing. Code is at https//github.com/biglocalnews/sync-gsa-propertiesCode can be easily adapted to grab other data sets from data.gov.
+    notes: Downloads are ongoing. Code is at https://github.com/biglocalnews/sync-gsa-propertiesCode can be easily adapted to grab other data sets from data.gov.
 ---

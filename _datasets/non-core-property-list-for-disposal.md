@@ -19,5 +19,5 @@ resources:
     size: 0.01
     download_date: 2025-03-04
     maintainer: BLN
-    notes: Code is at https//github.com/biglocalnews/sync-non-core-properties
+    notes: Code is at https://github.com/biglocalnews/sync-non-core-properties
 ---

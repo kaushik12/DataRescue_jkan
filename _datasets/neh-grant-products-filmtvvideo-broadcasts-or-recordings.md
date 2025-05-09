@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products film/TV/video broadcasts or recordings
+title: NEH grant products: film/TV/video broadcasts or recordings
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

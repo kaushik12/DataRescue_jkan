@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Rate of Foreclosure in Home and ADDI Programs Survey data
+title: Rate of Foreclosure in Home and ADDI Programs: Survey data
 organization: U.S. Department of Housing and Urban Development - Office of Policy Development and Research
 agency: Department of Housing and Urban Development
 websites: huduser.gov

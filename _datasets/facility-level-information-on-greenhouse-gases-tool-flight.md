@@ -19,7 +19,11 @@ resources:
     size: 0.412
     download_date: 2025-02-20
     maintainer: PEDP, BCECJ, HD
+<<<<<<< HEAD
     notes: Helpful info here https//ccdsupport.com/confluence/display/ghgp
+=======
+    notes: Helpful info here: https://ccdsupport.com/confluence/display/ghgp
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
   - id: 197
     url: https://public.tableau.com/app/profile/walter.auch/viz/USEPAFLIGHTDataDashboard/Dashboard1
     format: XML
@@ -27,5 +31,9 @@ resources:
     size: 0.0
     download_date: 
     maintainer: PEDP, BCECJ
+<<<<<<< HEAD
     notes: Helpful info here https//ccdsupport.com/confluence/display/ghgp
+=======
+    notes: Helpful info here: https://ccdsupport.com/confluence/display/ghgp
+>>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---
