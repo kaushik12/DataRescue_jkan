@@ -86,7 +86,8 @@ dataset_table = get_results_json("https://baserow.datarescueproject.org/api/data
 backups_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true")
 categories = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"))[['Name', 'Active']]
 organizations = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"))[['Organizations', 'Categories']]
-organizations['Categories'] = organizations['Categories'].apply(lambda x: stringify_arr_vals(x))
+organizations['Categories'] = organizations['Categories'].apply(
+    lambda x: stringify_arr_vals(x))
 
 rows = []
 for row in backups_table:
@@ -106,5 +107,9 @@ datasets.to_csv("baserow_exports/datarescue_datasets.csv", index=False)
 backups.to_csv("baserow_exports/datarescue_backups.csv", index=False)
 categories.to_csv("baserow_exports/datarescue_categories.csv", index=False)
 organizations.to_csv("baserow_exports/datarescue_organizations.csv", index=False)
+print("Datasets saved")
+print("Backups saved")
+print("Categories saved")
+print("Organizations saved")
 
 create_markdowns()
