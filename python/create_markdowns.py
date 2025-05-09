@@ -58,7 +58,7 @@ def create_category_md(row):
     cat_md = "---\n"
     cat_md += f"name: {row['Name']} \n" 
     cat_md += f"logo: /img/categories_updated/{cat_filename}.svg \n" 
-    cat_md += f"featured: {row['Active'].str.lower()} \n" 
+    cat_md += f"featured: {row['Active']} \n" 
     cat_md += "---\n"
 
     # Writing the catanization markdown file
@@ -139,6 +139,7 @@ def create_markdowns():
     datasets = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv")
     organizations = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_organizations.csv")
     categories = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_categories.csv")
+    categories['Active'] = categories['Active'].astype(str).str.lower()
 
     backups.columns = backups.columns.str.lower()
     backups = backups.fillna('')
