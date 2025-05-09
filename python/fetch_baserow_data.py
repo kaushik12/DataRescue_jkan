@@ -84,8 +84,8 @@ def process_backup_row(d):
 
 dataset_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/639/?user_field_names=true")
 backups_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true")
-categories = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"))[['Name']]
-organizations = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"))[['Organizations','Categories']]
+categories = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"))[['Name', 'Active']]
+organizations = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"))[['Organizations', 'Categories']]
 organizations['Categories'] = organizations['Categories'].apply(lambda x: stringify_arr_vals(x))
 
 rows = []
