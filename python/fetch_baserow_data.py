@@ -3,7 +3,6 @@ import requests
 # import json
 # import numpy as np
 import os
-import re
 from create_markdowns import create_markdowns
 
 
@@ -51,6 +50,7 @@ def process_dataset_row(d):
         "websites": get_arr_vals(d["Websites"], col="value"),
         "organization": get_arr_vals(d["Organization"], col="value"),
         "agency": get_arr_vals(d["Agency"], col="value"),
+        "categories": d["Categories"],
         "last_modified": d["Last modified"]
     }
 
