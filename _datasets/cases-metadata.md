@@ -19,9 +19,5 @@ resources:
     size: 0.045
     download_date: 2025-03-27
     maintainer: DRP, DL
-<<<<<<< HEAD
     notes: Also available at https//labordata.bunkum.us
-=======
-    notes: Also available at https://labordata.bunkum.us
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

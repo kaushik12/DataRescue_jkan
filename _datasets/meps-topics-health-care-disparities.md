@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics: Health Care Disparities
+title: MEPS Topics Health Care Disparities
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

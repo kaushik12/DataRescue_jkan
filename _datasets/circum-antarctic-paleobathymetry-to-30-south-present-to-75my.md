@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: Circum-Antarctic Paleobathymetry to 30° South Present to 75my
-=======
-title: Circum-Antarctic Paleobathymetry to 30° South: Present to 75my
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: National Oceanic and Atmospheric Administration
 agency: Department of Commerce
 websites: ngdc.noaa.gov

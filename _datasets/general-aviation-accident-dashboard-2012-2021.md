@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: General Aviation Accident Dashboard 2012-2021
-=======
-title: General Aviation Accident Dashboard: 2012-2021
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: National Transportation Safety Board
 agency: National Transportation Safety Board
 websites: ntsb.gov

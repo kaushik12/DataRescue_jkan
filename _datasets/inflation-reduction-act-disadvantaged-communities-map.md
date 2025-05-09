@@ -19,11 +19,7 @@ resources:
     size: 1.3
     download_date: 2025-01-27
     maintainer: PEDP, EDGI, HD
-<<<<<<< HEAD
     notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
-=======
-    notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here: https://gaftp.epa.gov/EPA_IRA_Public/
->>>>>>> b2bc468 (fixing more url pattern issues for md)
   - id: 201
     url: https://zenodo.org/records/14833639
     format: Shapefile
@@ -31,9 +27,5 @@ resources:
     size: 28.4
     download_date: 2025-02-07
     maintainer: PEDP, EDGI, HD
-<<<<<<< HEAD
     notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
-=======
-    notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here: https://gaftp.epa.gov/EPA_IRA_Public/
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

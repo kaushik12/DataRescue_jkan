@@ -19,9 +19,5 @@ resources:
     size: 0.028
     download_date: 2025-04-15
     maintainer: DRP, DL
-<<<<<<< HEAD
     notes: FTA collects monthly transit service data from Full Urban Reporters (agencies with over 30 Vehicles Operated in Maximum Service (VOMS) or modes operating over Fixed Guideway). These service data include Vehicle Revenue Miles (VRM), Vehicle Revenue Hours (VRH), Unlinked Passenger Trips (UPT), and VOMS. For a description of these data, please review the most recent NTD Policy Manual (https//www.transit.dot.gov/ntd/2024-ntd-monthly-ridership-and-weekly-reference-policy-manual). The most recent NTD Policy Manual for this point in time (2024) has been included with this dataset. The datasets have multiple sheets within the Excel spreadsheet, with the first one being a README.
-=======
-    notes: FTA collects monthly transit service data from Full Urban Reporters (agencies with over 30 Vehicles Operated in Maximum Service (VOMS) or modes operating over Fixed Guideway). These service data include Vehicle Revenue Miles (VRM), Vehicle Revenue Hours (VRH), Unlinked Passenger Trips (UPT), and VOMS. For a description of these data, please review the most recent NTD Policy Manual (https://www.transit.dot.gov/ntd/2024-ntd-monthly-ridership-and-weekly-reference-policy-manual). The most recent NTD Policy Manual for this point in time (2024) has been included with this dataset. The datasets have multiple sheets within the Excel spreadsheet, with the first one being a README.
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

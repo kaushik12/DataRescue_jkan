@@ -19,9 +19,5 @@ resources:
     size: 0.0
     download_date: 
     maintainer: PEDP, ESRI
-<<<<<<< HEAD
     notes: https//www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads,  https//www.epa.gov/frs
-=======
-    notes: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads,  https://www.epa.gov/frs
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

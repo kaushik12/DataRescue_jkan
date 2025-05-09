@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: My Brother's Keeper (MBK) Key Statistical Indicators on Boys and Men of Color
-=======
-title: My Brother's Keeper (MBK): Key Statistical Indicators on Boys and Men of Color
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov

@@ -14,7 +14,7 @@ def slugify(string):
     return string
 
 
-def clean_text(string):
+def clean_url(string):
     # Remove URL prefixes like http:// or https://
     # string = re.sub(r'http[s]?://', '', string)
     # Remove escape strings like \n
@@ -27,15 +27,24 @@ def clean_text(string):
     return string
 
 
+def clean_text(string):
+    # Remove URL prefixes like http:// or https://
+    # string = re.sub(r'http[s]?://', '', string)
+    # Remove escape strings like \n
+    string = string.replace('\n', '').replace('\r', '').replace('\t', '')
+    # Remove leading '-'
+    string = re.sub(r'^-', '', string)
+    # Remove leading and trailing ':'
+    string = string.replace(':', '')
+    return string
+
+
 def remove_files_os(dir_path):
     for filename in os.listdir(dir_path):
         file_path = os.path.join(dir_path, filename)
         if os.path.isfile(file_path):
             os.remove(file_path)
 
-
-def get_dataset_category(organization):
-    return agency_to_category[agency]
 
 
 def get_metadata_availability(dataset_id, data_backups):
@@ -88,7 +97,7 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += f"organization: {clean_text(row['organization'])}\n"
     dataset_md += f"agency: {clean_text(row['agency'])}\n"
     dataset_md += f"websites: {row['websites']}\n"
-    dataset_md += f"data_source: {clean_text(row['url'])}\n"
+    dataset_md += f"data_source: {clean_url(row['url'])}\n"
     dataset_md += f"description: {clean_text(row['notes'])}\n"
     dataset_md += f"last_modified: {row['last_modified']}\n"
     # Check if any backups have metadata available and populate

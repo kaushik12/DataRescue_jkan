@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: FY 2019 NMTC Public Data Release 2003-2017 Data File
-=======
-title: FY 2019 NMTC Public Data Release: 2003-2017 Data File
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: CDFI
 agency: Department of the Treasury
 websites: cdfifund.gov

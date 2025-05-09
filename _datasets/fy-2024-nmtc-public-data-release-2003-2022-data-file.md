@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: FY 2024 NMTC Public Data Release: 2003-2022 Data File
+title: FY 2024 NMTC Public Data Release 2003-2022 Data File
 organization: CDFI
 agency: Department of the Treasury
 websites: cdfifund.gov

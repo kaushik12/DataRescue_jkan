@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics: Obesity
+title: MEPS Topics Obesity
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

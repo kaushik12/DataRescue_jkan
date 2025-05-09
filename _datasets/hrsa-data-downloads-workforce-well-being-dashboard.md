@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: HRSA Data Downloads Workforce Well-being Dashboard
-=======
-title: HRSA Data Downloads: Workforce Well-being Dashboard
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: Health Resources and Services Administration
 agency: Department of Health and Human Services
 websites: data.hrsa.gov

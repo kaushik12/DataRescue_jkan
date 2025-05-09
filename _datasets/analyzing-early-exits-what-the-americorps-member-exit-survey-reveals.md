@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Analyzing Early Exits: What the AmeriCorps Member Exit Survey Reveals
+title: Analyzing Early Exits What the AmeriCorps Member Exit Survey Reveals
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

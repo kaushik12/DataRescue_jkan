@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: 2022 AmeriCorps MES: AmeriCorps Member Exit Survey
+title: 2022 AmeriCorps MES AmeriCorps Member Exit Survey
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

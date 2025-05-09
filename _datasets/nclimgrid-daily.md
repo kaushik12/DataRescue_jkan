@@ -19,9 +19,5 @@ resources:
     size: 107.0
     download_date: 2025-03-24
     maintainer: IA, TSHRMP
-<<<<<<< HEAD
     notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in progress.Alternate torrent location  https//academictorrents.com/details/3b7d120c33110a0706c9afae714648b6f8e249a7
-=======
-    notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in progress.Alternate torrent location:  https://academictorrents.com/details/3b7d120c33110a0706c9afae714648b6f8e249a7
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 ---

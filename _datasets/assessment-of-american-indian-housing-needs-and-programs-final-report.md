@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Assessment of American Indian Housing Needs and Programs: Final Report
+title: Assessment of American Indian Housing Needs and Programs Final Report
 organization: U.S. Department of Housing and Urban Development - Office of Policy Development and Research
 agency: Department of Housing and Urban Development
 websites: huduser.gov

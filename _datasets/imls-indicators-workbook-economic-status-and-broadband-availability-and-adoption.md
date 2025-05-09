@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: IMLS Indicators Workbook: Economic Status and Broadband Availability and Adoption
+title: IMLS Indicators Workbook Economic Status and Broadband Availability and Adoption
 organization: Institute of Museum and Library Services
 agency: Institute of Museum and Library Services
 websites: imls.gov

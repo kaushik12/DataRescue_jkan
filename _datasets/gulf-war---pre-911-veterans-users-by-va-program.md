@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Gulf War - Pre 9/11 Veterans: Users by VA Program
+title: Gulf War - Pre 9/11 Veterans Users by VA Program
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

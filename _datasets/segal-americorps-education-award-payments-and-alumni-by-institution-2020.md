@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Segal AmeriCorps Education Award: Payments and Alumni by Institution 2020
+title: Segal AmeriCorps Education Award Payments and Alumni by Institution 2020
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

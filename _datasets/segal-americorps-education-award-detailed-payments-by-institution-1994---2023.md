@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Segal AmeriCorps Education Award: Detailed Payments by Institution 1994 - 2023
+title: Segal AmeriCorps Education Award Detailed Payments by Institution 1994 - 2023
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

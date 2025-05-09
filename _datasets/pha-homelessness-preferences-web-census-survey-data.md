@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: PHA Homelessness Preferences: Web Census Survey Data*
+title: PHA Homelessness Preferences Web Census Survey Data*
 organization: U.S. Department of Housing and Urban Development - Office of Policy Development and Research
 agency: Department of Housing and Urban Development
 websites: huduser.gov

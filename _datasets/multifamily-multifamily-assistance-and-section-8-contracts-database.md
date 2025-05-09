@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Multifamily: Multifamily Assistance and Section 8 Contracts Database
+title: Multifamily Multifamily Assistance and Section 8 Contracts Database
 organization: Department of Housing and Urban Development
 agency: Department of Housing and Urban Development
 websites: portal.hud.gov

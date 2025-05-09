@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics: Children's Health
+title: MEPS Topics Children's Health
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

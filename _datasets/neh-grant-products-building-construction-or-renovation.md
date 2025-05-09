@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products: building construction or renovation
+title: NEH grant products building construction or renovation
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

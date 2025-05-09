@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: MEPS Topics: State and Metro Area Estimates
+title: MEPS Topics State and Metro Area Estimates
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
 websites: meps.ahrq.gov

@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: NEH grant products: open access items
+title: NEH grant products open access items
 organization: Office of Information Resources Management
 agency: National Endowment for the Humanities
 websites: neh.gov

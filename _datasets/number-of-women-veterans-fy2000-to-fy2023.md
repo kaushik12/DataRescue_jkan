@@ -1,10 +1,6 @@
 ---
 schema: data_rescue_project 
-<<<<<<< HEAD
 title: Number of Women Veterans FY2000 to FY2023
-=======
-title: Number of Women Veterans: FY2000 to FY2023
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

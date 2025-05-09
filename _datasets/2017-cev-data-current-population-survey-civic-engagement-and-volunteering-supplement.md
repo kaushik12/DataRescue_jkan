@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: 2017 CEV Data: Current Population Survey Civic Engagement and Volunteering Supplement
+title: 2017 CEV Data Current Population Survey Civic Engagement and Volunteering Supplement
 organization: AmeriCorps
 agency: AmeriCorps
 websites: data.americorps.gov

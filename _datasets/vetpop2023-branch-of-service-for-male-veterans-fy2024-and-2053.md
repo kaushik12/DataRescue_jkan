@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: VetPop2023 Branch of Service for Male Veterans: FY2024 and 2053
+title: VetPop2023 Branch of Service for Male Veterans FY2024 and 2053
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov

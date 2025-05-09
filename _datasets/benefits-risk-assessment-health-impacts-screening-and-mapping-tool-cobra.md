@@ -5,11 +5,7 @@ organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: cobra.epa.gov
 data_source: https://www.epa.gov/cobra
-<<<<<<< HEAD
 description: Downloadable program. Web based version and models would be hard to replicate. Data and metadata found here https//www.epa.gov/cobra/cobra-future-input-files
-=======
-description: Downloadable program. Web based version and models would be hard to replicate. Data and metadata found here: https://www.epa.gov/cobra/cobra-future-input-files
->>>>>>> b2bc468 (fixing more url pattern issues for md)
 last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: https://www.epa.gov/cobra/cobra-future-input-files

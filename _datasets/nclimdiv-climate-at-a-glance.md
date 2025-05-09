@@ -19,5 +19,5 @@ resources:
     size: 1.6
     download_date: 2025-02-05
     maintainer: DL
-    notes: "Copy of screen scraping scripts and reference to GLOBUS endpoint available at:https://github.com/Brown-University-Library/geodata_usgovt_backup"
+    notes: "Copy of screen scraping scripts and reference to GLOBUS endpoint available athttps//github.com/Brown-University-Library/geodata_usgovt_backup"
 ---

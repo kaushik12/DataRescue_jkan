@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: Telling All Americans' Stories: Publications on Diverse and Inclusive History
+title: Telling All Americans' Stories Publications on Diverse and Inclusive History
 organization: National Park Service
 agency: Department of the Interior, National Parks Service
 websites: nps.gov

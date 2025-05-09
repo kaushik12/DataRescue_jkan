@@ -1,6 +1,6 @@
 ---
 schema: data_rescue_project 
-title: 2021 Nonemployer Statistics by Demographics series (NES-D): Statistics for Employer and Nonemployer Firms by Industry, Sex, Ethnicity, Race, and Veteran Status for the U.S., States, Metro Areas, and Counties
+title: 2021 Nonemployer Statistics by Demographics series (NES-D) Statistics for Employer and Nonemployer Firms by Industry, Sex, Ethnicity, Race, and Veteran Status for the U.S., States, Metro Areas, and Counties
 organization: Minority Business Development Agency
 agency: Department of Commerce
 websites: mbda.gov
