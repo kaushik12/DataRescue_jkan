@@ -58,7 +58,7 @@ def create_category_md(row):
     cat_md = "---\n"
     cat_md += f"name: {row['Name']} \n" 
     cat_md += f"logo: /img/categories_updated/{cat_filename}.svg \n" 
-    cat_md += f"featured: {slugify(row['Active'])} \n" 
+    cat_md += f"featured: {row['Active'].str.lower()} \n" 
     cat_md += "---\n"
 
     # Writing the catanization markdown file
