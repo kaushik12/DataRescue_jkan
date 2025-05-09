@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Common Core of Data (CCD)
-organization: Office of Chief Information Officer
+organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/ccd/files.asp
@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/221563/version/V1/view
 category:
-  - Education
+  - Uncategorized
 resources:
   - id: 589
     url: https://www.datalumos.org/datalumos/project/221563/version/V1/view

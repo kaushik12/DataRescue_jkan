@@ -10,13 +10,13 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Uncategorized
 resources:
   - id: 287
     url: https://www.dropbox.com/scl/fo/dvaz58ejrgt8s877xkbnb/ADrC9lJwWooqZAC5YwSrJ-4?rlkey=h045e7mkjalclsnf37yrqcgek&dl=0
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

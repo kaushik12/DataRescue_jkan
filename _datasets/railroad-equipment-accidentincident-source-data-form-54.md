@@ -8,16 +8,16 @@ data_source: https://data.transportation.gov/Railroads/Railroad-Equipment-Accide
 description: 
 last_modified: 2025-03-02
 metadata_available: Yes
-metadata_url: 
+metadata_url: https://data.transportation.gov/Railroads/Railroad-Equipment-Accident-Incident-Source-Data-F/aqxq-n5hy/about_data
 category:
-  - Transportation
+  - Uncategorized
 resources:
   - id: 182
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YWMGND&version=DRAFT
-    format: ZIP
+    format: ZIP, PDF, CSV
     status: Finished
     size: 0.36
-    download_date: 2025-03-02
-    maintainer: EDGI, HD
+    download_date: 2025-03-25
+    maintainer: PEDP, EDGI, HD
     notes: 
 ---

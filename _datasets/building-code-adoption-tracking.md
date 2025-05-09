@@ -10,13 +10,13 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 208
     url: 
     format: Interactive Map, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: Local - ESRI; Identify which building codes an area has adopted by hazard risk, PDF fact sheets by region

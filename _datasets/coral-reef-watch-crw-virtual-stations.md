@@ -10,13 +10,13 @@ last_modified: 2025-03-22
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 215
     url: https://hub.arcgis.com/maps/26e71d14067c4b3f8dd31d1a4e008cfb/about
     format: 
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2019-04-15
     maintainer: ESRI
     notes: 

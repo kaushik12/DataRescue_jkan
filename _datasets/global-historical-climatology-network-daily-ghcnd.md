@@ -10,14 +10,14 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 604
-    url: https://archive.org/details/global-historical-climatology-network-daily
+    url: https://sciop.net/uploads/db8f36fcce4134d2f7891c6d4347c1989f215bae
     format: CSV
     status: Finished
     size: 141.0
     download_date: 2025-03-23
     maintainer: TSHRMP
-    notes: Actively seeded torrent file in Internet Archive item (the one without _archive).  Direct file upload in progress.
+    notes: Alternate torrent location https//academictorrents.com/details/db8f36fcce4134d2f7891c6d4347c1989f215bae
 ---

@@ -10,14 +10,14 @@ last_modified: 2025-03-28
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00948
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 616
-    url: https://archive.org/details/cmorph-high-resolution-global-precipitation-estimates
+    url: https://sciop.net/uploads/84869b28e308afe79b872698af51f773d1344bff
     format: nc
     status: Finished
     size: 483.0
     download_date: 2025-03-25
-    maintainer: TSHRMP
-    notes: Includes actively seeded torrent file (the one without _archive).  Additional torrent location https//academictorrents.com/details/19f71feb4771bfb549d01ee28fa1bd256b62d353
+    maintainer: IA, TSHRMP
+    notes: New corrected/updated torrent.   Additional torrent location https//academictorrents.com/details/84869b28e308afe79b872698af51f773d1344bff
 ---

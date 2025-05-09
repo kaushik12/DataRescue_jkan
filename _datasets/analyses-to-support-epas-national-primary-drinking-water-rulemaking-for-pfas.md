@@ -10,13 +10,13 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 187
     url: https://web.archive.org/web/20250117221843/https://sab.epa.gov/ords/sab/f?p=100:18:16490947993:::18:P18_ID:2601
     format: PDF, Webpage
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-17
     maintainer: EDGI, IA
     notes: 

@@ -10,7 +10,7 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 239
     url: https://github.com/NREL/nsrdb/tree/v4.1.1
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 3.1
     download_date: 
-    maintainer: CoCr
+    maintainer: PEDP, CoCr
     notes: private s3 us-west-2 bucket
 ---

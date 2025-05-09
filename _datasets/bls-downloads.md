@@ -10,12 +10,12 @@ last_modified: 2025-02-10
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 1
     url: 
     format: 
-    status: Finished
+    status: In Progress
     size: 47.0
     download_date: 2025-02-01
     maintainer: DRP

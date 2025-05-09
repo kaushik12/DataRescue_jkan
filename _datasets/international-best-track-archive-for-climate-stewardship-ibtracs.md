@@ -10,14 +10,14 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/international-best-track-archive
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 625
-    url: https://archive.org/details/international-best-track-archive-for-climate-stewardship-ibtracs
+    url: https://sciop.net/uploads/2ff9743464c285a24346b29716648aced930e8e2
     format: nc, CSV, Shapefile
     status: Finished
     size: 3.6
     download_date: 2025-03-29
-    maintainer: TSHRMP
-    notes: Actively seeded torrent in IA item (the one without _archive).  Direct file upload in progress.Alternate torrent locationhttps//academictorrents.com/details/457e924710d50bd49701abb642e40d6223c1f1d5
+    maintainer: SRC, TSHRMP
+    notes: New corrected/updated torrent.Alternate torrent locationhttps//academictorrents.com/details/2ff9743464c285a24346b29716648aced930e8e2
 ---

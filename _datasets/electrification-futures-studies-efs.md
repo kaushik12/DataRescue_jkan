@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 238
     url: https://zenodo.org/records/14782874
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 141.2
     download_date: 2025-01-31
-    maintainer: CaCo
+    maintainer: PEDP, CaCo
     notes: 
 ---

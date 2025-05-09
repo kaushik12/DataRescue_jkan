@@ -16,7 +16,7 @@ resources:
     url: 
     format: 
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: Local - ESRI

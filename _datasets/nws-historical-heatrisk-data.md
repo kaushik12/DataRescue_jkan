@@ -10,13 +10,13 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 623
     url: https://www.datalumos.org/datalumos/project/223525/version/V1/view
     format: CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-03
     maintainer: DRP, DL
     notes: 

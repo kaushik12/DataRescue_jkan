@@ -10,19 +10,19 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 18
     url: https://www.datalumos.org/datalumos/project/218382/version/V1/view
     format: ZIP
     status: Finished
-    size: 
+    size: 3.005
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 
   - id: 210
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JSQ8KZ
-    format: geodatabase, Shapefile, CSV
+    format: Geodatabase, Shapefile, CSV
     status: Finished
     size: 2.6
     download_date: 2024-12-11

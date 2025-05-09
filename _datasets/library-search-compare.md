@@ -10,13 +10,13 @@ last_modified: 2025-02-21
 metadata_available: No
 metadata_url: 
 category:
-  - Arts / Culture / History
+  - Uncategorized
 resources:
   - id: 104
     url: https://www.datalumos.org/datalumos/project/218902/version/V1/view
     format: ZIP, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-06
     maintainer: DRP, DL
     notes: 2018-2022 data included

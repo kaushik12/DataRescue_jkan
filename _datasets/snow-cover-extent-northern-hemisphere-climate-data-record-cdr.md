@@ -10,7 +10,7 @@ last_modified: 2025-04-08
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00756
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 706
     url: https://archive.org/details/snow-cover-extent-cdr-noaa
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.1
     download_date: 2025-03-31
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

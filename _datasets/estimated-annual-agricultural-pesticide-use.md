@@ -10,13 +10,13 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Parks / Recreation
+  - Uncategorized
 resources:
   - id: 599
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FQEK6&version=DRAFT
     format: TXT, PDF, ZIP
     status: Error
-    size: 
+    size: 0.0
     download_date: 
     maintainer: HD
     notes: 

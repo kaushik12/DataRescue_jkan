@@ -10,13 +10,13 @@ last_modified: 2025-04-15
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 62
     url: https://github.com/oedp/community-resilience-estimates
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-12
     maintainer: PEDP, OEDP
     notes: 

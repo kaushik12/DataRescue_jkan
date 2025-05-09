@@ -10,13 +10,13 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 594
     url: 
     format: ZIP, TSV
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 2025-03-19
     maintainer: SRC
     notes: 

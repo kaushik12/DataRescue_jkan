@@ -10,13 +10,13 @@ last_modified: 2025-02-11
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 22
     url: https://www.datalumos.org/datalumos/project/218701/version/V1/view
     format: ZIP
     status: Finished
-    size: 
+    size: 0.002
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 

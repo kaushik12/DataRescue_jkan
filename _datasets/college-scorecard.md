@@ -10,13 +10,13 @@ last_modified: 2025-02-11
 metadata_available: No
 metadata_url: 
 category:
-  - Education
+  - Uncategorized
 resources:
   - id: 10
     url: https://www.datalumos.org/datalumos/project/218201/version/V1/view
-    format: XLSX
+    format: XLSX, PDF, ZIP
     status: Finished
-    size: 
+    size: 0.417
     download_date: 2025-02-06
     maintainer: DRP, DL
     notes: Metadata combined in DataLumos.

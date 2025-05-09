@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01713
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 593
     url: https://archive.org/details/irs-temperature-and-humidity_1
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 840.0
     download_date: 2025-03-11
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

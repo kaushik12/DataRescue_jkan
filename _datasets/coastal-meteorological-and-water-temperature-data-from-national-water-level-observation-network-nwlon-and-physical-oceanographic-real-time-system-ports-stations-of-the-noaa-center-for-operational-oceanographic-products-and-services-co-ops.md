@@ -10,7 +10,7 @@ last_modified: 2025-04-08
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:CO-OPS-NWLON-PORTS
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 709
     url: https://archive.org/details/noaa-ncei-ndbc-nwlon-coops
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 1.5
     download_date: 2025-04-06
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Includes actively seeded torrent file (the one without _archive).  Alternate torrent location https//academictorrents.com/details/0a6b2b7865b00df61473e7baf23440902ceb186b
 ---

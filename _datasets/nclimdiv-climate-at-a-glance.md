@@ -10,7 +10,7 @@ last_modified: 2025-02-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 178
     url: https://www.openicpsr.org/openicpsr/project/220102/version/V1/view

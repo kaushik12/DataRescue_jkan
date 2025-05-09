@@ -10,7 +10,7 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Education
+  - Uncategorized
 resources:
   - id: 609
     url: https://www.datalumos.org/datalumos/project/224362

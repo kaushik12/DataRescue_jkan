@@ -10,7 +10,7 @@ last_modified: 2025-03-23
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 600
     url: https://archive.org/details/ghcnh_2025-02-28

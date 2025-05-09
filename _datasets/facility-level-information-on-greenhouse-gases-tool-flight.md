@@ -10,22 +10,22 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 196
     url: https://doi.org/10.7910/DVN/TQG6RR
-    format: XML
+    format: XML, XLSX, XLS, PDF
     status: Finished
-    size: 
-    download_date: 
-    maintainer: BCECJ, HD
+    size: 0.412
+    download_date: 2025-02-20
+    maintainer: PEDP, BCECJ, HD
     notes: Helpful info here https//ccdsupport.com/confluence/display/ghgp
   - id: 197
     url: https://public.tableau.com/app/profile/walter.auch/viz/USEPAFLIGHTDataDashboard/Dashboard1
     format: XML
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
-    maintainer: BCECJ
+    maintainer: PEDP, BCECJ
     notes: Helpful info here https//ccdsupport.com/confluence/display/ghgp
 ---

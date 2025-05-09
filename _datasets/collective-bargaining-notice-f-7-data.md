@@ -10,13 +10,13 @@ last_modified: 2025-03-31
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 642
     url: https://www.datalumos.org/datalumos/project/223062/version/V1/view
-    format: 
+    format: XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-15
     maintainer: DRP, DL
     notes: This tab contains Excel spreadsheets of F7 notices by month

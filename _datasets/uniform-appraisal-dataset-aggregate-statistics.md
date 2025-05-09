@@ -10,14 +10,14 @@ last_modified: 2025-03-18
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Uncategorized
 resources:
   - id: 508
     url: https://www.datalumos.org/datalumos/project/219961/version/V1/view
-    format: 
+    format: PDF, ZIP
     status: Finished
-    size: 
-    download_date: 
+    size: 1.137
+    download_date: 2025-02-24
     maintainer: DRP, DL
     notes: 
 ---

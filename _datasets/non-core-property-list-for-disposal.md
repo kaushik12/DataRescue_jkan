@@ -10,7 +10,7 @@ last_modified: 2025-03-05
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 352
     url: https://biglocalnews.org/#/project/UHJvamVjdDpmMmNiODgyNy05ZWQ2LTQzM2UtYjI4Zi00MDQ4NzQxZTI2M2I=

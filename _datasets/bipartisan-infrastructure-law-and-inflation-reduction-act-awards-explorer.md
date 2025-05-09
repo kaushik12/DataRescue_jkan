@@ -10,13 +10,13 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 214
     url: 
     format: CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI, ESRI
     notes: Local - EDGI; only downloaded the csv; not trying to recreate the mapper

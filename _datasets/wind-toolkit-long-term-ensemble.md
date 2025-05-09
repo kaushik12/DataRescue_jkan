@@ -10,13 +10,13 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 330
     url: https://data.openei.org/submissions/5987
     format: HDF5
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-24
     maintainer: OEDI, CoCr
     notes: 

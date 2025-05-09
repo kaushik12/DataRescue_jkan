@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 522
     url: https://archive.org/details/fermi_gbm_burst
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 173.0
     download_date: 2025-02-16
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

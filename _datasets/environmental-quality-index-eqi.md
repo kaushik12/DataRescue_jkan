@@ -10,13 +10,13 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 194
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/A9ZHHR
     format: CSV, XLSX, XML, DOCX, PDF, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI, HD
     notes: 

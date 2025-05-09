@@ -10,7 +10,7 @@ last_modified: 2025-04-02
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3aC00005
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 705
     url: https://archive.org/details/nclimdiv-2025-04-01
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 1.64
     download_date: 2025-03-31
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

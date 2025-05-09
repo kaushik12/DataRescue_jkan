@@ -10,21 +10,21 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Elections / Politics
+  - Uncategorized
 resources:
   - id: 325
     url: https://www.dropbox.com/scl/fo/48s8kvkihywo2bsiwi5pj/AC2dcwGwRVo1IoeqU-HJURQ?rlkey=maq05i462hnvq38mn8s4bbrt6&dl=0
-    format: 
+    format: CSV, ZIP, TXT, DOCX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 
   - id: 326
     url: https://www.dropbox.com/scl/fo/xbuhxgpe103k9u7cilhqx/AAzzPgyOo0PAx1R7UN6Zj_I?rlkey=rii9wxqcr7pw01zxd6lj7tq9g&dl=0
-    format: 
+    format: CSV, ZIP, XLSX, DOCX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

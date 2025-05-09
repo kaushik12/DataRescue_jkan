@@ -10,13 +10,13 @@ last_modified: 2025-03-27
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 614
     url: https://github.com/pvlib
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: PEDP
     notes: 

@@ -10,14 +10,14 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 236
     url: https://github.com/wrf-model-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
-    maintainer: EDGI
+    maintainer: PEDP, EDGI
     notes: Contains version 1 of Justice 40 screening tool
 ---

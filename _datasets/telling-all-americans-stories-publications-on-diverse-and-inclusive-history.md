@@ -10,11 +10,11 @@ last_modified: 2025-03-18
 metadata_available: No
 metadata_url: 
 category:
-  - Parks / Recreation
+  - Uncategorized
 resources:
   - id: 513
     url: https://www.datalumos.org/datalumos/project/221941/version/V1/view
-    format: 
+    format: PDF, TXT
     status: Finished
     size: 0.8
     download_date: 2025-02-28

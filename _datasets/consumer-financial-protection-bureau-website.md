@@ -10,13 +10,13 @@ last_modified: 2025-02-20
 metadata_available: No
 metadata_url: 
 category:
-  - Budget / Finance
+  - Uncategorized
 resources:
   - id: 9
     url: 
     format: 
-    status: Finished
-    size: 
+    status: In Progress
+    size: 0.0
     download_date: 2025-02-03
     maintainer: DRP
     notes: Can't find the link in internet archives and no download location

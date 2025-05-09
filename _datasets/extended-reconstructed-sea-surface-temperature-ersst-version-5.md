@@ -10,14 +10,14 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00927
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 592
-    url: https://archive.org/details/sea-surface-temperature-extended-reconstructed
+    url: https://sciop.net/uploads/fe82920872b8d7204721ad154973a17e5d59238d
     format: nc
     status: Finished
     size: 0.3
     download_date: 2025-03-17
-    maintainer: TSHRMP
-    notes: 
+    maintainer: IA, TSHRMP
+    notes: New corrected/updated torrent.  Alternate torrent location  https//academictorrents.com/details/fe82920872b8d7204721ad154973a17e5d59238d
 ---

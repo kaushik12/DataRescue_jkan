@@ -10,13 +10,13 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 209
     url: https://www.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd
     format: TIFF, Shapefile, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: 

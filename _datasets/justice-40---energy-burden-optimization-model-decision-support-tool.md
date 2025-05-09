@@ -10,14 +10,14 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 67
-    url: 
-    format: CSV, PNG
+    url: https://zenodo.org/records/15061683
+    format: CSV, PNG, ZIP
     status: Finished
-    size: 
-    download_date: 2025-02-12
+    size: 2.6
+    download_date: 2025-01-21
     maintainer: PEDP, OEDP
-    notes: Local - OEDP; developed and maintained by the Lawrence Berkeley National Laboratory in partnership with the US Department of Energy (DOE) Office of Economic Impact and Diversity, under the J40 initiative.
+    notes: Maintained by the Lawrence Berkeley National Laboratory in partnership with the US Department of Energy (DOE) Office of Economic Impact and Diversity, under the J40 initiative.
 ---

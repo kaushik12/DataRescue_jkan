@@ -10,13 +10,13 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250204043537/https://www.fema.gov/openfema-data-page/individual-assistance-housing-registrants-large-disasters-v1
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 35
     url: https://www.datalumos.org/datalumos/project/218466/version/V1/view
     format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-08
     maintainer: DRP, DL
     notes: Combined on DataLumos in a project called "FEMA Disaster Individual Assistance", mirroring grouping on OpenFEMA page

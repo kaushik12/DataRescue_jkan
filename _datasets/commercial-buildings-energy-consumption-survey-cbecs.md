@@ -10,14 +10,14 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 76
     url: https://zenodo.org/records/14782474
-    format: XLSX
+    format: XLSX, JSON, ZIP
     status: Finished
-    size: 4.9
-    download_date: 2025-02-12
+    size: 6.5
+    download_date: 2025-03-19
     maintainer: PEDP, CaCo
     notes: 
 ---

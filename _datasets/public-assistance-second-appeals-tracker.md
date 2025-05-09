@@ -10,13 +10,13 @@ last_modified: 2025-02-11
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Uncategorized
 resources:
   - id: 23
     url: https://www.datalumos.org/datalumos/project/218681/version/V1/view
     format: XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 
@@ -24,7 +24,7 @@ resources:
     url: https://www.datalumos.org/datalumos/project/218481/version/V1/view
     format: XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-08
     maintainer: DRP, DL
     notes: Combined on DataLumos in a project called "FEMA Public Assistance Dataset", mirroring grouping on OpenFEMA page

@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: Under Review
 metadata_url: 
 category:
-  - Parks / Recreation
+  - Uncategorized
 resources:
   - id: 597
     url: https://zenodo.org/records/14736300

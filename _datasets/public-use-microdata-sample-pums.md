@@ -10,12 +10,12 @@ last_modified: 2025-02-12
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 64
     url: 
     format: CSV, SAS
-    status: Finished
+    status: In Progress
     size: 16.0
     download_date: 2025-02-12
     maintainer: PEDP, OEDP

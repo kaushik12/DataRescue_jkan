@@ -10,14 +10,14 @@ last_modified: 2025-04-02
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 701
     url: https://www.datalumos.org/datalumos/project/223441/version/V1/view
     format: ZIP, CSV, TXT
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-18
-    maintainer: 
+    maintainer: DRP, DL
     notes: 
 ---

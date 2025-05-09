@@ -10,13 +10,13 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 309
     url: https://www.dropbox.com/scl/fo/trzheq8o63z25poctecqv/AP2jXuxlmgA-_Y6Vp-ZHdCE?rlkey=yrz32o647eejbw9bed1mv57va&dl=0
-    format: 
+    format: ZIP, XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

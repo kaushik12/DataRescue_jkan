@@ -10,13 +10,13 @@ last_modified: 2025-03-21
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Uncategorized
 resources:
   - id: 536
     url: https://www.datalumos.org/datalumos/project/220328/version/V1/view
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: DRP, DL
     notes: 

@@ -10,13 +10,13 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 240
     url: https://github.com/NREL-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI
     notes: 

@@ -8,9 +8,9 @@ data_source: https://eric.ed.gov/
 description: 
 last_modified: 2025-03-20
 metadata_available: Yes
-metadata_url: 
+metadata_url: https://eric.ed.gov/pdf/ERIC_Field.pdf
 category:
-  - Education
+  - Uncategorized
 resources:
   - id: 520
     url: https://doi.org/10.5281/zenodo.15032840
@@ -24,8 +24,24 @@ resources:
     url: https://web.archive.org/collection-search/files.eric.ed.gov/iskme
     format: PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-04-05
     maintainer: EOT, WM
     notes: 509,664 PDFs and 2,613,141 (and growing) Web Pages archived from ERIC.
+  - id: 780
+    url: https://erica.datarescueproject.org
+    format: PDF, JSON, HTML
+    status: Finished
+    size: 
+    download_date: 2025-02-01
+    maintainer: DRP
+    notes: A functional search interface for all ERIC fulltext PDFs, linked to archived copies on the WayBack Machine. The interface uses a reduced version of the database, based on a full copy extracted via the ERIC API. The interface can be easily mirrored on any web server as it is client-side only. All PDFs were archived on the WayBack Machine.
+  - id: 865
+    url: https://sciop.net/datasets/eric-api-pdf
+    format: PDF
+    status: Finished
+    size: 599.0
+    download_date: 2025-03-09
+    maintainer: SRC
+    notes: Contains an API dump of the entire ERIC database, along with any fulltext journal and non-journal articles as PDFs.
 ---

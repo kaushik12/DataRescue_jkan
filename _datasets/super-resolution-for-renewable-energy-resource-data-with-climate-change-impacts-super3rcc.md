@@ -10,13 +10,13 @@ last_modified: 2025-03-11
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 244
     url: https://zenodo.org/records/14590487
     format: HDF5, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-03
     maintainer: CoCr
     notes: 

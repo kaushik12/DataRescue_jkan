@@ -10,7 +10,7 @@ last_modified: 2025-03-27
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 613
     url: https://archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd
@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.14
     download_date: 2025-03-24
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

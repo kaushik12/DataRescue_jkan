@@ -10,13 +10,13 @@ last_modified: 2025-03-04
 metadata_available: No
 metadata_url: 
 category:
-  - Budget / Finance
+  - Uncategorized
 resources:
   - id: 346
     url: https://www.openicpsr.org/openicpsr/project/220841/version/V1/view;jsessionid=C9FEFA57F248D8BC5BC1166C82E259EA
     format: CSV, XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-26
     maintainer: DRP, DL
     notes: 

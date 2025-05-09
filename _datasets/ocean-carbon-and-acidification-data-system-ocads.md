@@ -10,14 +10,14 @@ last_modified: 2025-04-08
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 710
-    url: https://archive.org/details/noaa-ncei-ocads-2025-04-07
+    url: https://sciop.net/uploads/e490a659449cc55cf59a8f32fbd2b230f63e7829
     format: CSV, JPEG, XLS, ps, PDF
     status: Finished
-    size: 153.0
+    size: 237.0
     download_date: 2025-04-05
-    maintainer: TSHRMP
-    notes: Includes archive of entire data system, composed of many datasets.  For posterity, all metadata files have been scraped and included in IA item, organized by accession number.  Would be thousands of submissions otherwise. Includes actively seeded torrent file (the one without _archive).  Alternate torrent location https//academictorrents.com/details/2b9b7040cbce323f7bc50c91ce88c6daa87fd8d1
+    maintainer: IA, TSHRMP
+    notes: New corrected and updated torrentIncludes archive of entire data system, composed of many datasets.  For posterity, all metadata files have been scraped and included in IA item, organized by accession number.  Would be thousands of submissions otherwise.   Alternate torrent location https//academictorrents.com/details/e490a659449cc55cf59a8f32fbd2b230f63e7829
 ---

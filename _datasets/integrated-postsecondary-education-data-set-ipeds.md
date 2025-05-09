@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Integrated Postsecondary Education Data Set (IPEDS)
-organization: Office of Chief Information Officer
+organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=-1&sid=7b86b933-b5f1-4816-b3c9-993fc96cf754&rtid=7
@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - Education
+  - Uncategorized
 resources:
   - id: 83
     url: https://www.datalumos.org/datalumos/project/218981/version/V1/view

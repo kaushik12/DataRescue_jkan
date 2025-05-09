@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: Yes
 metadata_url: https://www.epa.gov/crwu/climate-resilience-evaluation-and-awareness-tool-creat-methodology-guide
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 190
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZ7J2EA&version=1.0

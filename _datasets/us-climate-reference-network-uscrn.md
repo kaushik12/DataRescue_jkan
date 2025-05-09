@@ -10,14 +10,14 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/crn/
 category:
-  - Economy
+  - Uncategorized
 resources:
   - id: 603
-    url: https://archive.org/details/us-climate-reference-network
+    url: https://sciop.net/uploads/362f3e47404d04b589a376b39ab7ee65b19b873d
     format: CSV, TXT
     status: Finished
     size: 52.0
     download_date: 2025-03-24
-    maintainer: TSHRMP
-    notes: Actively seeded torrent file in Internet Archive Item, direct files in upload process
+    maintainer: IA, TSHRMP
+    notes: New corrected/updated torrent.  Alternate torrent location https//academictorrents.com/details/362f3e47404d04b589a376b39ab7ee65b19b873d
 ---

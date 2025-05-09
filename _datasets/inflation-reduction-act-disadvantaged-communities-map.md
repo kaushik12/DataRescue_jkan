@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: Yes
 metadata_url: 
 category:
-  - Environment
+  - Uncategorized
 resources:
   - id: 200
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FMKBXS
@@ -18,7 +18,7 @@ resources:
     status: Finished
     size: 1.3
     download_date: 2025-01-27
-    maintainer: EDGI, HD
+    maintainer: PEDP, EDGI, HD
     notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
   - id: 201
     url: https://zenodo.org/records/14833639
@@ -26,6 +26,6 @@ resources:
     status: Finished
     size: 28.4
     download_date: 2025-02-07
-    maintainer: EDGI, HD
+    maintainer: PEDP, EDGI, HD
     notes: https//www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https//gaftp.epa.gov/EPA_IRA_Public/
 ---
