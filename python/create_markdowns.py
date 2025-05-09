@@ -95,7 +95,8 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += f"metadata_url: {metadata_url}\n"
     dataset_md += "category:\n"
     if row['categories']:
-        cats = [a['value'] for a in row['categories']]
+        categories = eval(row['categories'])
+        cats = [a['value'] for a in categories]
     else:
         cats = organizations[organizations['organizations'] == row['Organization']]['Categories'].str.split(';')
     if len(cats) == 0:
