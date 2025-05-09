@@ -10,7 +10,7 @@ last_modified: 2025-04-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Labor & Employment'] 
 resources:
   - id: 763
     url: https://doi.org/10.3886/E226824V1

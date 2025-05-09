@@ -10,7 +10,7 @@ last_modified: 2025-04-27
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 901
     url: https://sciop.net/uploads/9840fa77d032a3821180f7f1726df02431e37e53

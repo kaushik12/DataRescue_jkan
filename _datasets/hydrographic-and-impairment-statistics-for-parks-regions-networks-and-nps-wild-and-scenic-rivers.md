@@ -10,7 +10,7 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Infrastructure'] 
 resources:
   - id: 622
     url: https://www.datalumos.org/datalumos/project/223523/version/V1/view

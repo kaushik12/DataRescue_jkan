@@ -10,7 +10,7 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206175912/https://www.fema.gov/openfema-data-page/public-assistance-applicants-program-deliveries-v1
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Humanitarian & Disaster Relief'] 
 resources:
   - id: 38
     url: https://www.datalumos.org/datalumos/project/218481/version/V1/view

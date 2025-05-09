@@ -10,7 +10,7 @@ last_modified: 2025-04-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 769
     url: https://doi.org/10.22002/k4070-ngc79

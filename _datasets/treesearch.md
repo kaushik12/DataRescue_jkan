@@ -10,7 +10,7 @@ last_modified: 2025-04-17
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Agriculture', 'Science & Research'] 
 resources:
   - id: 737
     url: https://sciop.net/datasets/usfs-treesearch

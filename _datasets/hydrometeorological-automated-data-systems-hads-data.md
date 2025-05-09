@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: https://hads.ncep.noaa.gov/WhatIsHADS.shtml
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 590
     url: https://archive.org/details/nws-hydrometeorological-automated-data-system

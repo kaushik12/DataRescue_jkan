@@ -10,7 +10,7 @@ last_modified: 2025-04-08
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 710
     url: https://sciop.net/uploads/e490a659449cc55cf59a8f32fbd2b230f63e7829

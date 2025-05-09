@@ -10,7 +10,7 @@ last_modified: 2025-05-03
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NESDIS-OHC
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 916
     url: https://sciop.net/uploads/ebfb85f2efdea5a0bb65098ecf33ba655cfc7ff3

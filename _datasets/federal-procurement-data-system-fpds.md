@@ -10,7 +10,7 @@ last_modified: 2025-04-15
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Finance & Budget'] 
 resources:
   - id: 351
     url: https://biglocalnews.org/#/project/UHJvamVjdDpjZjgyZTRkYS0xNTQ4LTQ4NGUtOTk2MC1mNzk4ZTg4NmY5ODM=

@@ -10,7 +10,7 @@ last_modified: 2025-03-26
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00926/html
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 610
     url: https://archive.org/details/avhrr-hirs-reflectance-and-cloud-properties-patmosx-1981

@@ -10,7 +10,7 @@ last_modified: 2025-03-11
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Energy'] 
 resources:
   - id: 244
     url: https://zenodo.org/records/14590487

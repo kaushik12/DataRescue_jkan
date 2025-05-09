@@ -10,7 +10,7 @@ last_modified: 2025-05-09
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 930
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNWDRB

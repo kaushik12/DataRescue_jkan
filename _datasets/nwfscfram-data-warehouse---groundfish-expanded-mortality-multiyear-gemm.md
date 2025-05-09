@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/219902/version/V1/view?path=/datalumos/219902/fcr:versions/V1/Metadata-GEMM-Fact-Layer-.csv&type=file
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 905
     url: https://www.datalumos.org/datalumos/project/219902/version/V1/view

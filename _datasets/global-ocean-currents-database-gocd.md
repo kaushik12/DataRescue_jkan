@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCEI-GOCD
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 893
     url: https://sciop.net/uploads/1d928de44371e9931506e23123f8ea4aa465e3f4

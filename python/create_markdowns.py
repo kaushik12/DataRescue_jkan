@@ -46,7 +46,6 @@ def remove_files_os(dir_path):
             os.remove(file_path)
 
 
-
 def get_metadata_availability(dataset_id, data_backups):
     """
     This function checks the metadata availability for dataset_id 432 in the backups dataframe.
@@ -104,15 +103,16 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += f"metadata_available: {metadata_available}\n"
     dataset_md += f"metadata_url: {metadata_url}\n"
     dataset_md += "category:\n"
-    if row['categories']:
-        categories = eval(row['categories'])
+    categories = eval(row['categories'])
+    if categories:
         cats = [a['value'] for a in categories]
     else:
-        cats = organizations[organizations['organizations'] == row['Organization']]['Categories'].str.split(';')
+        cats = organizations[organizations['Organizations'] == row['organization']]['Categories'].str.split(';')
     if len(cats) == 0:
         cats = ['Uncategorized']
+    print(cats)
     for cat in cats:
-        dataset_md += f"  - {cat}\n"
+        dataset_md += f"  - {cat} \n"
 
     dataset_md += "resources:\n"
     # Resource-level information
@@ -155,7 +155,7 @@ def create_markdowns():
     backups.columns = backups.columns.str.lower()
     backups = backups.fillna('')
     backups.head()
-
+    
     datasets.columns = datasets.columns.str.lower()
     datasets = datasets.fillna('')
     datasets.head()

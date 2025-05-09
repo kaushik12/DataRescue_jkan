@@ -10,7 +10,7 @@ last_modified: 2025-04-26
 metadata_available: Yes
 metadata_url: https://www.boem.gov/oil-gas-energy/mapping-and-data
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 895
     url: https://sciop.net/datasets/doi-boem-oil-gas-mapping-gis-data

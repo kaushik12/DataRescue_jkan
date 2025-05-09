@@ -10,7 +10,7 @@ last_modified: 2025-05-09
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 235
     url: https://arcgis.com/home/item.html?id=cab265835317461e818f13eabc242ed1

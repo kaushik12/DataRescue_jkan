@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Business & Economy', 'Labor & Employment'] 
 resources:
   - id: 301
     url: https://www.dropbox.com/scl/fo/ofd5flt98xoebgiy8nxrn/ANiUzIHJbKRqCACjS5HoHQE?rlkey=bqgrspb6zfrtqh5i38ghzlhi2&dl=0

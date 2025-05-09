@@ -10,7 +10,7 @@ last_modified: 2025-04-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Science & Research'] 
 resources:
   - id: 903
     url: https://www.datalumos.org/datalumos/project/227805/version/V1/view

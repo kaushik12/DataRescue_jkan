@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Military & Veterans Affairs', 'Science & Research'] 
 resources:
   - id: 854
     url: https://doi.org/10.3886/E227203V1

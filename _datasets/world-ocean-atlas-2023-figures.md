@@ -10,7 +10,7 @@ last_modified: 2025-04-19
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/data/oceans/woa/WOA23/DOCUMENTATION/WOA23_Product_Documentation.pdf
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 760
     url: https://archive.org/details/noaa-ncei-woa23-figures-2025-04-19

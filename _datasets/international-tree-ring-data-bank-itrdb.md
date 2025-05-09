@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 234
     url: https://zenodo.org/records/14816488

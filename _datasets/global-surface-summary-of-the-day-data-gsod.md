@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 521
     url: https://archive.org/details/global-surface-summary-day

@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: https://www.epa.gov/cobra/cobra-future-input-files
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 188
     url: https://doi.org/10.5281/zenodo.14833824

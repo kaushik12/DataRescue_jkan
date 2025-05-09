@@ -10,7 +10,7 @@ last_modified: 2025-03-28
 metadata_available: Yes
 metadata_url: https://doi.org/10.25921/c4gt-r169
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 615
     url: https://archive.org/details/nclimgrid-daily-2025-03-24

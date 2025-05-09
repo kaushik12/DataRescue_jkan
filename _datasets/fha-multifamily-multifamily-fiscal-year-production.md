@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Finance & Budget', 'Housing & Community Development'] 
 resources:
   - id: 162
     url: https://www.datalumos.org/datalumos/project/220141/version/V1/view

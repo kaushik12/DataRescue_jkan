@@ -10,7 +10,7 @@ last_modified: 2025-02-10
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Business & Economy', 'Labor & Employment'] 
 resources:
   - id: 1
     url: 

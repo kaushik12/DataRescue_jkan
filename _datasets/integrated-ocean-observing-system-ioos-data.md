@@ -10,7 +10,7 @@ last_modified: 2025-04-14
 metadata_available: Yes
 metadata_url: https://ioos.noaa.gov/
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 728
     url: https://sciop.net/uploads/25026815b9a57fd843e0e475cab251424e0bd41c

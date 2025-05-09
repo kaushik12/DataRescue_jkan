@@ -10,7 +10,7 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Humanitarian & Disaster Relief'] 
 resources:
   - id: 4
     url: 

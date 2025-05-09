@@ -10,7 +10,7 @@ last_modified: 2025-04-28
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Health & Healthcare'] 
 resources:
   - id: 902
     url: https://sciop.net/datasets/centers-for-medicare-and-medicaid-services-full-data

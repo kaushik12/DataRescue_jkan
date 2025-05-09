@@ -10,7 +10,7 @@ last_modified: 2025-04-15
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Energy'] 
 resources:
   - id: 69
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZDV0KN

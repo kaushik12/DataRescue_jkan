@@ -10,7 +10,7 @@ last_modified: 2025-02-10
 metadata_available: Yes
 metadata_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 0
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version

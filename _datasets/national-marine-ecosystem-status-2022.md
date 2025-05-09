@@ -10,7 +10,7 @@ last_modified: 2025-04-08
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 707
     url: https://archive.org/details/national-marine-ecosystem-status-2022

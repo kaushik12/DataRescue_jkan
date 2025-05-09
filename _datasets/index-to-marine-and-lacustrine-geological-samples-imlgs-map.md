@@ -10,7 +10,7 @@ last_modified: 2025-05-06
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 925
     url: https://www.arcgis.com/apps/mapviewer/index.html?webmap=860330143ea34d8f9f47127d939161b7

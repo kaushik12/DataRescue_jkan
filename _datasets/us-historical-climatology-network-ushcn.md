@@ -10,7 +10,7 @@ last_modified: 2025-05-02
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/land-based-station/us-historical-climatology-network
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 915
     url: https://sciop.net/uploads/51d37be876aef156af3a795603c9412d94089561

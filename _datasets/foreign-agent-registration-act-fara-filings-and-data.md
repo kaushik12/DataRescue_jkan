@@ -10,7 +10,7 @@ last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: https://github.com/Howard-Center-Investigations/FARA_Archive
 category:
-  - Uncategorized
+  - ['Justice & Public Safety'] 
 resources:
   - id: 779
     url: https://www.documentcloud.org/projects/221099-fara-storage-public/

@@ -10,7 +10,7 @@ last_modified: 2025-03-20
 metadata_available: Yes
 metadata_url: https://eric.ed.gov/pdf/ERIC_Field.pdf
 category:
-  - Uncategorized
+  - ['Education'] 
 resources:
   - id: 520
     url: https://doi.org/10.5281/zenodo.15032840

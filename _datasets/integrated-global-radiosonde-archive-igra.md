@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 606
     url: https://archive.org/details/integrated-global-radiosonde-archive

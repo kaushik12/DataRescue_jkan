@@ -10,7 +10,7 @@ last_modified: 2025-04-24
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Energy'] 
 resources:
   - id: 79
     url: https://zenodo.org/records/15074809

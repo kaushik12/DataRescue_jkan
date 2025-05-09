@@ -10,7 +10,7 @@ last_modified: 2025-04-25
 metadata_available: Yes
 metadata_url: https://nsidc.org/data/g02186/versions/1
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 868
     url: https://archive.org/details/noaa-nsidc-g02186

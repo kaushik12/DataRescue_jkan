@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250211023510/https://gis-fema.hub.arcgis.com/pages/usa-structures
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Humanitarian & Disaster Relief'] 
 resources:
   - id: 24
     url: https://www.datalumos.org/datalumos/project/218721/version/V1/view

@@ -10,7 +10,7 @@ last_modified: 2025-04-09
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Military & Veterans Affairs'] 
 resources:
   - id: 712
     url: https://www.datalumos.org/datalumos/project/223301/version/V1/view

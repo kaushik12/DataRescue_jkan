@@ -10,7 +10,7 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Energy'] 
 resources:
   - id: 239
     url: https://github.com/NREL/nsrdb/tree/v4.1.1

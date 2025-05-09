@@ -10,7 +10,7 @@ last_modified: 2025-04-09
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Military & Veterans Affairs'] 
 resources:
   - id: 713
     url: https://www.openicpsr.org/openicpsr/project/221442/version/V1/view

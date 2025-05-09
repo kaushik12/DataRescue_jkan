@@ -10,7 +10,7 @@ last_modified: 2025-03-26
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Energy', 'Finance & Budget'] 
 resources:
   - id: 565
     url: https://www.datalumos.org/datalumos/project/223141/version/V1/view

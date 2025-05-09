@@ -10,7 +10,7 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Infrastructure', 'Science & Research'] 
 resources:
   - id: 599
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FQEK6&version=DRAFT

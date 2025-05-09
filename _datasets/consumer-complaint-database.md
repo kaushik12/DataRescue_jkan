@@ -10,7 +10,7 @@ last_modified: 2025-02-20
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Business & Economy'] 
 resources:
   - id: 85
     url: https://doi.org/10.3886/E219041V1

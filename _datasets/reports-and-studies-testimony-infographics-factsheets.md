@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Energy'] 
 resources:
   - id: 796
     url: https://www.datalumos.org/datalumos/project/226683/version/V2/view

@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 601
     url: https://archive.org/details/amsu-a-brightness-temperature

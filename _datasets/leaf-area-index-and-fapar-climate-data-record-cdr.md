@@ -10,7 +10,7 @@ last_modified: 2025-04-02
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/leaf-area-index-and-fapar
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 704
     url: https://sciop.net/uploads/a72cbf8fd10a933b9bed7dc0c3769a3ef195c23a

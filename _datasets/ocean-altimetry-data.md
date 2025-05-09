@@ -10,7 +10,7 @@ last_modified: 2025-05-02
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:LSA-SLR
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 913
     url: https://sciop.net/uploads/d20e8700e1ed7973c0b4ed17ef764414e76efbf9

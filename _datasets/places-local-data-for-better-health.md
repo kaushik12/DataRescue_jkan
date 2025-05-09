@@ -10,7 +10,7 @@ last_modified: 2025-04-15
 metadata_available: Yes
 metadata_url: https://www.cdc.gov/places/methodology/index.html
 category:
-  - Uncategorized
+  - ['Health & Healthcare'] 
 resources:
   - id: 57
     url: https://github.com/oedp/cdc-places

@@ -10,7 +10,7 @@ last_modified: 2025-05-05
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/normalized-difference-vegetation-index
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 912
     url: https://sciop.net/uploads/d7c94efb457b7094b8f7497563801b62b9e49278

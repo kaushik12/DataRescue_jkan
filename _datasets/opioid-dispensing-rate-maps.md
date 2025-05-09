@@ -10,7 +10,7 @@ last_modified: 2025-02-17
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Health & Healthcare'] 
 resources:
   - id: 81
     url: https://www.datalumos.org/datalumos/project/218842

@@ -10,7 +10,7 @@ last_modified: 2025-04-02
 metadata_available: Yes
 metadata_url: https://icoads.noaa.gov/
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 703
     url: https://sciop.net/uploads/5acf89c8ead6fee0d3567da636ce2357cd4dc135

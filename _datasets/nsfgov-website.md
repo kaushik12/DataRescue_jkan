@@ -10,7 +10,7 @@ last_modified: 2025-04-28
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Science & Research'] 
 resources:
   - id: 904
     url: https://sciop.net/datasets/www-nsf-gov

@@ -10,7 +10,7 @@ last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: https://www.huduser.gov/portal/datasets/aaf.html#data_2025
 category:
-  - Uncategorized
+  - ['Housing & Community Development'] 
 resources:
   - id: 773
     url: https://www.datalumos.org/datalumos/project/222141/version/V1/view

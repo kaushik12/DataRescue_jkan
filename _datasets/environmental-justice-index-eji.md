@@ -10,8 +10,8 @@ last_modified: 2025-05-09
 metadata_available: Yes
 metadata_url: https://www.atsdr.cdc.gov/place-health/php/eji/eji-technical-documentation.html
 category:
-  - Climate & Environment
-  - Health & Healthcare
+  - Climate & Environment 
+  - Health & Healthcare 
 resources:
   - id: 53
     url: https://github.com/oedp/cdc-ej-index

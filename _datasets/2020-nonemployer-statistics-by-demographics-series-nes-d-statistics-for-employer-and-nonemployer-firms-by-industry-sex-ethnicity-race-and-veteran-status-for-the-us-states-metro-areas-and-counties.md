@@ -10,7 +10,7 @@ last_modified: 2025-04-02
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Business & Economy'] 
 resources:
   - id: 701
     url: https://www.datalumos.org/datalumos/project/223441/version/V1/view

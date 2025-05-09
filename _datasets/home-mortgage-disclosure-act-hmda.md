@@ -10,7 +10,7 @@ last_modified: 2025-04-23
 metadata_available: Yes
 metadata_url: https://ffiec.cfpb.gov/documentation/api/file-serving/#s3-file-service
 category:
-  - Uncategorized
+  - ['Business & Economy'] 
 resources:
   - id: 177
     url: https://s3.amazonaws.com/cfpb-hmda-public/prod/

@@ -10,7 +10,7 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Science & Research'] 
 resources:
   - id: 236
     url: https://github.com/wrf-model-clone

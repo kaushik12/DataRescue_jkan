@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Science & Research'] 
 resources:
   - id: 594
     url: 

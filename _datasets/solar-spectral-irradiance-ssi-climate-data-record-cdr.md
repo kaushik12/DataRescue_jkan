@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01722/html
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 605
     url: https://sciop.net/uploads/d4f39bcbef17400329f4e14304df3ef451bea890

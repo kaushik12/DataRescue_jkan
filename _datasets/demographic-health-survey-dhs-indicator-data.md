@@ -10,7 +10,7 @@ last_modified: 2025-03-28
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Humanitarian & Disaster Relief'] 
 resources:
   - id: 617
     url: https://www.datalumos.org/datalumos/project/224462/version/V1/view

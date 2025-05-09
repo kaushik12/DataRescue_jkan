@@ -10,7 +10,7 @@ last_modified: 2025-05-06
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/optimum-interpolation-sst
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 924
     url: https://sciop.net/uploads/5476dbfcacb18d3e5ba80c845262709ca9c06f0d

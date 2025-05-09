@@ -10,7 +10,7 @@ last_modified: 2025-03-22
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/sea-ice-concentration
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 588
     url: https://sciop.net/uploads/2fe6faecc941732c6a02702226743b556e015ab3

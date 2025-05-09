@@ -10,7 +10,7 @@ last_modified: 2025-04-26
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/mean-layer-temperature-noaa
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 894
     url: https://sciop.net/uploads/da8a24f2

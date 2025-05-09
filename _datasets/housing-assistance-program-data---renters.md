@@ -10,7 +10,7 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250204031248/https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 category:
-  - Uncategorized
+  - ['Climate & Environment', 'Humanitarian & Disaster Relief'] 
 resources:
   - id: 33
     url: https://www.datalumos.org/datalumos/project/218466/version/V1/view

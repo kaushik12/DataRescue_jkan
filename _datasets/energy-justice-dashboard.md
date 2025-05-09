@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Energy'] 
 resources:
   - id: 180
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MWAKOZ

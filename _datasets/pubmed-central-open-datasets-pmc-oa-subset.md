@@ -10,7 +10,7 @@ last_modified: 2025-03-25
 metadata_available: Yes
 metadata_url: https://pmc.ncbi.nlm.nih.gov/tools/textmining/
 category:
-  - Uncategorized
+  - ['Health & Healthcare'] 
 resources:
   - id: 607
     url: https://archive.org/details/nih_pub_pmc

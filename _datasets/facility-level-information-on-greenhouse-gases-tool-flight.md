@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 196
     url: https://doi.org/10.7910/DVN/TQG6RR

@@ -10,7 +10,7 @@ last_modified: 2025-04-17
 metadata_available: Yes
 metadata_url: https://www.coris.noaa.gov/
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 736
     url: https://sciop.net/uploads/f750dafb20b1f5783a9e602793d8e917fcf7e95f

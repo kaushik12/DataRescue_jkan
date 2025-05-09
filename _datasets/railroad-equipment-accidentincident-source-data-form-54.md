@@ -10,7 +10,7 @@ last_modified: 2025-03-02
 metadata_available: Yes
 metadata_url: https://data.transportation.gov/Railroads/Railroad-Equipment-Accident-Incident-Source-Data-F/aqxq-n5hy/about_data
 category:
-  - Uncategorized
+  - ['Transportation'] 
 resources:
   - id: 182
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YWMGND&version=DRAFT

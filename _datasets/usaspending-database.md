@@ -10,7 +10,7 @@ last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: 
 category:
-  - Uncategorized
+  - ['Finance & Budget'] 
 resources:
   - id: 611
     url: https://archive.org/details/usaspending-db_20250106

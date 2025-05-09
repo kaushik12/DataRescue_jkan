@@ -10,7 +10,7 @@ last_modified: 2025-04-08
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:CO-OPS-NWLON-PORTS
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 709
     url: https://archive.org/details/noaa-ncei-ndbc-nwlon-coops

@@ -10,7 +10,7 @@ last_modified: 2025-04-22
 metadata_available: Yes
 metadata_url: https://www.fisheries.noaa.gov/inport/item/27525
 category:
-  - Uncategorized
+  - ['Climate & Environment'] 
 resources:
   - id: 781
     url: https://tables.codeberg.page/voices.nmfs.noaa.gov/
