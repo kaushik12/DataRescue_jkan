@@ -19,5 +19,5 @@ resources:
     size: 523.0
     download_date: 2025-04-26
     maintainer: SRC, TSHRMP
-    notes: Full bulk data dump, will need to pull datasets out for datalumos
+    notes: Full bulk data dump, will need to pull datasets out for datalumosNow includes full download from CMS Open Payments and data.medicaid.gov
 ---

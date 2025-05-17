@@ -10,7 +10,6 @@ last_modified: 2025-04-18
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
 resources:
   - id: 753
