@@ -1,24 +1,23 @@
 ---
 schema: data_rescue_project 
-title: State Summaries_Puerto Rico
+title: NCVAS State Summary Arkansas FY2021
 organization: Office of Information and Technology - IT Operations and Services (ITOPS)
 agency: Department of Veterans Affairs
 websites: data.va.gov
-data_source: https://www.data.va.gov/stories/s/4jzh-nt23
+data_source: https://www.data.va.gov/stories/s/5hpm-psc7
 description: 
-last_modified: 2025-04-09
+last_modified: 2025-05-17
 metadata_available: No
 metadata_url: 
 category:
   - Military & Veterans Affairs 
-  - Science & Research 
 resources:
-  - id: 721
-    url: https://www.datalumos.org/datalumos/project/224425/version/V1/view
-    format: CSV, PDF
+  - id: 1035
+    url: https://doi.org/10.3886/E229801V1
+    format: CSV, PDF, RDF, TSV, XLSX
     status: Finished
-    size: 0.0
-    download_date: 2025-03-27
+    size: 0.026
+    download_date: 2025-05-17
     maintainer: DRP, DL
     notes: 
 ---
