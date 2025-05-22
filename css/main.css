@@ -112,3 +112,7 @@ a{
   color: #007bff;
   text-decoration: none;
 }
+
+.navbar-light .navbar-nav .nav-link{
+  color:black;
+}
