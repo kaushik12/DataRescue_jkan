@@ -17,7 +17,7 @@ resources:
     format: tar.gz
     status: Finished
     size: 0.38
-    download_date: 2022-04-23
+    download_date: 2025-04-23
     maintainer: PANG
     notes: The Seismicity Catalog Collection is a compilation dataset on over four million earthquakes dating from 2150 BC to 1996 AD from NOAA's National Geophysical Data Center and U.S. Geological Survey's National Earthquake Information Center. The data include information on epicentral time of origin, location, magnitudes, depth and other earthquake-related parameters. This database is static and is no longer being updated.PANGAEA (www.pangaea.de) was asked by the responsible data group to archive the content of the following two volumeshttps://www.ngdc.noaa.gov/hazard/data/cdroms/Seismicity_v1https://www.ngdc.noaa.gov/hazard/data/cdroms/Seismicity_v2Volume 1 contains events for the United States, Central America, Canada, the Caribbean, Decade of North American Geology Project (DNAG), Mexico, and other Supplemental Algorithms and Catalogs.Volume 2 contains events for Africa, Antarctica, Asia, Australia, Europe, Oceania, South America, and Global Catalogs.
 ---
