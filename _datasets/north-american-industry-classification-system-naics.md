@@ -10,12 +10,12 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Business & Economy 
-  - Social Services 
-  - Housing & Community Development 
-  - Labor & Employment 
   - Education 
+  - Health & Healthcare 
+  - Social Services 
+  - Labor & Employment 
+  - Housing & Community Development 
+  - Business & Economy 
 resources:
   - id: 63
     url: https://github.com/oedp/NAICS

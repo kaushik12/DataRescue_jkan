@@ -2,8 +2,8 @@ dataset,notes,dataset_id,url,websites,organization,agency,categories,last_modifi
 Billion-Dollar Weather and Climate Disasters,,1,https://www.ncei.noaa.gov/access/billions/mapping,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,[],2025-02-10
 American Communities Survey (ACS),,3,https://www.census.gov/programs-surveys/acs,census.gov,Census Bureau,Department of Commerce,[],2025-03-03
 BLS Downloads,,6,https://download.bls.gov,download.bls.gov,Bureau of Labor Statistics,Department of Labor,[],2025-02-10
-CDC FTP,,7,https://ftp.cdc.gov/,ftp.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,[],2025-02-10
-US Census Bureau FTP,,8,ftp://ftp.census.gov,census.gov,Census Bureau,Department of Commerce,[],2025-02-11
+CDC FTP Server,,7,https://ftp.cdc.gov/,ftp.cdc.gov,Centers for Disease Control and Prevention,Department of Health and Human Services,[],2025-05-23
+Census Bureau FTP Server,,8,https://www2.census.gov,www2.census.gov,Census Bureau,Department of Commerce,[],2025-05-23
 National Hurricane Center (NHC),,9,https://www.nhc.noaa.gov/archive,nhc.noaa.gov,NOAA/National Hurricane Center,Department of Commerce,[],2025-03-26
 United States Geological Survey,,10,https://rockyweb.usgs.gov,usgs.gov,U.S. Geological Survey,Department of the Interior,[],2025-02-11
 Office of General Counsel Documents,,11,https://www.gc.noaa.gov/documents,noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,[],2025-02-11
@@ -1044,3 +1044,4 @@ Equity Commission Materials,,1177,https://www.usda.gov/about-usda/general-inform
 Treasury Advisory Committee on Racial Equity (TACRE) Materials,,1178,https://home.treasury.gov/about/offices/equity-hub/TACRE/tacre-meeting-materials,home.treasury.gov,Departmental Offices,Department of the Treasury,[],2025-05-19
 Voluntary Observing Ship Climate Project Data,,1179,https://www.ncei.noaa.gov/pub/data/vosclim/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,[],2025-05-19
 Coral Reef Watch Satellite Monitoring and Modeled Outlooks,,1180,https://www.ncei.noaa.gov/data/oceans/crw/,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,[],2025-05-21
+FOIA Electronic Reading Room Data,,1182,https://www.tsa.gov/foia/readingroom,tsa.gov,Transportation Security Administration,Department of Homeland Security,[],2025-05-23
