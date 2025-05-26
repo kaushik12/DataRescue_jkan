@@ -7,11 +7,12 @@ websites: usgs.gov
 data_source: https://energy.usgs.gov/uswtdb/data/
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: Under Review
 metadata_url: 
 category:
-  - Parks / Recreation
+  - Climate & Environment 
+  - Science & Research 
+  - Infrastructure 
 resources:
   - id: 596
     url: https://zenodo.org/records/14783215

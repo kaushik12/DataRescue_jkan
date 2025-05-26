@@ -7,17 +7,16 @@ websites: nasa.gov
 data_source: https://github.com/NASA
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Science & Research 
 resources:
   - id: 212
     url: https://github.com/nasa-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI
     notes: 

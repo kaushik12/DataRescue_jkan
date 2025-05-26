@@ -7,17 +7,17 @@ websites: bls.gov
 data_source: https://www.bls.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 299
     url: https://www.dropbox.com/scl/fo/recbmlil5viw44nsl0j5s/AK9EVDRzW_NvMbwgnLEM0Lg?rlkey=pcjg6lvbxw3ab5mqe378mqdoi&dl=0
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

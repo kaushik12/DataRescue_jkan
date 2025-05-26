@@ -7,11 +7,12 @@ websites: samhsa.gov
 data_source: https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health
 description: 
 last_modified: 2025-04-01
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Science & Research 
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 90
     url: https://www.datalumos.org/datalumos/project/218342/version/V2/view

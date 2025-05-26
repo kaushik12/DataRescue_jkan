@@ -7,17 +7,17 @@ websites: nrel.gov
 data_source: https://www.nrel.gov/grid/wind-toolkit.html
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 330
     url: https://data.openei.org/submissions/5987
     format: HDF5
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-24
     maintainer: OEDI, CoCr
     notes: 

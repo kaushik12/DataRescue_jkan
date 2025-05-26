@@ -7,17 +7,16 @@ websites: webbook.nist.gov
 data_source: https://webbook.nist.gov/chemistry/fluid/
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Science & Research 
 resources:
   - id: 172
     url: 
     format: CSV
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 2025-02-13
     maintainer: DRP
     notes: 

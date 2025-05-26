@@ -7,17 +7,16 @@ websites: bjs.ojp.gov
 data_source: https://bjs.ojp.gov/library/publications/national-law-enforcement-accountability-database-2018-2023
 description: 
 last_modified: 2025-02-28
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Public Safety
+  - Justice & Public Safety 
 resources:
   - id: 179
     url: https://www.datalumos.org/datalumos/project/221044/
     format: PDF, CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-25
     maintainer: DRP, DL
     notes: 

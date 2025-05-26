@@ -7,18 +7,17 @@ websites: eia.gov
 data_source: https://www.eia.gov/consumption/commercial/data/2018/
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Energy 
 resources:
   - id: 76
     url: https://zenodo.org/records/14782474
-    format: XLSX
+    format: XLSX, JSON, ZIP
     status: Finished
-    size: 4.9
-    download_date: 2025-02-12
+    size: 6.5
+    download_date: 2025-03-19
     maintainer: PEDP, CaCo
     notes: 
 ---

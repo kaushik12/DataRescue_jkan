@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/national-marine-ecosystem-status/
 description: 
 last_modified: 2025-04-08
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 707
     url: https://archive.org/details/national-marine-ecosystem-status-2022
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 0.1
     download_date: 2025-03-30
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

@@ -7,17 +7,21 @@ websites: census.gov
 data_source: https://www.census.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Business & Economy 
+  - Housing & Community Development 
+  - Health & Healthcare 
+  - Social Services 
+  - Labor & Employment 
+  - Education 
 resources:
   - id: 305
     url: https://www.dropbox.com/scl/fo/kkvl7l3joy1tdkotmpxms/AEZ-dDpGeE-I8HsQFNpELRs?rlkey=j0jzpyhdy4kmvqcocujp64dqc&dl=0
-    format: 
+    format: ZIP, PDF, XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

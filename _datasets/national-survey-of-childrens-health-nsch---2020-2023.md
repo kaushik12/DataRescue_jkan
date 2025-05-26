@@ -7,17 +7,17 @@ websites: mchb.hrsa.gov
 data_source: https://mchb.hrsa.gov/data-research/national-survey-childrens-health
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 304
     url: https://www.dropbox.com/scl/fo/sgscixaa4myy3w5et3yzp/APxMNPFcZXfwsQkGIztj4qU?rlkey=bnb7d62vflcaifnold3bysa1u&dl=0
-    format: 
+    format: PDF, dat, do, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

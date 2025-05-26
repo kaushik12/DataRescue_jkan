@@ -7,17 +7,17 @@ websites: hrsa.gov
 data_source: https://bphc.hrsa.gov/data-reporting/health-center-patient-survey
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 286
     url: https://www.dropbox.com/scl/fo/2d09mvwttjh24v7isotdc/ABxsv8mOxcsps37mk1zAZeE?rlkey=p373rj194i2vb7lox3bevb4bq&dl=0
-    format: 
+    format: PDF, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 2014

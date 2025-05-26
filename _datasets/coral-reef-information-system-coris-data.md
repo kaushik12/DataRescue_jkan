@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/oceans/coris/
 description: 
 last_modified: 2025-04-17
-last_modified_by: tripleshrimp
 metadata_available: Yes
 metadata_url: https://www.coris.noaa.gov/
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 736
-    url: https://archive.org/details/noaa-ncei-coris-2025-04-15
+    url: https://sciop.net/uploads/f750dafb20b1f5783a9e602793d8e917fcf7e95f
     format: XFD, SHP, XLS, TXT, SVS
     status: Finished
     size: 80.0
     download_date: 2025-04-09
-    maintainer: TSHRMP
-    notes: Includes actively seeded torrent file (the one without _archive).  Alternate torrent location https//academictorrents.com/details/4e933a13ac5cca1059ce14628ca0db6ce35e358e
+    maintainer: SRC, TSHRMP
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/f750dafb20b1f5783a9e602793d8e917fcf7e95f
 ---

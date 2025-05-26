@@ -7,17 +7,17 @@ websites: hazards.fema.gov
 data_source: https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd
 description: PDFs of FIRMettes or Full FIRMs, Map images and county GIS data by location
 last_modified: 2025-03-23
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Public Safety
+  - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 209
     url: https://www.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd
     format: TIFF, Shapefile, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: 

@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/nws-hydrometeorological-automated-data-system/
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://hads.ncep.noaa.gov/WhatIsHADS.shtml
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 590
     url: https://archive.org/details/nws-hydrometeorological-automated-data-system
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 87.0
     download_date: 2025-03-15
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Full HADS record up until 3/15/2025.
 ---

@@ -7,11 +7,10 @@ websites: epa.maps.arcgis.com
 data_source: https://epa.maps.arcgis.com/apps/MapSeries/index.html?appid=3805293158d54846a29f750d63c6890e
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.epa.gov/crwu/climate-resilience-evaluation-and-awareness-tool-creat-methodology-guide
 category:
-  - Environment
+  - Climate & Environment 
 resources:
   - id: 190
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZ7J2EA&version=1.0
@@ -20,5 +19,5 @@ resources:
     size: 0.03
     download_date: 2025-01-27
     maintainer: EDGI, HD
-    notes: data download https//www.epa.gov/crwu/access-data-creating-resilient-water-utilities
+    notes: data download https://www.epa.gov/crwu/access-data-creating-resilient-water-utilities
 ---

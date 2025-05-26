@@ -7,11 +7,11 @@ websites: nrel.gov
 data_source: https://www.nrel.gov/analysis/electrification-futures.html
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 238
     url: https://zenodo.org/records/14782874
@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 141.2
     download_date: 2025-01-31
-    maintainer: CaCo
+    maintainer: PEDP, CaCo
     notes: 
 ---

@@ -7,26 +7,25 @@ websites: hudexchange.info
 data_source: https://www.hudexchange.info/resource/4832/2015-ahar-part-1-pit-estimates-of-homelessness/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 504
     url: https://www.datalumos.org/datalumos/project/221747/version/V1/view
-    format: 
+    format: XLSX, PDF, CSV
     status: Finished
-    size: 
-    download_date: 
+    size: 0.328
+    download_date: 2025-03-10
     maintainer: DRP, DL
     notes: 
   - id: 505
     url: https://www.datalumos.org/datalumos/project/219142/version/V1/view
-    format: 
+    format: XLSX, PDF
     status: Finished
-    size: 
-    download_date: 
+    size: 0.006
+    download_date: 2025-02-12
     maintainer: DRP, DL
     notes: 
 ---

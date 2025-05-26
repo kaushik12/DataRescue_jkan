@@ -7,11 +7,10 @@ websites: epa.gov
 data_source: https://www.epa.gov/inflation-reduction-act/priority-climate-action-plan-directory
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
 resources:
   - id: 204
     url: https://zenodo.org/records/14757599

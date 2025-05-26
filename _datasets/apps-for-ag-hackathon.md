@@ -7,17 +7,17 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/nvpe-e7iq
 description: 
 last_modified: 2025-03-18
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 448
     url: https://www.datalumos.org/datalumos/project/223244/version/V1/view
     format: CSV, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-17
     maintainer: DRP, DL
     notes: 

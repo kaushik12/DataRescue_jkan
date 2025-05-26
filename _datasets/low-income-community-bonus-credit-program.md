@@ -7,18 +7,18 @@ websites: lists.nrel.gov
 data_source: https://data.nrel.gov/submissions/222
 description: 
 last_modified: 2025-04-03
-last_modified_by: Cataloger
-metadata_available: No
-metadata_url: 
+metadata_available: Yes
+metadata_url: https://experience.arcgis.com/experience/12227d891a4d471497ac13f60fffd822
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 68
     url: https://zenodo.org/records/15061838
     format: ZIP, HTML, GIF, XLSX
     status: Finished
-    size: 0.08
-    download_date: 2025-02-12
+    size: 0.075
+    download_date: 2025-01-21
     maintainer: PEDP, OEDP
-    notes: Data and code here https//data.nrel.gov/submissions/222
+    notes: Data and code here https://data.nrel.gov/submissions/222
 ---

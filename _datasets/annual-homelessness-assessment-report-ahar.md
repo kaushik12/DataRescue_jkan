@@ -7,18 +7,17 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/ahar.html
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 502
     url: https://www.datalumos.org/datalumos/project/222981/version/V1/view
-    format: 
+    format: XLSX, PDF, CSV
     status: Finished
-    size: 
-    download_date: 
+    size: 0.5
+    download_date: 2025-03-15
     maintainer: DRP, DL
     notes: 
 ---

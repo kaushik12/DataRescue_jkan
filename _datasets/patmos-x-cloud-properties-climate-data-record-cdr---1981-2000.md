@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/avhrr-hirs-reflectance-and-cloud-properties-patmosx/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00926/html
+metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC00926/html
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 610
     url: https://archive.org/details/avhrr-hirs-reflectance-and-cloud-properties-patmosx-1981
     format: nc
-    status: Finished
+    status: In Progress
     size: 9000.0
     download_date: 2025-03-26
-    maintainer: TSHRMP
-    notes: Specific link is for year 1981.  1981-2000 are stored and safe, each year is being uploaded to a single IA item, with this formathttps//archive.org/details/avhrr-hirs-reflectance-and-cloud-properties-patmosx-{year}Each year's data is between 95-600GB.
+    maintainer: IA, TSHRMP
+    notes: Specific link is for year 1981. 1981-2000 are stored and safe, each year is being uploaded to a single IA item, with this formathttps://archive.org/details/avhrr-hirs-reflectance-and-cloud-properties-patmosx-{year}Each year's data is between 95-600GB.
 ---

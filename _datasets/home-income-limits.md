@@ -7,11 +7,10 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/HOME-Income-limits.html
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 134
     url: https://www.datalumos.org/datalumos/project/219164/version/V1/view

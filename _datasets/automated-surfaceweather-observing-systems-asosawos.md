@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/automated-surface-observing-system-five-minute/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 515
     url: https://archive.org/details/automated-surface-observing-system-five-minute
     format: dat
     status: Finished
-    size: 20.0
+    size: 22.2
     download_date: 2025-02-22
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Includes data up to Feb 2025.
 ---

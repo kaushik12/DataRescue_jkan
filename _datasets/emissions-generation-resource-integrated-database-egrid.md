@@ -7,11 +7,10 @@ websites: epa.gov
 data_source: https://www.epa.gov/egrid/download-data
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
 resources:
   - id: 192
     url: https://zenodo.org/records/14767236

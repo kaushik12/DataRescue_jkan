@@ -7,11 +7,11 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/market-data
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 166
     url: https://www.datalumos.org/datalumos/project/220242/version/V1/view

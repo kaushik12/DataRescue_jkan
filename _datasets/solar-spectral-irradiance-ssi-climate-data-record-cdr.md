@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/solar-spectral-irradiance/
 description: 
 last_modified: 2025-03-25
-last_modified_by: Cataloger
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C01722/html
+metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01722/html
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 605
-    url: https://archive.org/details/solar-spectral-irradiance
+    url: https://sciop.net/uploads/d4f39bcbef17400329f4e14304df3ef451bea890
     format: nc
     status: Finished
     size: 4.0
     download_date: 2025-03-23
-    maintainer: TSHRMP
-    notes: Actively seeded torrent file in IA item (the one without _archive).  Direct file upload in process.
+    maintainer: IA, TSHRMP
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/d4f39bcbef17400329f4e14304df3ef451bea890
 ---

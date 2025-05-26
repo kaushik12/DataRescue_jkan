@@ -7,11 +7,11 @@ websites: nrel.gov
 data_source: https://scenarioviewer.nrel.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 242
     url: https://zenodo.org/records/14783185
@@ -20,5 +20,5 @@ resources:
     size: 4.2
     download_date: 2025-01-31
     maintainer: CaCo
-    notes: Standard scenarios archived. Cambrium scenarios in process of being archived. Underlying data only, tool not archived. EFS data archived separately here https//zenodo.org/records/14782874
+    notes: Standard scenarios archived. Cambrium scenarios in process of being archived. Underlying data only, tool not archived. EFS data archived separately here https://zenodo.org/records/14782874
 ---

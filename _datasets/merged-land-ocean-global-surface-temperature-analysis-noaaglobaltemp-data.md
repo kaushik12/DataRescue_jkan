@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/
 description: 
 last_modified: 2025-03-25
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/land-based-station/noaa-global-temp
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 602
     url: https://archive.org/details/noaa-global-surface-temperature
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 2.4
     download_date: 2025-03-14
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

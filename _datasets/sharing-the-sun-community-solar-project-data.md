@@ -7,11 +7,11 @@ websites: nrel.gov
 data_source: https://data.nrel.gov/submissions/244
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 243
     url: https://zenodo.org/records/14783183

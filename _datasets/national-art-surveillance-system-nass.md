@@ -7,17 +7,16 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/art/php/nass/index.html
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 294
     url: https://www.dropbox.com/scl/fo/6m5lvc3ddleomlpy369m5/AAk2s6v4zaDPg6uZHwTGwXU?rlkey=k6qbwfy5o96h2iamx5dqhusia&dl=0
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

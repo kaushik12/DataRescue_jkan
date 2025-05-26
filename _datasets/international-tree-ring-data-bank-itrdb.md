@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/pub/data/paleo/treering/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 234
     url: https://zenodo.org/records/14816488
@@ -20,5 +19,5 @@ resources:
     size: 3.5
     download_date: 2025-02-05
     maintainer: EDGI, BCECJ
-    notes: "ITRDB"
+    notes: ITRDB"
 ---

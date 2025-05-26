@@ -7,11 +7,11 @@ websites: fs.usda.gov
 data_source: https://www.fs.usda.gov/rds/archive/
 description: 
 last_modified: 2025-04-17
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Food
+  - Science & Research 
+  - Agriculture 
 resources:
   - id: 738
     url: https://sciop.net/datasets/usfs-rds-archive

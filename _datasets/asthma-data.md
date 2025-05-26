@@ -7,18 +7,17 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/asthma-data/about/most-recent-asthma-data.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 731
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U7WVNO
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/U7WVNO
     format: XLSX, PDF
     status: Finished
     size: 0.06
     download_date: 2025-04-01
-    maintainer: PEDP
+    maintainer: PEDP, HD
     notes: 
 ---

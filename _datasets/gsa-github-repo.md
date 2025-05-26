@@ -7,17 +7,17 @@ websites: gsa.gov
 data_source: https://github.com/gsa
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - State & Policy 
+  - Business & Economy 
 resources:
   - id: 211
     url: https://github.com/gsa-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI
     notes: 

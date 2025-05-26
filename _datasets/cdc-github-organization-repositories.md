@@ -7,17 +7,16 @@ websites: github.com/CDCgov
 data_source: https://github.com/CDCgov
 description: 
 last_modified: 2025-02-12
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 52
     url: https://github.com/CDCgov-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-12
     maintainer: PEDP, EDGI
     notes: 

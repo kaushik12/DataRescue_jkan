@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/international-comprehensive-ocean-atmosphere/
 description: 
 last_modified: 2025-04-02
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://icoads.noaa.gov/
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 703
-    url: https://archive.org/details/international-comprehensive-ocean-atmosphere-1
+    url: https://sciop.net/uploads/5acf89c8ead6fee0d3567da636ce2357cd4dc135
     format: dat, nc
-    status: Finished
+    status: In Progress
     size: 1800.0
     download_date: 2025-03-31
-    maintainer: TSHRMP
-    notes: Archive link is to Part 1.  Will include three more parts with url formathttps//archive.org/details/international-comprehensive-ocean-atmosphere-{part number}
+    maintainer: SRC, TSHRMP
+    notes: New corrected and updated torrentAlternate torrent location https://academictorrents.com/details/5acf89c8ead6fee0d3567da636ce2357cd4dc135
 ---

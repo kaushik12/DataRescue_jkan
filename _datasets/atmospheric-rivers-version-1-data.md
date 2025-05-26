@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/atmospheric-rivers/
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://data.noaa.gov/onestop/api/registry/metadata/collection/unknown/6e653267-5666-4fc4-9aee-9c8e096e0c21/raw/xml
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 591
     url: https://archive.org/details/atmospheric-rivers_202503
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 1.67
     download_date: 2025-02-21
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: 
 ---

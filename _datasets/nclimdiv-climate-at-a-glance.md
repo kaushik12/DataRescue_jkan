@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
 description: 
 last_modified: 2025-02-28
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 178
     url: https://www.openicpsr.org/openicpsr/project/220102/version/V1/view
@@ -20,5 +19,5 @@ resources:
     size: 1.6
     download_date: 2025-02-05
     maintainer: DL
-    notes: "Copy of screen scraping scripts and reference to GLOBUS endpoint available athttps//github.com/Brown-University-Library/geodata_usgovt_backup"
+    notes: Copy of screen scraping scripts and reference to GLOBUS endpoint available athttps://github.com/Brown-University-Library/geodata_usgovt_backup"
 ---

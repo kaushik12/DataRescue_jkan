@@ -7,17 +7,21 @@ websites: dol.gov
 data_source: https://www.dol.gov/agencies/eta
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - State & Policy 
+  - Science & Research 
+  - Justice & Public Safety 
+  - Social Services 
+  - Agriculture 
+  - Labor & Employment 
 resources:
   - id: 293
     url: https://www.dropbox.com/scl/fo/wvmf9cskmy60gmg9jpybr/AOSZUxR88iTlax-OLQy5Vos?rlkey=ob9lhs89v792zpk5vupe9f6eo&dl=0
-    format: 
+    format: PDF, XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

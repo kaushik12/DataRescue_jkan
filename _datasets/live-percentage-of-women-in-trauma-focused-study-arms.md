@@ -7,17 +7,16 @@ websites: ptsd-va.data.socrata.com
 data_source: https://ptsd-va.data.socrata.com/PTSD-Repository/LIVE-Percentage-of-Women-in-Trauma-focused-Study-A/m428-gu32
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Military & Veterans Affairs 
 resources:
   - id: 331
     url: https://www.datalumos.org/datalumos/project/221322/version/V1/view
     format: CSV, XML, TXT, TSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-01
     maintainer: DRP, DL
     notes: 

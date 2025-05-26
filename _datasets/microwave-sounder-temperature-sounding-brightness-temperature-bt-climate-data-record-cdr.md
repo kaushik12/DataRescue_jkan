@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/amsu-a-brightness-temperature/
 description: 
 last_modified: 2025-03-25
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 354
     url: https://archive.org/details/amsu-a-brightness-temperature
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 231.0
     download_date: 2025-02-08
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Currently performing a server-server upload to archive.org from Wasabi S3 bucket, submitting as all data is currently in safe cloud storage.
 ---

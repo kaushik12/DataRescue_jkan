@@ -7,17 +7,16 @@ websites: sandia.gov
 data_source: https://github.com/pvlib
 description: 
 last_modified: 2025-03-27
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Science & Research 
 resources:
   - id: 614
     url: https://github.com/pvlib
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: PEDP
     notes: 

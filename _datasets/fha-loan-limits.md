@@ -7,17 +7,17 @@ websites: hud.gov
 data_source: http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/lender/origination/mortgage_limits
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 106
     url: 
     format: 
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 2025-02-19
     maintainer: DRP, DL
     notes: 

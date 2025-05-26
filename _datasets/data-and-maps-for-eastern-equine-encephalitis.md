@@ -7,18 +7,17 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/eastern-equine-encephalitis/data-maps/index.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 732
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FEJP0MA&version
     format: CSV, PDF
     status: Finished
-    size: 0.0
+    size: 0.003
     download_date: 2025-03-25
-    maintainer: PEDP
+    maintainer: PEDP, HD
     notes: 
 ---

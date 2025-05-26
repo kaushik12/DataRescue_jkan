@@ -7,16 +7,16 @@ websites: download.bls.gov
 data_source: https://download.bls.gov
 description: 
 last_modified: 2025-02-10
-last_modified_by: Admin
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 1
     url: 
     format: 
-    status: Finished
+    status: In Progress
     size: 47.0
     download_date: 2025-02-01
     maintainer: DRP

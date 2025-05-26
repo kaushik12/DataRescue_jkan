@@ -7,18 +7,17 @@ websites: hudexchange.info
 data_source: https://www.hudexchange.info/manage-a-program/census/low-mod-income-summary-data/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 503
     url: https://www.datalumos.org/datalumos/project/220601/version/V1/view
-    format: 
+    format: PDF, XLS, XLSX
     status: Finished
-    size: 
-    download_date: 
+    size: 0.005
+    download_date: 2025-02-24
     maintainer: DRP, DL
     notes: 
 ---

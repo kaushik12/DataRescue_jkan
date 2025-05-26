@@ -7,11 +7,11 @@ websites: catalog.data.gov
 data_source: https://catalog.data.gov/dataset/inventory-of-owned-and-leased-properties-iolp
 description: 
 last_modified: 2025-03-05
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=
 category:
-  - Economy
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 350
     url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=
@@ -20,5 +20,5 @@ resources:
     size: 0.25
     download_date: 2025-01-31
     maintainer: BLN
-    notes: Downloads are ongoing. Code is at https//github.com/biglocalnews/sync-gsa-propertiesCode can be easily adapted to grab other data sets from data.gov.
+    notes: Downloads are ongoing. Code is at https://github.com/biglocalnews/sync-gsa-propertiesCode can be easily adapted to grab other data sets from data.gov.
 ---

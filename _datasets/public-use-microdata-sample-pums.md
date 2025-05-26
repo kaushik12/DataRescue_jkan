@@ -7,16 +7,20 @@ websites: census.gov
 data_source: https://www.census.gov/programs-surveys/acs/microdata.html
 description: 
 last_modified: 2025-02-12
-last_modified_by: Gabrielle
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Business & Economy 
+  - Housing & Community Development 
+  - Health & Healthcare 
+  - Social Services 
+  - Labor & Employment 
+  - Education 
 resources:
   - id: 64
     url: 
     format: CSV, SAS
-    status: Finished
+    status: In Progress
     size: 16.0
     download_date: 2025-02-12
     maintainer: PEDP, OEDP

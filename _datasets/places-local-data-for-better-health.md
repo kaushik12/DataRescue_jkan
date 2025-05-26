@@ -7,17 +7,16 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/places/index.html
 description: 
 last_modified: 2025-04-15
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.cdc.gov/places/methodology/index.html
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 57
     url: https://github.com/oedp/cdc-places
     format: CSV, JSON, Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-12
     maintainer: PEDP, OEDP
     notes: 
@@ -28,12 +27,12 @@ resources:
     size: 12.5
     download_date: 2025-01-30
     maintainer: PEDP, EDGI
-    notes: From the https//www.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7
+    notes: From the https://www.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7
   - id: 316
     url: https://www.dropbox.com/scl/fo/ow4uk19izkgqu5psgct22/AO_HmO50TEAz50SYe3BMYFs?rlkey=3m9ey4wichxfy07e3w7g17c5p&dl=0
-    format: 
+    format: CSV, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 2020, 2023-2024

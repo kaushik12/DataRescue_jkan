@@ -7,17 +7,17 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/4jzh-nt23
 description: 
 last_modified: 2025-04-09
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 721
     url: https://www.datalumos.org/datalumos/project/224425/version/V1/view
     format: CSV, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-27
     maintainer: DRP, DL
     notes: 

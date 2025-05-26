@@ -7,11 +7,11 @@ websites: nrel.gov
 data_source: https://atb.nrel.gov/
 description: 
 last_modified: 2025-03-23
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 237
     url: https://zenodo.org/records/14784563

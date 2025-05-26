@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/land-leaf-area-index-and-fapar/
 description: 
 last_modified: 2025-04-02
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/leaf-area-index-and-fapar
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 704
-    url: https://archive.org/details/land-leaf-area-index-and-fapar-2025-03-31
+    url: https://sciop.net/uploads/a72cbf8fd10a933b9bed7dc0c3769a3ef195c23a
     format: nc
     status: Finished
     size: 53.0
     download_date: 2025-03-31
-    maintainer: TSHRMP
-    notes: Actively seeded torrent file included in IA item (the one without _archive).  Direct file upload in progress.Alternate torrent locationhttps//academictorrents.com/details/426a128f0a0b22b202496bb2d3b9c449698bd5dd
+    maintainer: SRC, TSHRMP
+    notes: New corrected/updated torrent.Alternate torrent locationhttps://academictorrents.com/details/a72cbf8fd10a933b9bed7dc0c3769a3ef195c23a
 ---

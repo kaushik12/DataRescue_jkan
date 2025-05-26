@@ -7,17 +7,16 @@ websites: ed.gov
 data_source: https://nrs.ed.gov/rt
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Education
+  - Education 
 resources:
   - id: 17
     url: https://www.datalumos.org/datalumos/project/218801/version/V1/view
-    format: ZIP
+    format: ZIP, TXT
     status: Finished
-    size: 
+    size: 0.365
     download_date: 2025-02-09
     maintainer: DRP, DL
     notes: 

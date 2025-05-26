@@ -7,17 +7,17 @@ websites: va.gov
 data_source: https://www.va.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 328
     url: https://www.dropbox.com/scl/fo/hs24sgchtloviz5dml87u/ANeB28IBMdbGDsvznc6l_x4?rlkey=n3bl1sff9yn6xeuqhzd7tfxyb&dl=0
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

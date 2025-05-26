@@ -7,17 +7,17 @@ websites: nrel.gov
 data_source: https://www.nrel.gov/analysis/sup3rcc.html
 description: 
 last_modified: 2025-03-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
+  - Energy 
 resources:
   - id: 244
     url: https://zenodo.org/records/14590487
     format: HDF5, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-03
     maintainer: CoCr
     notes: 

@@ -7,17 +7,16 @@ websites: noaa.gov
 data_source: https://www.noaa.gov/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 315
     url: https://www.dropbox.com/scl/fo/v7d7ulks25vq3fuwn97ab/AKHmCDCMtKyQAOPyWSqPC04?rlkey=3jefqqro0jwn75gcso80m8w5f&dl=0
-    format: 
+    format: CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

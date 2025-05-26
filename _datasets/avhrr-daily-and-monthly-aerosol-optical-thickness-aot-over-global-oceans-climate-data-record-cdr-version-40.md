@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/avhrr-aerosol-optical-thickness/
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 518
     url: https://archive.org/details/avhrr-aerosol-optical-thickness
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 49.0
     download_date: 2025-02-21
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Full dataset, currently in upload process to archive.org
 ---

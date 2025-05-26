@@ -7,17 +7,16 @@ websites: nlrb.gov
 data_source: https://www.nlrb.gov/reports/agency-performance-report/election-reports/election-reports-fy-2025
 description: 
 last_modified: 2025-04-01
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Labor & Employment 
 resources:
   - id: 675
     url: https://www.datalumos.org/datalumos/project/224621/version/V1/view
-    format: 
+    format: PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-28
     maintainer: DRP, DL
     notes: 

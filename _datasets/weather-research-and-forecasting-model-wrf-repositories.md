@@ -7,18 +7,17 @@ websites: nuwrf.gsfc.nasa.gov
 data_source: https://github.com/wrf-model
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Science & Research 
 resources:
   - id: 236
     url: https://github.com/wrf-model-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
-    maintainer: EDGI
+    maintainer: PEDP, EDGI
     notes: Contains version 1 of Justice 40 screening tool
 ---

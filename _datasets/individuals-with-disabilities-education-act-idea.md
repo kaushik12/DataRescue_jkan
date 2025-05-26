@@ -7,17 +7,16 @@ websites: sites.ed.gov
 data_source: https://sites.ed.gov/idea/data/
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Education
+  - Education 
 resources:
   - id: 16
     url: https://www.datalumos.org/datalumos/project/218427/version/V1/view
     format: ZIP
     status: Finished
-    size: 
+    size: 0.02
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 

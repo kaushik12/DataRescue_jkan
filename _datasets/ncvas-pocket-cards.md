@@ -7,17 +7,16 @@ websites: va.gov
 data_source: https://www.va.gov/vetdata/pocketcard/index.asp
 description: 
 last_modified: 2025-04-09
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Military & Veterans Affairs 
 resources:
   - id: 712
     url: https://www.datalumos.org/datalumos/project/223301/version/V1/view
     format: PDF, PNG
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-28
     maintainer: DRP, DL
     notes: 

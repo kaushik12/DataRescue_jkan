@@ -7,11 +7,10 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/socds.html
 description: 
 last_modified: 2025-03-18
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 511
     url: https://www.datalumos.org/datalumos/project/222283/version/V1/view

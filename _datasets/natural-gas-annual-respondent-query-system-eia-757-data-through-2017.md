@@ -7,11 +7,10 @@ websites: eia.gov
 data_source: https://www.eia.gov/naturalgas/ngqs/#?report=RP9&year1=2017&year2=2017&company=Name
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Energy 
 resources:
   - id: 185
     url: https://zenodo.org/records/10635277

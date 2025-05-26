@@ -7,11 +7,13 @@ websites: imls.gov
 data_source: https://imls.gov/imls-dashboard
 description: 
 last_modified: 2025-03-22
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Arts / Culture / History
+  - Arts & Culture 
+  - Science & Research 
+  - Social Services 
+  - Education 
 resources:
   - id: 595
     url: https://box.hu-berlin.de/f/7a630b642def4ef58931/

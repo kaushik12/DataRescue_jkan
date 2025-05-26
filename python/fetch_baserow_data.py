@@ -9,6 +9,10 @@ from create_markdowns import create_markdowns
 BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
 
+def stringify_arr_vals(arr):
+    return ';'.join([i['value'] for i in arr])
+
+
 def get_results_json(url):
     table = requests.get(
         url,
@@ -46,8 +50,8 @@ def process_dataset_row(d):
         "websites": get_arr_vals(d["Websites"], col="value"),
         "organization": get_arr_vals(d["Organization"], col="value"),
         "agency": get_arr_vals(d["Agency"], col="value"),
-        "last_modified": d["Last modified"],
-        "last_modified_by": d["Last modified by"]["name"]
+        "categories": d["Categories"],
+        "last_modified": d["Last modified"]
     }
 
 
@@ -80,6 +84,10 @@ def process_backup_row(d):
 
 dataset_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/639/?user_field_names=true")
 backups_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true")
+categories = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"))[['Name', 'Active']]
+organizations = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"))[['Organizations', 'Categories']]
+organizations['Categories'] = organizations['Categories'].apply(
+    lambda x: stringify_arr_vals(x))
 
 rows = []
 for row in backups_table:
@@ -97,5 +105,11 @@ datasets = pd.DataFrame(rows)
 
 datasets.to_csv("baserow_exports/datarescue_datasets.csv", index=False)
 backups.to_csv("baserow_exports/datarescue_backups.csv", index=False)
+categories.to_csv("baserow_exports/datarescue_categories.csv", index=False)
+organizations.to_csv("baserow_exports/datarescue_organizations.csv", index=False)
+print("Datasets saved")
+print("Backups saved")
+print("Categories saved")
+print("Organizations saved")
 
 create_markdowns()

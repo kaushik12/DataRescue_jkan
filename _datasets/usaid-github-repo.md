@@ -7,10 +7,9 @@ websites: usaid.gov
 data_source: https://github.com/usaid
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Humanitarian & Disaster Relief 
 resources:
 ---

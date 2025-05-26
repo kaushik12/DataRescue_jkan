@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/oceans/ioos/
 description: 
 last_modified: 2025-04-14
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://ioos.noaa.gov/
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 728
-    url: https://archive.org/details/noaa-ncei-ioos-2025-04-12
+    url: https://sciop.net/uploads/25026815b9a57fd843e0e475cab251424e0bd41c
     format: nc
     status: Finished
-    size: 64.0
+    size: 200.0
     download_date: 2025-04-11
     maintainer: TSHRMP
-    notes: Includes actively seeded torrent file (the one without _archive).  Alternate torrent location https//academictorrents.com/details/9503c67c11da997817084ba548ddd3334ed08b0c
+    notes: New corrected and updated torrent. Alternate torrent location https://academictorrents.com/details/25026815b9a57fd843e0e475cab251424e0bd41c
 ---

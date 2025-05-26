@@ -7,17 +7,16 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/qct.html
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 517
     url: https://www.datalumos.org/datalumos/project/219263/version/V1/view
     format: PDF, XLSX
     status: Finished
-    size: 
+    size: 0.572
     download_date: 2025-02-13
     maintainer: DRP, DL
     notes: 

@@ -7,17 +7,16 @@ websites: wpc.ncep.noaa.gov
 data_source: https://www.wpc.ncep.noaa.gov/heatrisk/data.html
 description: 
 last_modified: 2025-03-30
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 623
     url: https://www.datalumos.org/datalumos/project/223525/version/V1/view
     format: CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-03
     maintainer: DRP, DL
     notes: 

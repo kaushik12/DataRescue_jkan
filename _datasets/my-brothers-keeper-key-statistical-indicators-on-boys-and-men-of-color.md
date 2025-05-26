@@ -7,11 +7,11 @@ websites: catalog.data.gov
 data_source: https://catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color-83d9e
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/220542/version/V1/view
 category:
-  - Economy
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 175
     url: https://www.datalumos.org/datalumos/project/220542/version/V1/view

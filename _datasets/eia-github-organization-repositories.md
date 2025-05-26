@@ -7,18 +7,17 @@ websites: eia.gov
 data_source: https://github.com/EIAgov
 description: 
 last_modified: 2025-02-12
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Energy 
 resources:
   - id: 80
     url: https://github.com/EIAgov-clone
     format: Git
     status: Finished
     size: 
-    download_date: 2025-02-12
+    download_date: 
     maintainer: PEDP, EDGI
     notes: 
 ---

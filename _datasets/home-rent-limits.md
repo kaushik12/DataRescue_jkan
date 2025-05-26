@@ -7,11 +7,10 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/HOME-rent-limits.html
 description: 
 last_modified: 2025-02-25
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 135
     url: https://www.datalumos.org/datalumos/project/219166/version/V1/view

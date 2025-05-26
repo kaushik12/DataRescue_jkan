@@ -7,11 +7,11 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/about_data
 description: 
 last_modified: 2025-03-04
-last_modified_by: Kathleen
 metadata_available: Yes
 metadata_url: 
 category:
-  - Transportation
+  - Science & Research 
+  - Transportation 
 resources:
   - id: 348
     url: https://doi.org/10.3886/E221642V1

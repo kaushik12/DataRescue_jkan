@@ -7,18 +7,17 @@ websites: eia.gov
 data_source: https://www.eia.gov/consumption/manufacturing/data/2018/#r13
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Energy 
 resources:
   - id: 183
-    url: https://zenodo.org/records/14749820
-    format: XLSX
+    url: https://zenodo.org/records/14827265
+    format: ZIP, JSON
     status: Finished
-    size: 0.13
-    download_date: 2025-03-02
+    size: 0.175
+    download_date: 2025-01-27
     maintainer: EDGI, CaCo
-    notes: 
+    notes: EIA Form 846 A and B is more commonly known as the Manufacturing Energy Consumption Survey (MECS). MECS is a national sample survey that collects information on the stock of U.S. manufacturing establishment, their energy-related building characteristics, and their energy consumption and expenditures. MECS is conducted every four years.
 ---

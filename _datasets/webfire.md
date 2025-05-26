@@ -7,17 +7,16 @@ websites: cfpub.epa.gov
 data_source: https://cfpub.epa.gov/webfire/
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
 resources:
   - id: 207
     url: https://github.com/oedp/epa-webfire
     format: CSV, Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: OEDP
     notes: 

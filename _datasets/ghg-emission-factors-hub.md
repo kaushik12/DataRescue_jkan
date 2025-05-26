@@ -7,17 +7,16 @@ websites: epa.gov
 data_source: https://www.epa.gov/climateleadership/ghg-emission-factors-hub
 description: 
 last_modified: 2025-03-02
-last_modified_by: Gabrielle
 metadata_available: No
 metadata_url: 
 category:
-  - Environment
+  - Climate & Environment 
 resources:
   - id: 199
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GCUA0N
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/GCUA0N
     format: XLSX, PDF
     status: Finished
-    size: 
+    size: 0.072
     download_date: 
     maintainer: EDGI, HD
     notes: 

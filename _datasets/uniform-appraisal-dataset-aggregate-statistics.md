@@ -7,18 +7,18 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/uniform-appraisal-dataset-aggregate-statistics
 description: 
 last_modified: 2025-03-18
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 508
     url: https://www.datalumos.org/datalumos/project/219961/version/V1/view
-    format: 
+    format: PDF, ZIP
     status: Finished
-    size: 
-    download_date: 
+    size: 1.137
+    download_date: 2025-02-24
     maintainer: DRP, DL
     notes: 
 ---

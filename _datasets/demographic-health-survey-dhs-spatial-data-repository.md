@@ -7,11 +7,10 @@ websites: usaid.gov
 data_source: https://spatialdata.dhsprogram.com/home/
 description: 
 last_modified: 2025-03-28
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 618
     url: https://www.datalumos.org/datalumos/project/224321/version/V1/view

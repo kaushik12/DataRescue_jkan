@@ -7,17 +7,17 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2022-10/NMTC_Public_Data_Release_Includes_FY2020_Data_revised.xlsx
 description: 
 last_modified: 2025-03-31
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Budget / Finance
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 674
     url: https://www.datalumos.org/datalumos/project/224382/version/V1/view
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-26
     maintainer: DRP, DL
     notes: 

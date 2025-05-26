@@ -7,11 +7,10 @@ websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/consumer-complaints/
 description: 
 last_modified: 2025-02-20
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Budget / Finance
+  - Business & Economy 
 resources:
   - id: 85
     url: https://doi.org/10.3886/E219041V1

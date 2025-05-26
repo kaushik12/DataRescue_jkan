@@ -7,17 +7,16 @@ websites: title2.ed.gov
 data_source: https://title2.ed.gov/Public/Home.aspx
 description: 
 last_modified: 2025-02-11
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Education
+  - Education 
 resources:
   - id: 13
     url: https://www.datalumos.org/datalumos/project/218362/version/V1/view
     format: ZIP
     status: Finished
-    size: 
+    size: 0.347
     download_date: 2025-02-06
     maintainer: DRP, DL
     notes: 

@@ -1,7 +1,5 @@
 ---
-name: Education
-logo: "/img/categories/education.svg"
-# spell-checker: disable
-logo_credit: Sergey Patutin from the Noun Project
-featured: true
+name: Education 
+logo: /img/categories_updated/education.svg 
+featured: true 
 ---

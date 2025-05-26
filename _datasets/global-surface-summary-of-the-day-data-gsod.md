@@ -7,11 +7,10 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/global-summary-of-the-day/
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 521
     url: https://archive.org/details/global-surface-summary-day
@@ -19,6 +18,6 @@ resources:
     status: Finished
     size: 2.71
     download_date: 2025-03-13
-    maintainer: TSHRMP
+    maintainer: IA, TSHRMP
     notes: Full dataset, currently in upload process
 ---

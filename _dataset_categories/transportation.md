@@ -1,7 +1,5 @@
 ---
-name: Transportation
-logo: "/img/categories/transportation.svg"
-# spell-checker: disable
-logo_credit: Dmitry Baranovskiy from the Noun Project
-featured: true
+name: Transportation 
+logo: /img/categories_updated/transportation.svg 
+featured: true 
 ---

@@ -7,11 +7,10 @@ websites: huduser.gov
 data_source: https://socds.huduser.gov/permits/help
 description: 
 last_modified: 2025-03-20
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 514
     url: https://www.datalumos.org/datalumos/project/222283/version/V1/view

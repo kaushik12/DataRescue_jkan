@@ -7,17 +7,16 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
 description: 
 last_modified: 2025-03-02
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 250
     url: https://www.dropbox.com/scl/fo/d1k9u0pskosan9gddnp00/ABWYhVXZHZ62HcUk64U73kc?rlkey=vq8emkt8hlrv0dp1avcq1brnn&dl=0
-    format: 
+    format: DTA, PDF, ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 

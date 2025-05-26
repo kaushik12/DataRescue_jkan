@@ -7,11 +7,11 @@ websites: research.fs.usda.gov
 data_source: https://research.fs.usda.gov/treesearch
 description: 
 last_modified: 2025-04-17
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Food
+  - Science & Research 
+  - Agriculture 
 resources:
   - id: 737
     url: https://sciop.net/datasets/usfs-treesearch

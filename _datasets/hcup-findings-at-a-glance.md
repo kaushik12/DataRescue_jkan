@@ -7,17 +7,16 @@ websites: hcup-us.ahrq.gov
 data_source: https://hcup-us.ahrq.gov/reports/ataglance/findingsataglance.jsp
 description: 
 last_modified: 2025-03-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Health & Healthcare 
 resources:
   - id: 524
     url: https://www.datalumos.org/datalumos/project/220328/version/V2/view
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.103
     download_date: 2025-02-25
     maintainer: DRP, DL
     notes: 

@@ -7,18 +7,17 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/oceans/ncei/wod/
 description: 
 last_modified: 2025-04-14
-last_modified_by: Cataloger
 metadata_available: Yes
-metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCEI-WOD
+metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNCEI-WOD
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 730
-    url: https://archive.org/details/noaa-ncei-wod-2025-04-09
+    url: https://sciop.net/uploads/c0dce33ade7d0f828a542d5bed069b8909b3ee87
     format: nc
     status: Finished
     size: 159.0
     download_date: 2025-04-09
-    maintainer: TSHRMP
-    notes: Includes actively seeded torrent file (the one without _archive).  Alternate torrent location https//academictorrents.com/details/f2b9f2ef9e7c88fe060a48b42512d0da267a05d6
+    maintainer: SRC, TSHRMP
+    notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/c0dce33ade7d0f828a542d5bed069b8909b3ee87
 ---

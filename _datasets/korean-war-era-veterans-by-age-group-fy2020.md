@@ -7,17 +7,17 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Korean-War-Era-Veterans-by-Age-Group-FY2020/u5k6-9thg
 description: 
 last_modified: 2025-03-10
-last_modified_by: Kathleen
 metadata_available: No
 metadata_url: 
 category:
-  - Health / Human Services
+  - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 355
     url: https://www.datalumos.org/datalumos/project/221743/version/V2/view
     format: PDF, CSV
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-06
     maintainer: DRP, DL
     notes: 

@@ -7,17 +7,16 @@ websites: noaa.gov
 data_source: https://github.com/NOAA-clone
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 217
     url: https://github.com/NOAA-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: EDGI
     notes: 

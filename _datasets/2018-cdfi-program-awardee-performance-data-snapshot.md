@@ -7,17 +7,17 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2021-08/CDFIFY2018-Performance-Data.pdf
 description: 
 last_modified: 2025-03-31
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Budget / Finance
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 671
     url: https://www.datalumos.org/datalumos/project/224367/version/V1/view
-    format: 
+    format: PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-26
     maintainer: DRP, DL
     notes: 

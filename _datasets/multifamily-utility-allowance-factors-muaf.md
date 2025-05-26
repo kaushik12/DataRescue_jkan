@@ -7,17 +7,16 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/muaf.html
 description: 
 last_modified: 2025-03-03
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 147
     url: https://www.datalumos.org/datalumos/project/219324/version/V1/view
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.002
     download_date: 2025-02-13
     maintainer: DRP, DL
     notes: 

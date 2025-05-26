@@ -7,17 +7,16 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 131
     url: https://www.datalumos.org/datalumos/project/219161/version/V1/view
-    format: 
+    format: ZIP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-12
     maintainer: DRP, DL
     notes: 

@@ -7,17 +7,16 @@ websites: huduser.gov
 data_source: https://www.huduser.gov/portal/resources/utilallowance.html
 description: 
 last_modified: 2025-02-21
-last_modified_by: Daphna
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Housing & Community Development 
 resources:
   - id: 157
     url: https://www.datalumos.org/datalumos/project/219501/version/V1/view
-    format: 
+    format: PDF, XLS, ZIP
     status: Finished
-    size: 
+    size: 0.024
     download_date: 2025-02-15
     maintainer: DRP, DL
     notes: 

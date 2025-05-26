@@ -7,17 +7,17 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/pudb
 description: 
 last_modified: 2025-03-26
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Real Estate / Land Records
+  - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 156
     url: https://www.datalumos.org/datalumos/project/219482/version/V1/view
-    format: 
+    format: PDF, ZIP, XLSX, CSV
     status: Finished
-    size: 
+    size: 0.149
     download_date: 2025-02-14
     maintainer: DRP, DL
     notes: 

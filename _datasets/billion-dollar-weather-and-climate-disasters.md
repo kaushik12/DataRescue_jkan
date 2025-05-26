@@ -7,14 +7,13 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/access/billions/mapping
 description: 
 last_modified: 2025-02-10
-last_modified_by: Cataloger
 metadata_available: Yes
-metadata_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version=DRAFT
+metadata_url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/WFMZWP&version=DRAFT
 category:
-  - Economy
+  - Climate & Environment 
 resources:
   - id: 0
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WFMZWP&version
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/WFMZWP&version
     format: ZIP
     status: Finished
     size: 0.15

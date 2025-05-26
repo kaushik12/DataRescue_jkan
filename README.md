@@ -1,16 +1,4 @@
-# JKAN 
-A lightweight, backend-free open data portal, powered by Jekyll
+# Data Rescue Project protal
+This is a front-end interfact for the [Data Rescue Project Tracker](https://baserow.datarescueproject.org/public/grid/Nt_M6errAkVRIc3NZmdM8wcl74n9tFKaDLrr831kIn4) to enable users to search, filter, and access information about rescued data with greater ease. 
 
-Open-source data portals can be really hard to install and maintain. But their
-basic purpose of providing links to download data really isn't that complicated. JKAN is a proof-of-concept
-that allows a small, resource-strapped government agency to stand-up an open data portal by simply
-[clicking the fork button](https://help.github.com/articles/fork-a-repo/).
-
-[Demo site](https://demo.jkan.io)
-
-## Documentation
-* [Installation](docs/installation.md)
-* [Upgrading](docs/upgrading.md)
-* [Schema customization](docs/schema-customization.md)
-* [Running locally](docs/running-locally.md)
-* [Architecture](docs/architecture.md)
+The protal was built using [JKAN](https://jkan.io), a lightweight, backend-free open data portal, powered by Jekyll developed by Tim Wisniewski.

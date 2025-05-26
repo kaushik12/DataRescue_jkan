@@ -7,17 +7,18 @@ websites: wim.usgs.gov
 data_source: https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer
 description: 
 last_modified: 2025-03-23
-last_modified_by: Cataloger
 metadata_available: No
 metadata_url: 
 category:
-  - Parks / Recreation
+  - Climate & Environment 
+  - Science & Research 
+  - Infrastructure 
 resources:
   - id: 598
     url: https://arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462
     format: GIS
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2023-04-17
     maintainer: ESRI
     notes: 

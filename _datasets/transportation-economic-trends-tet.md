@@ -7,11 +7,11 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Transportation-Economic-Trends-TET-data/tcq5-4pgu/about_data
 description: 
 last_modified: 2025-03-06
-last_modified_by: Cataloger
 metadata_available: Yes
 metadata_url: 
 category:
-  - Transportation
+  - Science & Research 
+  - Transportation 
 resources:
   - id: 349
     url: https://doi.org/10.3886/E221503V1
