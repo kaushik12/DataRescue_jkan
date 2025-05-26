@@ -7,28 +7,60 @@ layout: default
 <div style="background-color:#F2F4FD; padding-top:8rem; padding-bottom:8rem;" class="mb-4 rounded-3 mx-auto">
   <div class="w-50 mx-auto">
     <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
-    <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{ organizations_count }}
+    <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{
+      organizations_count }}
       organizations and [NUMBER] agencies, compiled by the Data Rescue Project.</p>
   </div>
   <div class="w-75 mx-auto mt-5">
-        <div style="margin-left: 3rem;" class=" d-flex justify-content-start">
-      <div class="px-2"><a class="" href="">Dataset</a></div>
-      <div class="px-2"><a class="" href="">Organization</a></div>
+    <div style="margin-left: 3rem;" class="btn-group btn-group-toggle" data-toggle="buttons">
+      <label style="margin-right: 1rem;"class="btn btn-primary">
+        <input type="radio" name="options" id="option1" autocomplete="off" checked> Dataset
+      </label>
+      <label class="btn btn-primary">
+        <input type="radio" name="options" id="option2" autocomplete="off"> Organization
+      </label>
     </div>
-  <nav class="navbar navbar-light d-flex justify-content-center gap-3">
-    <form class="form-inline w-75">
-      <div class="rounded-pill p-2 border d-flex bg-white  justify-content-between">
-        <div class="w-100"><input class="form-control mr-sm-2 outline-none border-0 shadow-none rounded-pill"
-            type="search" placeholder="Search for a dataset or category" aria-label="Search for a dataset or category">
+    <nav class="navbar navbar-light d-flex justify-content-center gap-3">
+      <form class="form-inline w-75">
+        <div class="rounded-pill p-2 border d-flex bg-white  justify-content-between">
+          <div class="w-100">
+            <input class="form-control mr-sm-2 outline-none border-0 shadow-none rounded-pill" type="search"
+              id="searchInput" placeholder="Search for a dataset or category"
+              aria-label="Search for a dataset or category">
+          </div>
+          <div class="">
+            <button class="btn btn-primary rounded-pill my-1 px-3 my-sm-0" type="submit">Search</button>
+          </div>
         </div>
-        <div class=""><button class="btn btn-primary rounded-pill my-1 px-3 my-sm-0" type="submit">Search</button>
-        </div>
-      </div>
-    </form>
-    <div class="text-left text-gray-800"><a href="{{ "/datasets" | relative_url }}"
-        class="text-gray-800" role="button">Or browse all datasets</a></div>
-  </nav>
-    </div>
+      </form>
+      <div class="text-left text-gray-800"><a href="{{ '/datasets' | relative_url }}" class="text-gray-800"
+          role="button">Or browse all datasets</a></div>
+    </nav>
+  </div>
+
+  <script>
+    // Get references to the radio buttons and search input
+    const option1 = document.getElementById('option1');
+    const option2 = document.getElementById('option2');
+    const searchInput = document.getElementById('searchInput');
+
+    // Function to update the placeholder based on active button
+    function updatePlaceholder() {
+      if (option1.checked) {
+        searchInput.placeholder = "Search for a dataset";
+      } else if (option2.checked) {
+        searchInput.placeholder = "Search for an organization";
+      }
+    }
+
+    // Initialize the placeholder based on the active radio button
+    updatePlaceholder();
+
+    // Add event listeners to update the placeholder when the radio buttons change
+    option1.addEventListener('change', updatePlaceholder);
+    option2.addEventListener('change', updatePlaceholder);
+  </script>
+
 </div>
 </div>
 </div>
@@ -58,16 +90,3 @@ layout: default
     excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id
     est laborum et dolorum fuga.</h6>
 </div>
-<!-- <div class="card-grid">
-{% for category in site.dataset_categories %}
-  {% if category.featured == true %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a class="card border card-grid-item hover-overlay" href="{{ site.baseurl }}/categories/{{ category.name | slugify }}" title="{{ logo_alt }}">
-      {% if category.logo and category.logo != empty %}
-        <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
-      {% endif %}
-      {{ category.name }}
-    </a>
-  {% endif %}
-{% endfor %}
-</div> -->
