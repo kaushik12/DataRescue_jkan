@@ -36,24 +36,13 @@ resources:
     size: 24.8
     download_date: 2025-02-12
     maintainer: PEDP, EDGI
-<<<<<<< HEAD
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 56
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZVKXVQ
     format: CSV, Geodatabase
-=======
-    notes: data dictionary https//eji.cdc.gov/eji_data_download.html; - map https//onemap.cdc.gov/portal/apps/sites/#/eji-explorer
-  - id: 56
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZVKXVQ
-    format: CSV, geodatabase
->>>>>>> 7f19326a65c8d7040ca68f871c85a290829ac7ed
     status: Finished
     size: 0.23
     download_date: 2025-02-12
     maintainer: PEDP, OEDP, HD
-<<<<<<< HEAD
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
-=======
-    notes: data dictionary https//eji.cdc.gov/eji_data_download.html; - map https//onemap.cdc.gov/portal/apps/sites/#/eji-explorer
->>>>>>> 7f19326a65c8d7040ca68f871c85a290829ac7ed
 ---
