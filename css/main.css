@@ -163,3 +163,20 @@ a{
 .navbar-light .navbar-nav .nav-link{
   color:black;
 }
+
+.custom-btn {
+    background-color: #001290;
+    color: white;
+    border: none; 
+    padding: 10px 20px;
+    text-decoration: none; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-btn:hover {
+    background-color: #000e6b;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
