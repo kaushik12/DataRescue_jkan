@@ -3,15 +3,25 @@ layout: default
 ---
 {% assign datasets_count = site.datasets | size %}
 {% assign organizations_count = site.organizations | size %}
+{% assign agecnies_count = site.agencies | size %}
 
 <div style="background-color:#F2F4FD; padding-top:8rem; padding-bottom:8rem;" class="mb-4 rounded-3 mx-auto">
   <div class="w-50 mx-auto">
     <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
     <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{
       organizations_count }}
-      organizations and [NUMBER] agencies, compiled by the Data Rescue Project.</p>
+      organizations and {{ agecnies_count }} agencies, compiled by the Data Rescue Project.</p>
   </div>
-  <div class="w-75 mx-auto mt-5">
+  <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-between gap-3">
+      <a class="btn btn-primary" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
+      <a class="btn btn-primary" role="button" href="{{ '/organizations' | relative_url }}">Browse Organizations</a>
+      <a class="btn btn-primary" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a>
+      <a class="btn btn-primary" role="button" href="{{ '/categories' | relative_url }}">Browse Categories</a>
+    </div>
+  </div>
+  <!-- Search Bar For Home Page -->
+  <!-- <div class="w-75 mx-auto mt-5">
     <div style="margin-left: 3rem;" class="btn-group btn-group-toggle" data-toggle="buttons">
       <label style="margin-right: 1rem;"class="btn btn-primary">
         <input type="radio" name="options" id="option1" autocomplete="off" checked> Dataset
@@ -35,10 +45,11 @@ layout: default
       </form>
       <div class="text-left text-gray-800"><a href="{{ '/datasets' | relative_url }}" class="text-gray-800"
           role="button">Or browse all datasets</a></div>
-    </nav>
-  </div>
+    </nav> -->
+</div>
 
-  <script>
+<!-- Logic for Home Page Search Bar Buttons  -->
+<!-- <script>
     // Get references to the radio buttons and search input
     const option1 = document.getElementById('option1');
     const option2 = document.getElementById('option2');
@@ -59,7 +70,7 @@ layout: default
     // Add event listeners to update the placeholder when the radio buttons change
     option1.addEventListener('change', updatePlaceholder);
     option2.addEventListener('change', updatePlaceholder);
-  </script>
+  </script> -->
 
 </div>
 </div>
