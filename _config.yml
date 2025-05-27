@@ -13,7 +13,7 @@ schema: data_rescue_project
 
 # pagination
 pagination:
-  enabled: true
+  enabled: false
   collection: organizations
   per_page: 15
   permalink: '/:num/'
