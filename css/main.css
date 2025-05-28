@@ -111,7 +111,7 @@ dataset {
 
 .card-grid-organizations {
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(auto-fill, minmax(150px, 1fr));
+  /* grid-template-rows: repeat(auto-fill, minmax(150px, 1fr)); */
 }
 
 .card-grid .card-grid-item:hover {
