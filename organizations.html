@@ -5,8 +5,10 @@ permalink: /organizations/
 ---
 {% include breadcrumbs.html %}
 
-<input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+  <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+
 <div class="card-grid card-grid-organizations">
+
   {% for organization in site.organizations %}
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
   {% capture logo_alt %}{{ organization.name }}{% if organization.logo_credit and organization.logo_credit != empty %}
