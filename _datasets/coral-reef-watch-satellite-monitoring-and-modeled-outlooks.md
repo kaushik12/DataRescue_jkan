@@ -15,7 +15,7 @@ resources:
   - id: 1056
     url: https://sciop.net/datasets/noaa-nesdis-star-coral-reef-watch
     format: PNG, nc
-    status: In Progress
+    status: Uploading
     size: 1200.0
     download_date: 2025-05-19
     maintainer: SRC, TSHRMP

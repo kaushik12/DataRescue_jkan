@@ -15,7 +15,7 @@ resources:
   - id: 880
     url: https://sciop.net/uploads/716d87712416681a50d6269e3f3d2ebd56b4ff2d
     format: JPEG, PNG, CSV, KML, PDF, TXT, PCX
-    status: In Progress
+    status: Finished
     size: 310.0
     download_date: 2025-04-25
     maintainer: SRC, TSHRMP

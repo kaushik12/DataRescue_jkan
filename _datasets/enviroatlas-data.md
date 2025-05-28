@@ -15,7 +15,7 @@ resources:
   - id: 1031
     url: https://sciop.net/datasets/epa-ord-enviroatlas-data
     format: TIFF, Shapefile, Geodatabase, CSV
-    status: In Progress
+    status: Uploading
     size: 160.0
     download_date: 2025-05-14
     maintainer: SRC, TSHRMP
