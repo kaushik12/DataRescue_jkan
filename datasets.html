@@ -41,13 +41,8 @@ permalink: /datasets/
     <div data-hook="datasets-items">
       {% for dataset in site.datasets %}
       <dataset>
-        <a href="{{ site.baseurl }}{{ dataset.url }}">
-          <div class="card">
-            <div class="card-body">
-              <h3 class="card-title">{{ dataset.title }}</h3>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>            </div>
-          </div>
-        </a>
+        <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
+        {{ dataset.notes | markdownify }}
       </dataset>
       {% endfor %}
     </div>
