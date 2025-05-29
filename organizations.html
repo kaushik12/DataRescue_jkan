@@ -4,9 +4,8 @@ layout: default
 permalink: /organizations/
 ---
 {% include breadcrumbs.html %}
-
-  <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
-
+<!-- search bar (no functionality implemented) -->
+<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
 <div class="card-grid card-grid-organizations">
 
   {% for organization in site.organizations %}
@@ -16,7 +15,8 @@ permalink: /organizations/
   <a class="card card-grid-item border hover-overlay" href="{{ site.baseurl }}{{ organization.url }}"
     title="{{ organization.title }}">
     <div>
-      <span class="badge rounded-pill float-end" style="background-color: #001290; color: white;">{{ dataset_count }}</span>
+      <span class="badge rounded-pill float-end" style="background-color: #001290; color: white;">{{ dataset_count
+        }}</span>
     </div>
     <div class="d-flex flex-row">
       {% if organization.logo and organization.logo != empty %}
