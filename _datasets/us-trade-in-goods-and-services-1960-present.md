@@ -12,11 +12,11 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 1069
+  - id: 1068
     url: https://www.datalumos.org/datalumos/project/226823/version/V3/view
     format: ZIP, PDF, XLSX
     status: Finished
-    size: 
+    size: 0.036
     download_date: 2025-04-15
     maintainer: DRP, DL
     notes: 

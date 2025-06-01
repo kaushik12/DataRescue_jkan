@@ -10,14 +10,14 @@ last_modified: 2025-04-26
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 889
     url: https://doi.org/10.3886/E227106V1
     format: CSV
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 2025-04-18
     maintainer: DRP, DL
     notes: Metadata available as separate file

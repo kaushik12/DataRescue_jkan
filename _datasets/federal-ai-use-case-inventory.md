@@ -13,9 +13,9 @@ category:
   - State & Policy 
   - Justice & Public Safety 
   - Social Services 
+  - Agriculture 
   - Science & Research 
   - Labor & Employment 
-  - Agriculture 
 resources:
   - id: 171
     url: https://www.datalumos.org/datalumos/project/220361/version/V2/view

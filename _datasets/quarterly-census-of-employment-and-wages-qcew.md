@@ -12,11 +12,11 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1021
+  - id: 1020
     url: https://www.datalumos.org/datalumos/project/226867/version/V1/view
     format: ZIP, HTML
     status: Finished
-    size: 
+    size: 52.003
     download_date: 2025-04-15
     maintainer: DRP, DL
     notes: 

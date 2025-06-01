@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1031
+  - id: 1030
     url: https://sciop.net/datasets/epa-ord-enviroatlas-data
     format: TIFF, Shapefile, Geodatabase, CSV
     status: Uploading

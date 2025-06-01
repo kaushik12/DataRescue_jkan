@@ -12,11 +12,11 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 1071
+  - id: 1070
     url: https://www.datalumos.org/datalumos/project/228783/version/V1/view
     format: PDF
     status: Finished
-    size: 
+    size: 0.289
     download_date: 2025-05-06
     maintainer: DRP, DL
     notes: 
