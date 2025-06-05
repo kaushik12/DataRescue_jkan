@@ -16,7 +16,7 @@ resources:
     url: https://doi.org/10.5281/zenodo.14833824
     format: EXE, CSV
     status: Finished
-    size: 1.4
+    size: 84.4
     download_date: 2025-02-07
     maintainer: EDGI
     notes: 

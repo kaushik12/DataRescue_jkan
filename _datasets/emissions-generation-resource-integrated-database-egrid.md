@@ -7,17 +7,17 @@ websites: epa.gov
 data_source: https://www.epa.gov/egrid/download-data
 description: 
 last_modified: 2025-03-02
-metadata_available: No
-metadata_url: 
+metadata_available: Yes
+metadata_url: https://www.epa.gov/system/files/documents/2024-01/egrid2022_technical_guide.pdf
 category:
   - Climate & Environment 
 resources:
   - id: 192
-    url: https://zenodo.org/records/14767236
+    url: https://zenodo.org/records/15037751
     format: XLSX
     status: Finished
-    size: 3.6
-    download_date: 2025-01-25
-    maintainer: EDGI, CaCo
+    size: 6.3
+    download_date: 2025-04-01
+    maintainer: CaCo
     notes: Also historical data
 ---

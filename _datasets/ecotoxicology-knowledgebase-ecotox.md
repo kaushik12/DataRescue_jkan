@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.95
     download_date: 2025-02-12
-    maintainer: EDGI, HD
-    notes: easy ASCII download
+    maintainer: PEDP, HD
+    notes: 
 ---
