@@ -13,9 +13,9 @@ category:
   - Health & Healthcare 
   - Social Services 
   - Business & Economy 
+  - Labor & Employment 
   - Education 
   - Housing & Community Development 
-  - Labor & Employment 
 resources:
   - id: 62
     url: https://github.com/oedp/community-resilience-estimates

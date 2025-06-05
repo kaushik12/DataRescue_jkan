@@ -13,9 +13,9 @@ category:
   - Health & Healthcare 
   - Social Services 
   - Business & Economy 
+  - Labor & Employment 
   - Education 
   - Housing & Community Development 
-  - Labor & Employment 
 resources:
   - id: 608
     url: https://www.datalumos.org/datalumos/project/224161/version/V1/view
