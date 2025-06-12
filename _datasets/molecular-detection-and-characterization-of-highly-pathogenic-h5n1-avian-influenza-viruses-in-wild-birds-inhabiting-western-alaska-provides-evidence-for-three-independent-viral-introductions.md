@@ -10,16 +10,16 @@ last_modified: 2025-06-09
 metadata_available: No
 metadata_url: 
 category:
+  - Climate & Environment 
   - Infrastructure 
   - Science & Research 
-  - Climate & Environment 
 resources:
   - id: 1116
     url: https://www.datalumos.org/datalumos/project/231129/version/V2/view
     format: CSV, XLSX, PDF, HTML
     status: Finished
     size: 0.001
-    download_date: 
+    download_date: 2025-04-18
     maintainer: DRP, DL
     notes: 
 ---

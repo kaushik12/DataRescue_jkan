@@ -11,10 +11,10 @@ metadata_available: Yes
 metadata_url: 
 category:
   - Labor & Employment 
-  - Business & Economy 
   - Social Services 
-  - Housing & Community Development 
   - Education 
+  - Housing & Community Development 
+  - Business & Economy 
   - Health & Healthcare 
 resources:
   - id: 61
