@@ -7,7 +7,10 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting this branch
+  workflow_run:
+    workflows: ["fetch-data-from-baserow"]
+    types:
+      - completed
   push:
     branches: [main]
 

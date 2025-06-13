@@ -61,10 +61,11 @@ def process_backup_row(d):
             metadata_avl = d["Metadata Available"]["value"]
         else:
             metadata_avl = ""
+        status_value = d["Status"]["value"] if d["Status"] else "In Progress"  # Added safe check
         return {
             "dataset": check_missing_vals(d["Dataset"], col="value"),
             "dataset_id": check_missing_vals(d["Dataset"], col="id"),
-            "status": d["Status"]["value"],
+            "status": status_value,
             "url": check_missing_vals(d["Dataset URL"], col="value"),
             "source_website": check_missing_vals(d["Website"], col="value"),
             "organization": check_missing_vals(d["Organization"], col="value"),

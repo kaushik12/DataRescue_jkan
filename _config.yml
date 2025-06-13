@@ -1,5 +1,5 @@
 title: Data Rescue Project
-greeting: Data Rescue Project portal
+greeting: Data Rescue Project Portal
 description: Links to public data archived through combined efforts and coordinated by the Data Rescue Project.
 logo: /portal/img/drp-brand-3.png
 hero_image: /img/homepage-hero.jpg
@@ -13,7 +13,7 @@ schema: data_rescue_project
 
 # pagination
 pagination:
-  enabled: true
+  enabled: false
   collection: organizations
   per_page: 15
   permalink: '/:num/'

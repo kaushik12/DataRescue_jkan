@@ -26,7 +26,7 @@ resources:
     status: Finished
     size: 0.0
     download_date: 2025-04-05
-    maintainer: EOT, WM
+    maintainer: EoTA, WM
     notes: 509,664 PDFs and 2,613,141 (and growing) Web Pages archived from ERIC.
   - id: 780
     url: https://erica.datarescueproject.org

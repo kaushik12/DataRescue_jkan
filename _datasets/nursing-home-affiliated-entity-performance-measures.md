@@ -16,7 +16,7 @@ resources:
     url: https://doi.org/10.3886/E227103V1
     format: CSV, XLSX, PDF
     status: Finished
-    size: 
+    size: 0.012
     download_date: 2025-03-18
     maintainer: DRP, DL
     notes: 

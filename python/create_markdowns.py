@@ -75,7 +75,7 @@ def get_dataset_category(row, organizations):
         
 
 def create_category_md(row):
-    cat_path = "../_dataset_categories"
+    cat_path = "./_dataset_categories"
     cat_filename = slugify(row['Name'])
     # Creating the category markdown file
     cat_md = "---\n"
@@ -95,9 +95,9 @@ def create_dataset_md(row, backups, organizations):
     # Defining the schema, filename and path
     schema = 'data_rescue_project'
     dataset_filename = slugify(row['dataset'])
-    dataset_path = "../_datasets"
+    dataset_path = "./_datasets"
     org_filename = slugify(row['organization'])
-    org_path = "../_organizations"
+    org_path = "./_organizations"
 
     # Get backups for each dataset
     data_backups = backups[backups.dataset == row['dataset']]

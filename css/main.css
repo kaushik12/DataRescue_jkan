@@ -111,7 +111,7 @@ dataset {
 
 .card-grid-organizations {
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(auto-fill, minmax(150px, 1fr));
+  /* grid-template-rows: repeat(auto-fill, minmax(150px, 1fr)); */
 }
 
 .card-grid .card-grid-item:hover {
@@ -158,4 +158,25 @@ a{
   border:#000;
   background-color: #F7F7F7;
   border-radius: .25rem;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color:black;
+}
+
+.custom-btn {
+    background-color: #001290;
+    color: white;
+    border: none; 
+    padding: 10px 20px;
+    text-decoration: none; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-btn:hover {
+    background-color: #000e6b;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
