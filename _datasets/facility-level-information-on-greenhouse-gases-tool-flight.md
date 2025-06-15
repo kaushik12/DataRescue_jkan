@@ -18,14 +18,14 @@ resources:
     status: Finished
     size: 0.412
     download_date: 2025-02-20
-    maintainer: PEDP, BCECJ, HD
+    maintainer: BCECJ, HD
     notes: Helpful info here https://ccdsupport.com/confluence/display/ghgp
   - id: 197
     url: https://public.tableau.com/app/profile/walter.auch/viz/USEPAFLIGHTDataDashboard/Dashboard1
     format: XML
     status: Finished
     size: 0.0
-    download_date: 
+    download_date: 2024-11-13
     maintainer: PEDP, BCECJ
     notes: Helpful info here https://ccdsupport.com/confluence/display/ghgp
 ---

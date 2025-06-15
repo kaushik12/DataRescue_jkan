@@ -7,17 +7,17 @@ websites: epa.gov
 data_source: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
 description: 
 last_modified: 2025-03-02
-metadata_available: No
-metadata_url: 
+metadata_available: Yes
+metadata_url: https://www.epa.gov/frs
 category:
   - Climate & Environment 
 resources:
   - id: 198
     url: 
     format: 
-    status: Finished
-    size: 0.0
+    status: In Progress
+    size: 
     download_date: 
-    maintainer: PEDP, ESRI
-    notes: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads, https://www.epa.gov/frs
+    maintainer: ESRI
+    notes: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads
 ---

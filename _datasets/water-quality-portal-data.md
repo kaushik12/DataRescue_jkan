@@ -17,7 +17,7 @@ resources:
     format: CSV
     status: Finished
     size: 39.5
-    download_date: 
-    maintainer: HS
+    download_date: 2025-02-27
+    maintainer: HS, IoW
     notes: 
 ---

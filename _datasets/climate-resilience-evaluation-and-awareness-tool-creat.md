@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.03
     download_date: 2025-01-27
-    maintainer: PEDP, HD
+    maintainer: HD, CAFE-RCC
     notes: data download https://www.epa.gov/crwu/access-data-creating-resilient-water-utilities
 ---
