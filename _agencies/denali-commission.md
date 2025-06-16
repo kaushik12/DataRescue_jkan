@@ -1,4 +1,0 @@
----
-title: Denali Commission 
-description: 
----

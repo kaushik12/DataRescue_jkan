@@ -3,17 +3,15 @@ layout: default
 ---
 {% assign datasets_count = site.datasets | size %}
 {% assign organizations_count = site.organizations | size %}
+{% assign agencies_count = site.agencies | size %}
 
 <div style="background-color:#F2F4FD; padding-top:8rem; padding-bottom:8rem;" class="mb-4 rounded-3 mx-auto">
   <div class="w-50 mx-auto">
     <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
     <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{
       organizations_count }}
-      organizations and [NUMBER] agencies, compiled by the Data Rescue Project.</p>
+      organizations and {{ agencies_count }} agencies, compiled by the Data Rescue Project.</p>
   </div>
-<<<<<<< HEAD
-  <div class="w-75 mx-auto mt-5">
-=======
   <div class="d-flex justify-content-center">
     <div class="d-flex justify-content-between gap-3">
       <a class="custom-btn" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
@@ -24,7 +22,6 @@ layout: default
   </div>
   <!-- Search Bar For Home Page -->
   <!-- <div class="w-75 mx-auto mt-5">
->>>>>>> fa3de52 (homepage buttons)
     <div style="margin-left: 3rem;" class="btn-group btn-group-toggle" data-toggle="buttons">
       <label style="margin-right: 1rem;"class="btn btn-primary">
         <input type="radio" name="options" id="option1" autocomplete="off" checked> Dataset
