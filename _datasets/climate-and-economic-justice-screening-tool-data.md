@@ -12,7 +12,7 @@ metadata_url: https://datacatalog.urban.org/dataset/climate-and-economic-justice
 category:
   - Climate & Environment 
 resources:
-  - id: 1052
+  - id: 1051
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/04/03/housing-and-communities/climate-and-economic-justice-screening-tool/data.zip
     format: ZIP
     status: Finished

@@ -17,7 +17,7 @@ resources:
     url: https://doi.org/10.3886/E227104V1
     format: CSV
     status: Finished
-    size: 
+    size: 0.013
     download_date: 2025-04-18
     maintainer: DRP, DL
     notes: Metadata available as separate file

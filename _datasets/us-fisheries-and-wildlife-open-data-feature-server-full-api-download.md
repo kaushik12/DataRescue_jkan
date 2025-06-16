@@ -10,13 +10,13 @@ last_modified: 2025-05-09
 metadata_available: No
 metadata_url: 
 category:
-  - State & Policy 
   - Climate & Environment 
+  - State & Policy 
 resources:
   - id: 928
     url: https://sciop.net/datasets/usfw-open-data-gis-full-crawl
     format: GeoJSON, JSON
-    status: In Progress
+    status: Uploading
     size: 130.0
     download_date: 2025-05-07
     maintainer: SRC, TSHRMP

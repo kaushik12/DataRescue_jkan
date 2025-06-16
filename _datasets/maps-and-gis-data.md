@@ -15,7 +15,7 @@ resources:
   - id: 895
     url: https://sciop.net/datasets/doi-boem-oil-gas-mapping-gis-data
     format: Shapefile, Geodatabase, PDF
-    status: In Progress
+    status: Uploading
     size: 1200.0
     download_date: 2025-04-24
     maintainer: SRC, TSHRMP

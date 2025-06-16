@@ -18,14 +18,14 @@ resources:
     status: Finished
     size: 1.3
     download_date: 2025-01-27
-    maintainer: PEDP, EDGI, HD
+    maintainer: HD, CAFE-RCC
     notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
   - id: 201
     url: https://zenodo.org/records/14833639
-    format: Shapefile
+    format: Shapefile, ZIP, PDF
     status: Finished
-    size: 28.4
+    size: 99.4
     download_date: 2025-02-07
-    maintainer: PEDP, EDGI, HD
+    maintainer: EDGI
     notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
 ---

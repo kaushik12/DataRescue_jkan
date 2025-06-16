@@ -10,14 +10,14 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 208
     url: 
     format: Interactive Map, PDF
-    status: Finished
-    size: 0.0
+    status: In Progress
+    size: 
     download_date: 
     maintainer: ESRI
     notes: Local - ESRI; Identify which building codes an area has adopted by hazard risk, PDF fact sheets by region

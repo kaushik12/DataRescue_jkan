@@ -12,12 +12,12 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1016
+  - id: 1015
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%3A+%22ALJ%22
     format: PDF
-    status: In Progress
+    status: Finished
     size: 
     download_date: 
-    maintainer: 
+    maintainer: NLRB-R
     notes: Captured as part of NLRB Research a free database a researcher made.
 ---

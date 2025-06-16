@@ -15,7 +15,7 @@ resources:
   - id: 912
     url: https://sciop.net/uploads/d7c94efb457b7094b8f7497563801b62b9e49278
     format: nc
-    status: In Progress
+    status: Uploading
     size: 950.0
     download_date: 2025-04-12
     maintainer: SRC, TSHRMP

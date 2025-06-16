@@ -7,8 +7,8 @@ websites: epa.gov
 data_source: https://www.epa.gov/healthresearch/environmental-quality-index-eqi
 description: 
 last_modified: 2025-03-02
-metadata_available: No
-metadata_url: 
+metadata_available: Yes
+metadata_url: https://www.epa.gov/healthresearch/environmental-quality-index-eqi#downloads
 category:
   - Climate & Environment 
 resources:
@@ -16,8 +16,8 @@ resources:
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/A9ZHHR
     format: CSV, XLSX, XML, DOCX, PDF, ZIP
     status: Finished
-    size: 0.0
-    download_date: 
-    maintainer: EDGI, HD
+    size: 0.013
+    download_date: 2025-02-13
+    maintainer: HD, CAFE-RCC
     notes: 
 ---

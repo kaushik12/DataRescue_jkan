@@ -7,8 +7,8 @@ websites: eia.gov
 data_source: https://www.eia.gov/naturalgas/ngqs/#?report=RP9&year1=2017&year2=2017&company=Name
 description: 
 last_modified: 2025-03-02
-metadata_available: No
-metadata_url: 
+metadata_available: Yes
+metadata_url: https://www.eia.gov/naturalgas/ngqs/ngqs_user_guide.pdf
 category:
   - Energy 
 resources:
@@ -16,8 +16,8 @@ resources:
     url: https://zenodo.org/records/10635277
     format: XLSX, JSON
     status: Finished
-    size: 0.0
+    size: 0.002
     download_date: 2025-03-02
-    maintainer: EDGI, CaCo
-    notes: can't get link for definitions, sources, and notes section
+    maintainer: CaCo
+    notes: 
 ---

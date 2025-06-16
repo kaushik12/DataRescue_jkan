@@ -7,7 +7,7 @@ websites: data-nces.opendata.arcgis.com
 data_source: https://data-nces.opendata.arcgis.com
 description: 
 last_modified: 2025-04-23
-metadata_available: No
+metadata_available: Yes
 metadata_url: 
 category:
   - Education 
@@ -20,4 +20,12 @@ resources:
     download_date: 2025-02-06
     maintainer: DRP, DL
     notes: 
+  - id: 1056
+    url: 
+    format: SHP
+    status: Finished
+    size: 
+    download_date: 2025-03-06
+    maintainer: BTAA-GIN
+    notes: locally archived; full geospatial metadata complete for 91 shapefiles
 ---

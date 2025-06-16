@@ -13,11 +13,11 @@ category:
   - Climate & Environment 
 resources:
   - id: 203
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTQG6RR&version=DRAFT
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTQG6RR&version
     format: PDF, CSV, XLSX
     status: Finished
-    size: 0.41
-    download_date: 2025-02-17
+    size: 0.412
+    download_date: 2025-02-20
     maintainer: EDGI, BCECJ, HD
     notes: 
 ---

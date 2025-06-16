@@ -17,7 +17,7 @@ resources:
     url: https://doi.org/10.3886/E225581V1
     format: XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-04-04
     maintainer: DRP
     notes: Metadata available as separate file

@@ -15,7 +15,7 @@ resources:
   - id: 902
     url: https://sciop.net/datasets/centers-for-medicare-and-medicaid-services-full-data
     format: XLSX, CSV
-    status: In Progress
+    status: Finished
     size: 523.0
     download_date: 2025-04-26
     maintainer: SRC, TSHRMP

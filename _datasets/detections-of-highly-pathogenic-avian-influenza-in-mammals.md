@@ -12,11 +12,11 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 1020
+  - id: 1019
     url: https://www.datalumos.org/datalumos/project/229701/version/V2/view
     format: CSV, TXT, PNG
     status: Finished
-    size: 
+    size: 0.001
     download_date: 2025-05-14
     maintainer: DRP, DL
     notes: 

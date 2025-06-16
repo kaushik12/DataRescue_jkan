@@ -12,12 +12,12 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1017
+  - id: 1016
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%253A+%22Unpublished+Board+Decision%22
-    format: 
-    status: In Progress
+    format: PDF
+    status: Finished
     size: 
     download_date: 
-    maintainer: 
+    maintainer: NLRB-R
     notes: Captured as part of NLRB Research a free database a researcher made.
 ---
