@@ -98,6 +98,8 @@ def create_dataset_md(row, backups, organizations):
     dataset_path = "./_datasets"
     org_filename = slugify(row['organization'])
     org_path = "./_organizations"
+    agency_path = "./_agencies"
+    agency_filename = slugify(row['agency'])
 
     # Get backups for each dataset
     data_backups = backups[backups.dataset == row['dataset']]
@@ -150,6 +152,24 @@ def create_dataset_md(row, backups, organizations):
         output.write(org_md)
     
 
+def create_agency_md(row):
+    """
+    This function creates a markdown file for each agency.
+    """
+    agency_path = "./_agencies"
+    agency_filename = slugify(row['Name'])
+
+    # Creating the agency markdown file
+    agency_md = "---\n"
+    agency_md += f"title: {clean_text(row['Name'])} \n"
+    agency_md += "description: \n"
+    agency_md += "---\n"
+
+    # Writing the agency markdown file
+    with open(f'{agency_path}/{agency_filename}.md', 'w') as output:
+        output.write(agency_md)
+      
+
 def create_markdowns():
     """
     This function creates markdown files for each dataset and organization.
@@ -157,6 +177,7 @@ def create_markdowns():
     backups = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_backups.csv")
     datasets = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv")
     organizations = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_organizations.csv")
+    agencies = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_agencies.csv")
     categories = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_categories.csv")
     categories['Active'] = categories['Active'].astype(str).str.lower()
 
@@ -170,9 +191,11 @@ def create_markdowns():
 
     organizations = organizations.fillna('')
     # Remove files in _datasets and _organizations
-    # remove_files_os('./_datasets')
-    # remove_files_os('./_organizations')
-    # remove_files_os('./_dataset_categories')
+    remove_files_os('./_datasets')
+    remove_files_os('./_organizations')
+    remove_files_os('./_dataset_categories')
+    remove_files_os('./agencies')
 
     categories.apply(create_category_md, axis=1)
     datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))
+    agencies.apply(create_agency_md, axis=1)

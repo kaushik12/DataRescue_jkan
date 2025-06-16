@@ -40,20 +40,10 @@ permalink: /datasets/
     <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
     <div data-hook="datasets-items">
       {% for dataset in site.datasets %}
-      <!-- <dataset>
+      <dataset>
         <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
         {{ dataset.notes | markdownify }}
-      </dataset> -->
-      <div class="card mb-3">
-        <div class="card-body">
-          <h4 class="card-title">
-            <a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a>
-          </h4>
-          <div class="card-text">
-            {{ dataset.notes | markdownify }}
-          </div>
-        </div>
-      </div>
+      </dataset>
       {% endfor %}
     </div>
   </div>

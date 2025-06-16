@@ -24,6 +24,8 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: Agencies
+    url: /agencies/
   - title: Categories
     url: /categories/
 
@@ -35,6 +37,9 @@ collections:
   organizations:
     output: true
     permalink: /organizations/:path/
+  agencies:
+    output: true
+    permalink: /agencies/:path/
   dataset_categories:
     output: true
     permalink: /categories/:path/
@@ -58,6 +63,11 @@ defaults:
       type: organizations
     values:
       layout: organization
+  - scope:
+      path: ""
+      type: agencies
+    values:
+      layout: agency
 
 # Markdown settings
 markdown: kramdown
