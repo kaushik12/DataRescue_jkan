@@ -13,9 +13,9 @@ category:
   - Health & Healthcare 
 resources:
   - id: 1004
-    url: 
-    format: 
-    status: In Progress
+    url: https://www.datalumos.org/datalumos/project/227781/version/V2/view
+    format: CSV, PDF
+    status: Finished
     size: 
     download_date: 2025-04-24
     maintainer: DRP, DL
